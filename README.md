@@ -1,4 +1,4 @@
-# Python Projects
+# Projects
 
 ## What is this?
 Can you fucking read?
