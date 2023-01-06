@@ -3,6 +3,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.stream.Stream;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -24,7 +25,8 @@ public class App {
 
         ArrayList<String[]> s = new ArrayList<>();
         ArrayList<Persoon> p = new ArrayList<>();
-        Scanner sc = new Scanner(new File("C:\\Users\\Marwa\\GIT\\Projects\\ExamenVoorbereiding\\reeks3\\file\\src\\personenMetGeld.csv"));
+        String f = new File("").getAbsolutePath().concat("\\ExamenVoorbereiding\\reeks3\\file\\src\\personenMetGeld.csv");
+        Scanner sc = new Scanner(new File(f));
         while (sc.hasNextLine()) {
             s.add(sc.nextLine().split(";"));
         }
