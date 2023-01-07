@@ -1,6 +1,7 @@
 import java.io.File;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.stream.Stream;
@@ -25,7 +26,7 @@ public class App {
 
         ArrayList<String[]> s = new ArrayList<>();
         ArrayList<Persoon> p = new ArrayList<>();
-        String f = new File("").getAbsolutePath().concat("\\ExamenVoorbereiding\\reeks3\\file\\src\\personenMetGeld.csv");
+        String f = new File("").getAbsolutePath().concat("\\ExamenVoorbereiding\\reeks3\\file1\\src\\personenMetGeld.csv");
         Scanner sc = new Scanner(new File(f));
         while (sc.hasNextLine()) {
             s.add(sc.nextLine().split(";"));
@@ -36,5 +37,13 @@ public class App {
                 .zetOpRekening(Double.parseDouble(x[2]), true)
         ));
         p.forEach(System.out::println);
+
+        System.out.println("\n" + getRijkstePersoon(p));
+    }
+    static private Persoon getRijkstePersoon(Collection<Persoon> l){
+        Persoon temp = null;
+        for (Persoon persoon : l) {
+            if ((temp == null) || (persoon.getVermogen()>temp.getVermogen())){temp = persoon;}
+        } return temp;
     }
 }
