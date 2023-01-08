@@ -1,8 +1,5 @@
 package iii.ugent;
 
-import java.lang.ProcessBuilder.Redirect.Type;
-import java.util.stream.Stream;
-
 public class Bewerking {
     private String string;
     private double calc;
