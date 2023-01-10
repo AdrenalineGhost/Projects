@@ -73,6 +73,6 @@ public class Puzzelhulp {
         .reduce("-".repeat(lengte), (x , y) -> x = x.compareToIgnoreCase(y)<0?y:x);
     }
 
-
+    // This is a test for GIT
 }
 
