@@ -18,6 +18,8 @@ int main()
     eind = pointerNaarEersteKleineLetter(begin);
     schrijf(begin, eind); */
 
+	// test for git
+
     return 0;
 }
 void verzetNaarEersteHoofdletter(const char **pbegin)
