@@ -1,8 +1,7 @@
 package huisjetuintje.model;
 
 public class Coo {
-    public double x;
-    public double y;
+    public double x , y;
 
     public Coo(double x, double y){
         this.x = x;

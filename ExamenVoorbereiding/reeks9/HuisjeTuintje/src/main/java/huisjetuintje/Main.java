@@ -2,6 +2,8 @@
 package huisjetuintje;
 
 
+import java.util.stream.Stream;
+
 import huisjetuintje.model.Coo;
 import huisjetuintje.model.Ovaal;
 import huisjetuintje.model.Veelhoek;
@@ -21,6 +23,7 @@ public class Main extends Application {
     // (zie opgave, linkertekening)
     private Coo a = new Coo(7,2);
     private Coo b = new Coo(8,2);
+    private Coo extra = new Coo(8,2);
     private Coo c = new Coo(8,8);
     private Coo d = new Coo(7,8);
     private Coo e = new Coo(12,2);
@@ -49,7 +52,7 @@ public class Main extends Application {
 
     // declaratie van alle onderdelen van de tekening
     // (onderdelen van het huis en van de boom)
-    private Veelhoek gevel = new Veelhoek(b,v,m,k);
+    private Veelhoek gevel = new Veelhoek(extra,v,m,k);
     private Veelhoek raam = new Veelhoek(x,y,u,z);
     private Veelhoek deur = new Veelhoek(e,f,g,h);
     private Veelhoek dak = new Veelhoek(k,l,m);
@@ -75,6 +78,8 @@ public class Main extends Application {
 
         // stam en kruin worden verschoven (2 eenheden naar links, 1 eenheid naar onder)
         // vul aan
+        stam.verschuif(new Coo(-1, 0));
+        kruin.verschuif(new Coo(-1, 0));
 
         // boom wordt getekend
         stam.teken(Color.BROWN,context);
