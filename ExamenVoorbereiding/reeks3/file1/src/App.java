@@ -26,7 +26,9 @@ public class App {
 
         ArrayList<String[]> s = new ArrayList<>();
         ArrayList<Persoon> p = new ArrayList<>();
-        String f = new File("").getAbsolutePath().concat("\\ExamenVoorbereiding\\reeks3\\file1\\src\\personenMetGeld.csv");
+        String f = new File("").getAbsolutePath().concat("\\personenMetGeld.csv");
+        // C:\Users\Marwa\GIT\Projects\ExamenVoorbereiding\reeks3\file1\src\personenMetGeld.csv
+        // C:\Users\Marwa\GIT\Projects\ExamenVoorbereiding\reeks3\file1\src\ExamenVoorbereiding\reeks3\file1\src\personenMetGeld.csv
         Scanner sc = new Scanner(new File(f));
         while (sc.hasNextLine()) {
             s.add(sc.nextLine().split(";"));
