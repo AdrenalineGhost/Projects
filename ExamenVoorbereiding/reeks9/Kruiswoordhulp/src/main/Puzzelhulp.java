@@ -1,12 +1,14 @@
 package main;
 
+import java.io.File;
 import java.util.*;
-import java.util.function.IntFunction;
-import java.util.stream.Stream;
+
+import javax.xml.transform.Templates;
+
 
 public class Puzzelhulp {
 
-    private List<String> woorden;
+    private List<String> woorden = new ArrayList<>();
 
     int countletters(String x, char...letters){
         int temp = 0;
@@ -16,7 +18,14 @@ public class Puzzelhulp {
     }
 
     public Puzzelhulp(String bestandsnaamWoordenlijst) {
-
+        try {
+            Scanner sc = new Scanner(new File(bestandsnaamWoordenlijst));
+            while (sc.hasNextLine()) {
+                woorden.add(sc.nextLine());
+            } sc.close();
+        } catch (Exception e) {
+            System.out.println(e);
+        }
     }
 
     public int aantalWoordenMetLengte(int lengte) {
@@ -31,7 +40,7 @@ public class Puzzelhulp {
         return woorden.stream()
             .distinct()
             .filter(
-                x -> countletters(x, 'a','e','u','i','o','y') > x.length() - countletters(x, 'a','e','u','i','o','y')
+                x -> countletters(x, 'a','e','u','i','o','y','A','E','U','I','O','Y') > x.length() - countletters(x, 'a','e','u','i','o','y','A','E','U','I','O','Y')
             )
             .sorted()
             .toList();
@@ -39,15 +48,29 @@ public class Puzzelhulp {
 
 
     public void schrijfWoordenMetLetters(char... letters) {
-        woorden.stream().filter(x -> x.contains(letters.toString())).sorted().forEach(System.out::print);;
+        woorden.stream()
+        .map(x->x.toLowerCase())
+        .filter(
+            x -> {
+                for (char c : letters) {
+                    if (!x.contains(Character.toString(c))) return false;
+                }return true;
+            }
+        ).distinct()
+        .sorted()
+        .forEach(x -> System.out.print(x + " - "));
     }
 
     public String alfabetischEerste(int lengte) {
-        return "-";
+        return woorden.stream()
+        .filter(x -> x.length() == lengte)
+        .reduce("-".repeat(lengte+1), (x , y) -> x = x.length()>y.length()||x.compareToIgnoreCase(y)>0?y:x);
     }
 
     public String alfabetischLaatste(int lengte) {
-        return "-";
+        return woorden.stream()
+        .filter(x -> x.length() == lengte)
+        .reduce("-".repeat(lengte), (x , y) -> x = x.compareToIgnoreCase(y)<0?y:x);
     }
 
 

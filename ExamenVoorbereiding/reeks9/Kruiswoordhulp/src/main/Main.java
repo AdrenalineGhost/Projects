@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // AAN TE VULLEN: als het bestand niet gevonden wordt, dan vang je de fout HIER op.
+        // TODO: als het bestand niet gevonden wordt, dan vang je de fout HIER op.
         
         Puzzelhulp scrabble = new Puzzelhulp("puzzelwoorden.txt");
         System.out.println("met lengte 4: " + scrabble.aantalWoordenMetLengte(4));
