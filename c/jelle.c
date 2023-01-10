@@ -11,12 +11,12 @@ int main()
     verzetNaarEersteHoofdletter(&begin);
     printf("%s", begin);
     /*const char *eind = pointerNaarEersteKleineLetter(begin);
-    schrijf(begin, eind); /* schrijft 'WIT' uit */
+    schrijf(begin, eind); */
     /*printf("\n");
     begin = zus2;
     verzetNaarEersteHoofdletter(&begin);
     eind = pointerNaarEersteKleineLetter(begin);
-    schrijf(begin, eind); /* schrijft 'ROOD' uit */
+    schrijf(begin, eind); */
 
     return 0;
 }
