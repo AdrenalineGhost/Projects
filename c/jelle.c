@@ -19,7 +19,7 @@ int main()
     schrijf(begin, eind); */
 
 	// test for git
-
+	// test for nano on github cause why the fuck not am i right :) hello
     return 0;
 }
 void verzetNaarEersteHoofdletter(const char **pbegin)
