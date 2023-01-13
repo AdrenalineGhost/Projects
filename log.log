@@ -1,0 +1,188 @@
+commit 3359ffa3145248ef4b503e9943182ab3dacc1c74
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Fri Jan 13 01:33:06 2023 +0100
+
+    had some fun with argv in c++ and using nano
+
+commit 079568b4c7ad5e0564e47a46383b0ac322d4c7f8
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Thu Jan 12 15:53:10 2023 +0100
+
+    removed the exe files for less clutter in c folder
+
+commit 73fdbe3db4671d6c4a5f8591d2a1f41eaff948e4
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Thu Jan 12 13:35:08 2023 +0100
+
+    test to see what fetch does
+
+commit 149307972e9b5e777e7daa41fc813a29b1923917
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Wed Jan 11 08:06:56 2023 +0100
+
+    before exam generics
+
+commit 37b9dd7420801a4ab755997f6e47f8b7a2d5e1d2
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 21:32:06 2023 +0100
+
+    Reeks10
+
+commit bc2a9d64b64455ef6c865ba602abcc03baad1506
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 16:58:47 2023 +0100
+
+    fixed the exersize like asked of me
+
+commit e263454bad5fd2250a0df9ec374a48b7ef40d316
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 16:49:17 2023 +0100
+
+    added oef4_huije_tekenen
+
+commit b19d4b7ea02dd38ae1baa2ac9c5a77d8bda66681
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 15:58:37 2023 +0100
+
+    removed testing files
+
+commit fdbd2a1d30d5b5c8c026842530fb4e17ca2e72b7
+Merge: 1585ab8 c21bb68
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 15:49:55 2023 +0100
+
+    Merge branch 'testbranch'
+    test for my branches
+
+commit 1585ab849a1afda88a66ead5fd846e81ee725e77
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 15:47:31 2023 +0100
+
+    brach test 2
+
+commit c21bb68472bca2f99d7b8fc5c83cef19a6b358ce
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 15:44:40 2023 +0100
+
+    branch test
+
+commit 5b762b6e97b5bdf5fad89058c1ca5aabfe639ab5
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 15:38:21 2023 +0100
+
+    branch test
+
+commit bb67304eb15a1e2421d456112842c754740c3929
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 15:34:48 2023 +0100
+
+    git test
+
+commit 929645a79337dcf7c5fb477ab19fb99d40da2891
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 15:16:46 2023 +0100
+
+    git test
+
+commit 5ed2995b8a2072069ac5b5fdffec917917009250
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 14:51:29 2023 +0100
+
+    reeks9
+
+commit 3c8b6ad27cbb502ab5590ddbcfb435d6a831d505
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Tue Jan 10 13:14:56 2023 +0100
+
+    Reeks9
+
+commit d0502e81da2e155ef30f570e2e0a420ba4f007bb
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sun Jan 8 10:54:02 2023 +0100
+
+    removed unused imports
+
+commit ecad0091ad2faee58f1f360bf12c57687908fff8
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sun Jan 8 10:41:32 2023 +0100
+
+    Copied C file over to git
+
+commit 6eed4d897930c1953d4be6a9720a5bc4a71334c2
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jan 7 17:33:45 2023 +0100
+
+    Reek3 t.e.m. oef 5
+
+commit 6a1b5205cf696b4db2087e28ca1a2aa7fd1b7aac
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jan 7 13:17:28 2023 +0100
+
+    README changes
+
+commit 586208f66f43520b6e191a9478e39fcb4b4da139
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jan 7 00:58:30 2023 +0100
+
+    marked run cause it looked cool
+
+commit f6e09ee11485d438774297aa82f409c1ceadbb95
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Fri Jan 6 22:15:05 2023 +0100
+
+    Reeks3 abs path
+
+commit b925f2061895ebb64d8c1006072af486cb76a68a
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Fri Jan 6 14:24:26 2023 +0100
+
+    Reeks3
+
+commit 882dcf4c2f56d442fb8acaca95265aac0625b12c
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Fri Jan 6 11:44:21 2023 +0100
+
+    Reeks3
+
+commit 65dac53866975b8f0aff67c342abdec486592b14
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Mon Sep 26 15:14:52 2022 +0200
+
+    Update README.md
+
+commit 916dcb5c9c7d03836af6412672ea540670877025
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Mon Sep 26 15:12:57 2022 +0200
+
+    c first tests
+
+commit 0933e478c751cec8942e9777a7f66954a58bfca1
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jun 25 19:16:12 2022 +0200
+
+    Changes mad to readme.md
+
+commit 1ece1763986ccbc449656bcf804a023c2b034187
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jun 25 19:08:08 2022 +0200
+
+    yes
+    
+    Deleting the random files
+
+commit 05267a77ba8f85375d95636109853cf11ae6b353
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jun 25 18:42:08 2022 +0200
+
+    Create test1.py
+
+commit 03600cffd8a8f4ec2be8cf8ed01355594638d005
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jun 11 22:14:31 2022 +0200
+
+    all my previous files
+
+commit 176876daa69a54e51bb18f7d88b3930c3183c1a3
+Author: AdrenalineGhost <marwan.elk2002@gmail.com>
+Date:   Sat Jun 11 22:06:56 2022 +0200
+
