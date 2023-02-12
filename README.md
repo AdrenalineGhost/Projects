@@ -1,18 +1,15 @@
 # Projects
 
-## What is this?
-Can you fucking read?
+## TODO
 
-## FAQ
-- I have a question
-Okay.
+- Wave function collapse
+- Discord Tex Plugin
+- JS
+	- ReactJS
 
-## Other
-- I
-- Have
-- Nothing
-- To
-- Explain
+## CONTENTS
 
-### In other words
-_**run.**_
+- Examenvoorbereiding -> Java
+- c -> C & C++
+- py -> Python & Jupyter
+- ...

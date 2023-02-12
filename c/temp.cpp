@@ -8,7 +8,7 @@ int main(int argc, const char *argv[]){
 	if (argc == 3) {opened = atoi(argv[2]);} else {opened = 2;}
 
 
-	cout << "started" << endl << "argc= " << argc << endl << "tabs=" <<tabs << endl;
+	cout << "started" << endl << "argc= " << argc << endl << "tabs= " <<tabs << endl;
 	int counter = 0;
 	int number = 1;
 	while(number<tabs){
@@ -16,6 +16,6 @@ int main(int argc, const char *argv[]){
 		number += opened;
 		number -= 1;
 	}
-	cout << "ended with " << number << " tabs and " << counter << " opperations" << endl;
+	cout << "ended with " << number << " tabs and " << counter << " operations" << endl;
 	return 0;
 }
