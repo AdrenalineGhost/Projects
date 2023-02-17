@@ -1,301 +1,301 @@
-Text:  == WjmsdnddnmQPZPPJPL == bQllTtpBlgwtrbbCwfZcfSFPSfLCSF
+Text: WjmsdnddnmQPZPPJPL == bQllTtpBlgwtrbbCwfZcfSFPSfLCSF == 
 None Found?
 
-Text: GgVgQrlpphBGrlVGgTtsRHRWVRMzRdVsqdnDnV == MMTcbpnfNGQbMjgsRwSzRptRzz == lPqCCqQdQqQmCPRzRVSwtzgqqwqR
-Found common = g with 7 being the number.
+Text: MMTcbpnfNGQbMjgsRwSzRptRzz == lPqCCqQdQqQmCPRzRVSwtzgqqwqR == GgVgQrlpphBGrlVGgTtsRHRWVRMzRdVsqdnDnV
+Found common = Q with 43 being the number.
 
-Text: lrDdllPdBWdDFQFnMbDNDn == FldWTldlpBSLzvpnpSTpWbDhbHNDPHhJcNHNDwbH == qVCGQRGrrgMQrJhPNchgvgJhNc
-Found common = P with 42 being the number.
+Text: FldWTldlpBSLzvpnpSTpWbDhbHNDPHhJcNHNDwbH == qVCGQRGrrgMQrJhPNchgvgJhNc == lrDdllPdBWdDFQFnMbDNDn
+Found common = N with 40 being the number.
 
-Text: frjGfMrGQMjsRrRQjvQGmrQQszTTpSLBznlzBlLLSBLLSZTn == TPZZZMTTbNTZNtTlTbjPVRVGzpGQLLzdGgmslhzSzgLzQh == wrfwDDvcnFvCfrrSQsmzGGQQdndsGg
+Text: TPZZZMTTbNTZNtTlTbjPVRVGzpGQLLzdGgmslhzSzgLzQh == wrfwDDvcnFvCfrrSQsmzGGQQdndsGg == frjGfMrGQMjsRrRQjvQGmrQQszTTpSLBznlzBlLLSBLLSZTn
 Found common = G with 33 being the number.
 
-Text: qfHwHCqCqCrFJrcBHCCJRmWTRTmVMttjRjRHZMNV == vpbqnzbPmWLFjFLBnjZg == NltQcCClQlcGQGtMTCRdGTGBFZRLZjFFZZhBPLrFHZFjHf
+Text: vpbqnzbPmWLFjFLBnjZg == NltQcCClQlcGQGtMTCRdGTGBFZRLZjFFZZhBPLrFHZFjHf == qfHwHCqCqCrFJrcBHCCJRmWTRTmVMttjRjRHZMNV
 Found common = F with 32 being the number.
 
-Text: lMtlGMwMsCCNlTwtsCPzzmPmmVpmpWqVWsWz == VmWVSchSrScGtwlVtBnwBVFF == RZZPRNpPCLZvZPZNCLbQPZNBFtttmwBMTMTtttCwtgwBgl
-Found common = l with 12 being the number.
-
-Text: RNNmPvbQQjPRQQNNHpNbhsfzWJqqSJcsGHhHcfhq == dtJvcpccWvLDztRCRRCrCC == qHVslPzPqHqzmPhTzmDFggjrHrSCNFFFSjgR
-Found common = R with 44 being the number.
-
-Text: qPVPMhszZPVhwBZcdpvZJncbcJ == HBNLlBDtvLDHhHLvfwlFjqfQTFqqWfST == ddsGcggJncZVRdGCdZdcWWzSFrjzQFrfTzqfCjFw
-Found common = q with 17 being the number.
-
-Text: VdgscZmbZNBvbDHTbL == GtSZQqpHpHfGHzzqHzHfSbPbnJCrRCnJChmjnJnbSh == DvcTNTDWlNDWdlbnnbjmRhRrCCRd
+Text: VmWVSchSrScGtwlVtBnwBVFF == RZZPRNpPCLZvZPZNCLbQPZNBFtttmwBMTMTtttCwtgwBgl == lMtlGMwMsCCNlTwtsCPzzmPmmVpmpWqVWsWz
 Found common = m with 13 being the number.
 
-Text: cclNlwBRvvTNccRlBNRspVLLZzVzVZQqfqqLpzpw == dBSfHdZvMQMdNVpWRmWmLCmmtB == rbTTrrjDcqcrrqrjjJGGclltPCWDmvtpmpPpvRDsCspsLC
-Found common = R with 44 being the number.
-
-Text: vlhjThlqcjrnTvThndddHZngMnfwNQFNFM == tHqfszrgLsvgqtHrHtwVCGBRRjGSCwsCsmmV == MdFMclPmcDQFDlDdlZPmbVpCbFpCbBSCCRGCFpbV
-None Found?
-
-Text: mcDJdDQMcDTZQhhNNPldhhDtvHLgqtzgLvzTzWHWnWfvvz == sVdGlTMMVTGCdsTMHHWWnNBzNWpNWCpW == mPmjFhlwmwmWrpSrSWHB
-Found common = l with 12 being the number.
-
-Text: jhPhjwgthtFFjRwjZgjGdJcdflfqMsZLLsdZdc == CBRsTsBBzLCfLqtqBRPNDQglSttlcgDlgGGt == rJdbrJjrdbVJZdVZCGrNNcgDQlcQrggl
-Found common = g with 7 being the number.
-
-Text: FpFbbppjFCdwmTvsvfzmTnTBfq == cqhcWqqCNjGWqcqhGGZzngftmptLZLGZTn == brJHBbPVHPvSsdHrzQLzZgpfVzpfQtnL
-Found common = p with 16 being the number.
-
-Text: dHFPBPrBJFRzcWNFhWwN == QTBTfQTZsjWDJBJd == FgFWNqWGDPqlPllp
-Found common = W with 49 being the number.
-
-Text: CCvHzSWFrrtvNvNNHLGQQfbVRRfHZcZcVTTTnZ == ZCCHHCVRZzBZQThM == nljDtcqnhcfbwjwltfLQMLLQQppJBMLQJL
-Found common = Q with 43 being the number.
-
-Text: qDsqschsqblDqjcqtRmNVVdNsddNNPmFgV == QQRnqGBSpQnMmSGmRQQFtdcbbtHHccjpTFcTfF == wCNPNwNNWNgZHJHJFffqCjbj
-Found common = q with 17 being the number.
-
-Text: ZNPzNWgNrsmzMVqsqs == pVWlMBWjlWWqspWDjdjMpMDCPtmmdbhtQtQtbGPCzChchz == HZNgrHSvHwnFZnvgNvnwLPBGQHmCmtPmtBCGGCmQhG
-Found common = P with 42 being the number.
-
-Text: FrNfvSNSZLZJrJsVlRWWWqRBVTff == PQctSHQDPSQcbShpFzbmFddpmdmR == wqWVwvwNCJRhmdhwJw
-Found common = R with 44 being the number.
-
-Text: nMnWggVqRVZqHBSBsQsQGDSZ == qppwrgZSLsVbbfvZ == hhBHPQQChCDcPcsvvhbGbsllJTfv
-Found common = s with 19 being the number.
-
-Text: MDWmWFCPFWtgpRWjws == bmRjdmrJRjhJdJLZBjTFfHGTtQFTSQBS == wCNVnsspwsnvNDwnsDwSBHtDHHQGTFQFtMrQMS
-Found common = F with 32 being the number.
-
-Text: nWsNvqVgVcqdJrchrz == MZlfqlmblmMRWhWNsjSQfh == CznczgtDFnVtFBNSRNttvhQsNh
-Found common = s with 19 being the number.
-
-Text: SGDFzVrzVPrGHVnzCPVnlZlPwTbpTqlbqLMpbLlq == lbbbGDlwLDLjvDvm == FQfQnLTWVcPChtjmjWSj
-Found common = L with 38 being the number.
-
-Text: cfgzzgfgfVdzTdfNwBpbLbwdRbpZGrdw == mwnWtbmdWdccwtgTmwnQfPqsqLQQJQQLsfQQ == SjrZbhvBZzPHQqfGJfjG
-Found common = f with 6 being the number.
-
-Text: FlrMBSvMZZFBZhShMMdctWDtmFNDbDTmtmpt == ndHWprpqFTnnpdNFlhljzlGTwDGzlhGz == fvZmmVVfJctMZsgMgmcBmsZhwQlGDCzPPZWDGDjCllhC
-Found common = l with 12 being the number.
-
-Text: WsmvmsmRNnpRHdbS == LgZSvhvcsWtcWnjrFrWjjjnPWW == DJDfNlDNRFlpMlFLFP
-None Found?
-
-Text: TmqTqDHdmfwJRwfdQJLHzzSggHZZcGzhtZvcZhzG == lbTpqhhgSlgtlTqSDzzLPPPrLGTTGnLm == VwGfQGBGZWNnmDLPznLB
-Found common = m with 13 being the number.
-
-Text: vQdfZFWvFMMFwWGGhpGqJbpFtgbS == hSvCvFRDwmzCCHrszb == jdMgfTblgjJTLLLzqqGscmPmlqPzHc
-Found common = b with 2 being the number.
-
-Text: bjQLTTbZMfJffZBBWdjBBQwVDntFpRvvDVvSnhppFv == FFnFQndPqzmjHscmJFwc == ZrZrRgDphGGDZgRRBSBNMHHvmwJJSNJHcv
-Found common = J with 36 being the number.
-
-Text: DGrbbthfWWWDgtfffttfpGPVqnmblqPqCdQTlTPCzTll == sHTsGrHpsftmddRRZfRv == MqFcqcMQbMcVPCdFZCzZsRsFzL
-Found common = d with 4 being the number.
-
-Text: qnVlBbcJJbbMcbgQJMMbQlDWWwHWSWwpTsGHGrpDWG == qpmvVVcGvVVcVmDsCfqTHLLJzTjfZzLZ == rSSgwwnSRRBrQrZzZHCQrZ
-Found common = H with 34 being the number.
-
-Text: BFgFRgdNnSBbbnhSMBSNFdsWVtpWmzsGtvpVPvGWVDDN == fBBRfJBzzMRGRzCBgWtbCWtbgHHHWdqt == mvNcDcsDLLnnqfbv
-Found common = b with 2 being the number.
-
-Text: hpTsTsTrDrfpMSFFZjPFMrSP == CNQGGDMFWGnWWvvNMQFPvrgzBLVBLszwgggLgw == mppZVZtZRTbTTpRccVbgrSLzSPSzBrfbPBbSPw
-Found common = r with 18 being the number.
-
-Text: VtZJhRJcTpJTHlhtHZCFFWFjNjGGnFhCqDqG == cppcZGcGgGpdTgSSnmpFMFrFzmwqwmrHwz == RStQJNCNvfBQNjrqmrjFrBMzFB
-Found common = F with 32 being the number.
-
-Text: LJDNNJCDLcdLnSVd == gNrBNSrNNtSjBndzmzlVnm == MbfqfpCLpCsLqsLFSbQLfnMdcdRRcdzldlnljzncnJ
-Found common = d with 4 being the number.
-
-Text: QPQLqZqhSqhvtvTTWrNg == DtrrcGvtLnrrvLrfctfHztrfQpbwwphpdSbbPPPwFSFFRPwH == gggBqTNdTNjqWBlNmCqCmNggQPhpPPPbhhQpSBpJwbSJSQFR
-Found common = Q with 43 being the number.
-
-Text: ZglTmgWNgVZMZdsGMcvDcMdMnz == bjtTFsPmmtpvVlQHlQJQnJjn == WzDzwLCSLrrDNLdrSZRCwNzrlQlJMnJQJJVhbcMhgllwnJQh
-Found common = l with 12 being the number.
-
-Text: fRCZzrWRzzGbGvTmBPTf == lVlfJVblPQbllflfLdJdvGpjnFRFqJFnDqpJjnpF == HcwZMgmwWCHHCSwcWCcgSCtCqqpFppGDqvDnRhgnnqFDpjFT
-Found common = R with 44 being the number.
-
-Text: cwCHtGrCssWHCCWZZMbPPNBVbNfVbPllVszf == DSpSnRwrZDPWsJdZ == zjjlQVjlNZmCVCfhCfgFFfFFFqWJbgbFWHJH
-Found common = W with 49 being the number.
-
-Text: lNQMlGjQBZjCmhNMCChGzlVNrpTnccLLwcRwTSppSpprLRcB == vLfvcgglbfLfgqdgNpPtzqDmPzmJTTztPCHT == ZWSQVGwQcWjSshGwVcnSzDJZtPPTzmzzJHCTzDtJ
-Found common = C with 29 being the number.
-
-Text: SjVSrWVhQVQhwrLMcrFbfplcflvv == NgtfSRPnnRrSlgsPhnShDWQlMWpVBMMMpCWVBpCQBB == LLJnvwJvZHZbHTbVCQBppCFJCWWQBz
-Found common = V with 48 being the number.
-
-Text: wHTGZmZvdvLvjLwZdqngNgsGtrDPSDhtNfDf == DwrDRlrwmbSbRgwsSbRwGJvQGqjJqGNTJTNGTSGn == PZdMZzCQFBZWWFQvJZvcNcjqNjjZJG
-Found common = G with 33 being the number.
-
-Text: WHWCFHBBdzzMWhPFtFdMzlRsVbVmDrRVVrtQplwVwD == bpWbJMWpJbprfNMrBfJfprWhPnGtnHnLHjPPjLvsWnHGvGvj == qZdgVVgDQhQZlwcqgDcchldjjmLtntmntPQsmLnLPjssnL
-Found common = h with 8 being the number.
-
-Text: RVRlgcSSdglZczdqbTCrhBrBpNBSBSbF == SgbGvfbnGgmnNnnzqMqqHHRzbZBzZR == TWlssdFwWdtswWPtTtWltwdVHlZZzRHZBZRzrprqHMpqgZrq
-Found common = R with 44 being the number.
-
-Text: dssdCWTFwSvgmDjDCG == pqsDnNzzZsdZSnDSpwjBCBWvgjvWjNFWQgWC == lVGtRtLMGGfbTGTtTbQCQnBQBnBFgFQcgjfc
-Found common = C with 29 being the number.
-
-Text: GPbTbPtnPttmLTGRRbtmdwSDwpwwhZqmdpzDhDJd == MdccRQMJvHdgZggvhjjMgHcHlWWqFFWmGqFbJWzzFLWlLmPm == TDpSsTrtblSzQlGQ
-Found common = G with 33 being the number.
-
-Text: tfVNrwTwtswTssMRjMMQQddNMRCd == GqGqGpFqqgDGFRqDwwqqmzpGTLPvVWMPVCPLJLRJJMLTlCWV == rHrSbrsbQcbtdNHHHfdPlvWBLLWlvMTVlVLCJf
-Found common = V with 48 being the number.
-
-Text: rccbtthHSHsNHrrcttwqpnDFnMmpnzFnFhnF == vQQQbRvlLjNNLLBzNllNHNBqGqhMWhGGhTqmPmqhWTFhRm == tnsZwgSnCDrZSCDsfTMSGpPWmPSWmGmbFq
-Found common = b with 2 being the number.
-
-Text: CrVnfnCCtrCgfrffcrstDnJNlvJdNvzdBcHdLBJHvbBv == nmQsMqTnLlmmpQZmTZcdHwCFSpHJSSWHSJVSWSHH == vRgRRtfPvDjzDgDbsjzRvjfNNWWCSJFwrHCFbrCJWJHCSC
-Found common = C with 29 being the number.
-
-Text: GhsRBztDBgzRPstgzBLZcqmlcLMMlmdLQBZT == CWfvvhfWrlllSSRrdQrQDQGQdTRr == jsNctMZLmMZLMmmmbbNZswZNqBTHPHzBMHHTMGqBRMRPDQqP
-Found common = G with 33 being the number.
-
-Text: jcwjntLngngplgFhgRvJVp == vchzqzwlhzRqzVZQwqtVPZLnLLbDnDFnbGLnDbPLDGWD == pBTHpdpHsrNBBsgdrdCpCpCgRFCMFDLFWWnFWLRRGWbDFGSF
-Found common = n with 14 being the number.
-
-Text: prsBHfggjpjjcRQlqvtw == VDwzLQrDDWrrwWbJrVJwVrVQfMfSCNPMfSlMlPcMmThChf == tsjFdsRsgtRmGZHpHRgBClSlGSClcPhGCfPlllll
-Found common = f with 6 being the number.
-
-Text: qBBFBZZpmgdFHdstjFJbzVwJVqJWWbrvWJDL == mgjZmrqmdsmGtDplglJgRVVc == nPhnLvnHLtLnWzzcNwwcchVJRflhpc
-Found common = p with 16 being the number.
-
-Text: SnnLntLWZsMqZrSZ == jcrNfnrNLNNqFgbDfCSgSQbS == zPPHtMrGGptvTWPVvzvHRgQsbDsSRRCCQbtJsJDS
-Found common = S with 45 being the number.
-
-Text: wHzrWVzPwThGGwMHzTGGPGwhdlZnBndZLljNjBcLdZdNBN == qNPhNqddBNhqvPhFvllNgNBHCrrCQnjpCfPVJnnJQJCjJj == ZZbZTZcmGWWMDWRSDnBVQCjVDffJjnnVCJ
-Found common = V with 48 being the number.
-
-Text: SGBRTTZGGcLSSWTScsmcMbGlhgwFqslhzqggghwhNvwwvw == GCCPwpsBqNSsBPpSCrSshzQzLhTvQhqTnhtTVQcT == JDjFJfMJgWbWWlDJcnvvhvtdLnjnzhjz
-Found common = c with 3 being the number.
-
-Text: FlDflbZfZgJgMgbmgZJfSpGCvvrGrRCpCBrZRprw == HwqhgFGSMgPPCGQQQnvvcpjn == BllbdfRBsBmsmZlBTmQCjTnNWNCmNmvc
-Found common = C with 29 being the number.
-
-Text: lJDlBflDdbbRlLbfsbZBJtbRqrVFPnwwwhVMHwVrgJwwrSwH == LTvLtTFLCddFTTthsbVVmHHcqVHmWRcmHL == lBgwwNggwMwNVbjBCQcCqCRB
-Found common = b with 2 being the number.
-
-Text: nCMCwZGGNGJnGhtrzsdDDndtsF == ZlZdJJplLZBDpJjNJlGjQCLmCQmTwVVCbQQbqWCT == SfgFzftrnRzMnVbPPPQmPq
-None Found?
-
-Text: FfmrRvgShchvFfghzRvgtvFBpJDpcGNGdBHJlpDDDJlDJZ == LdNrLzjdWQnrDHsD == tBZmBZtVZpldVMPRnsRQsnnsHVbRHs
-Found common = d with 4 being the number.
-
-Text: MlfldwMBBFMZTSFTSqLqcvSJ == nJqBlvvBjHhBcqqRrGPrTrGpBCGzTG == MfVCVMLZVZtQCdtLMtQtQSSSTSzFRSRPFpFRGpdTFd
-Found common = T with 46 being the number.
-
-Text: CCQQtQVgfbbQNggsNfQZZbHbcWmnhlhnvlnlHjJWvnhv == SGmmGwVwnmhbhnhwhhwbdMgNNgjmvMDrJTCgmBTBBj == ztFWcWQQfcRzzRFllvjDjggjDDfBgJMBgC
-Found common = C with 29 being the number.
-
-Text: QtzcJtFtqcFQRRWRRQWFzFGpVnVSGLLGZVGVqddbLqGL == tBmdmQtjMMqDLqBtttQMjDdwwgwccMMbffllgzncwfFflF == TPVHTVsRsJVHVrVvHvrRhVJbfCgFbzwbCGgFlwgcCwbn
+Text: dtJvcpccWvLDztRCRRCrCC == qHVslPzPqHqzmPhTzmDFggjrHrSCNFFFSjgR == RNNmPvbQQjPRQQNNHpNbhsfzWJqqSJcsGHhHcfhq
 Found common = z with 26 being the number.
 
-Text: hssVWnRrTVZSSZZqjLddWtLBddqtQL == WhhtGZtZGQZmvCfCwtvhqgbfdDJdfjlSDlSlBBJDSg == rHnpFHnDrdBggJngnL
-Found common = d with 4 being the number.
+Text: HBNLlBDtvLDHhHLvfwlFjqfQTFqqWfST == ddsGcggJncZVRdGCdZdcWWzSFrjzQFrfTzqfCjFw == qPVPMhszZPVhwBZcdpvZJncbcJ
+Found common = w with 23 being the number.
 
-Text: HVcTzFPNzTpPPVrzmtwtvvvmNQwDQvWw == dStBwStGGBrNnBdrSSMzvjhgFcvvDcnnvPDn == RLZbCWWJbHRsTHspZWLcDWcPPhzczfjgPjjvjz
-Found common = c with 3 being the number.
-
-Text: ZmLHJqJsLJJHLRsmmmGSztQdQzmNBrBN == JrmRVdvcmvvmvvRTdBVVfjFQLwjqLFLWFMqwcFjz == DDhhttDHHHbHSnsDbHqMqzwQLLFwLsjjLLQf
-Found common = L with 38 being the number.
-
-Text: bSbPthtgGQPNPHnSDChCRJZZJRCZdCrCBZZZZvJd == rqvVqNJpVVNwnqqTwthMMq == jsFRFDQRLQDQmsPRmQsmcQFMzGhwBGBhTzTTzHnRhnhBhRwz
-Found common = h with 8 being the number.
-
-Text: dCccQcQsFCmCQfbJbvZMNZfJrJll == TGjrrTRLHvrQrFDCrmzzVm == NwWqqhndWtzDQhCzVCsh
-Found common = C with 29 being the number.
-
-Text: CSSwNNwqgBBBBbGGvLTTvb == fRBRBHCVRRzcCdZHvRvZVCZLNjtwtNwNTtLjNtTpTNttfS == DZshMssZmTMjwjSLtw
-Found common = S with 45 being the number.
-
-Text: QPrJDDJsPDFmFrFDscHHRzrcvccCZRVzrR == zgqzLLvlvdgpgrWpWW == RnJmNRncnScFmZSScrJQQdbpGdHbWHtPHpBHsdFdsW
-Found common = r with 18 being the number.
-
-Text: JDfRcrSnmDSJcNfrNZNjvlwjhllhMzlDqMqMvh == fDLzSMLhhtDWMvtjCRRZjCHHJjChHN == pmTNpVwPNbPwPBFRqRJqjCnFjZFV
-Found common = J with 36 being the number.
-
-Text: dTwpddsTbgbQBssprsgtvgcNLzWMctfSgcfWLt == fbBsBTsNDhGBGZcLLLJJQffQLQ == MpsCCMHClsHQqZcQWLqR
-Found common = s with 19 being the number.
-
-Text: FtjdCFzVljFlslVCpFrFjPhggBGDgNSTTgbGNmbGTr == HqTfmsCFmPlGHddNVGpLhz == JjjcQQJgjZvZZzzwgpNVGwLGgV
-Found common = z with 26 being the number.
-
-Text: nQnSbDDRbSQJQQpRZtZcZZsPPrFfWCPFWlrFsFPqmqFt == TgTDDrCmqJDGLrhqLmLGqDQRFtttjMbQZJjtdtjFdsdF == WHffcHWnlvvcSSWzPVvHpWWVRbFdQQtQnjwZFMwZtwddsZbd
-Found common = Q with 43 being the number.
-
-Text: cBpPplVVPfvVGBDLGCBqmmLM == dlMMmnmjvCCjJrrvMdgHcbcFbqFbzQrFbGzb == tPhRBRZPtZRshTzRsNShRZNGDfGgFFbFQqbGHDHbqfGD
-Found common = G with 33 being the number.
-
-Text: TSPhBVsTwRBTpVtRZpVhZLJjWzLjJlJlJvmwWWzwWn == WcvLLgLcczLTDtccbLcgzMMfPsGwRPjwfMwHMfMvMp == QVmlPQCdJlJJJlFJJJnPQQhlwwMMMnMwNMpwMGwwfswwGMsR
-Found common = P with 42 being the number.
-
-Text: lrSCZZVFhPSZgzgWttWBcc == bwbbZLlbwlJhBzFCgtTGRGQldQRmQW == SSnpHnPHqpmggCWgdT
-Found common = C with 29 being the number.
-
-Text: PPscHHTfcsPSDVfVssjvwFJLBJFjFJJZFJLNLwrL == nLgDSHgwRgGnHjjNfTRhjPVpWV == BstQsvhQZQQbMvCvMPVNWpPcTjfmPmmW
-Found common = P with 42 being the number.
-
-Text: brtCrtvtzrhdSDJDwh == dTQTwgmZQbDzzMQCCl == WLLtntFnfnRHbttnSRRzSMVGDDMGzVlV
+Text: GtSZQqpHpHfGHzzqHzHfSbPbnJCrRCnJChmjnJnbSh == DvcTNTDWlNDWdlbnnbjmRhRrCCRd == VdgscZmbZNBvbDHTbL
 Found common = b with 2 being the number.
 
-Text: JsPhFtfbLWnsLPLqgdJcjmcwTwjcdw == wMwMbMRRBBMLPBlhLRQlhPcWzgJNvJtzWNtJptpgjJgpBj == TnmGGmVnFFNSZsnZqFsWzWjrTJzvzWvWgWtTWz
-Found common = J with 36 being the number.
-
-Text: qnHGnVSsqZCddnGCGCSNdDbLQPcLLQlDhPRMhb == NGsBTBlqsvfQBQqsTLTFltRMmRwmmHmFtPSRhM == gjZWJWCZdDpjggDdgnpWdZZJtFwFRFFRMwbbmRPtShnwRbtt
-Found common = S with 45 being the number.
-
-Text: zZpSDDgpzcDddjVWggJsQGrfQvrQcTGTGrTrqr == hpJchhFWMpRDWHWcDGnCGrnGnwPTwpQnCt == bmgddgmlmjjbfddgmmmNvGQLrtfTwrTtLtGTLQVQQP
-Found common = Q with 43 being the number.
-
-Text: qqbmdZgzZbvgPDccHcZPhWWH == VVrdQZZrZSZFgQTTTzggrVZVMlfBBfvcMBCBslMhBvsMBSff == bQwnHwbNpwcsCwjMBw
-Found common = c with 3 being the number.
-
-Text: pHqqPnJHqpPNJFzqTzQWWDQQZq == HgwTDfgBwBgcRHqRRjHqHTzQQClSzvlzPVSQLvbbPC == MnhtNZNnJpWpGhMQbCCPVSPLNmSPQQ
-Found common = P with 42 being the number.
-
-Text: rrhJMFJJZFJpHcjRLFRfHjgj == vGvGMBlttBltvjdgbPsrsDWdjPPP == HnJQHVqNmQHmZsDZPPrDWpgFps
-Found common = r with 18 being the number.
-
-Text: JSqJQVVDqqVfJNfRffGSGMBwGTCCCTlBMSBl == PsFZPfGbDNbtQmCCmCBBbmmL == dcRdhSrCqjThTRcTpLzHQzTmpmlgBz
-Found common = Q with 43 being the number.
-
-Text: hhhcqCvwhhVhfPNvsMstZtsZ == VvGwBBwvZtGgfZCqShnFFjSstCMC == NlTRdvpDdTRNzdTHHnMssCnCnCqjSz
-Found common = q with 17 being the number.
-
-Text: LvWvPcWLpGwBwVVgVc == bVVmSrLmLSJzTZMSFTBdMj == QnvqRGGDvWpQWGDpvsRZLBzTRjBTtjRTPtBF
-Found common = L with 38 being the number.
-
-Text: QWGvDpqcvpGWQpGngqGQGwpLhJVNJcrbfrVbfbhHrmlVJHVV == NGRGPZWZpblGcJtfssSSsbffCs == gwRhjvrgjmwgnzvJJJtVCtHJqs
-Found common = J with 36 being the number.
-
-Text: rrmLrhwFFmmTMgFRjNZWNpZlZLppQNcDWP == qsHZsHZrTBtZrHBNFCJGWrMcpcddWGJWLG == mRDDzbPVDVlVDgbgRRvmwCcWdGvJwGddpvLm
-Found common = L with 38 being the number.
-
-Text: PnfDbPbVzDbVfjnnlbzhVFsspBSfFsssHQNTBpFqNQ == gCmtbDqPVVVqggCGqTJjHMpMQfgMpMHQQpcM == zNZnsSLzZzrlRhTTJMHppjfHSpvp
-Found common = f with 6 being the number.
-
-Text: nhdrBsLlRRrdTlsTVmCmGqDVFdtDPGwV == FnqNfdGfgzmPLGmj == blvVvbsRwgnzjCPcbT
-Found common = n with 14 being the number.
-
-Text: RWWvtvphnZQZwMBNdHfNDBZZdq == DMRhDhdvnjhnPnvPMfdZSGTccGJFjGFFpFpFTbTpTW == NVgVmtzVlLBmgztsBNmtgCmqFpJJFGGpGbrcGGsrcpbWPr
-Found common = W with 49 being the number.
-
-Text: zwBztLBzllQPDZvfQZfRfHSR == mFCgPzmqgtPPqMmFWzbMttcRGvRclvHhWGGcZvclRfHh == psSNnhnLGnwZHZGv
-Found common = Z with 52 being the number.
-
-Text: hBpNLTNLBhsPmbCgBtPDbM == JsbLLWLJRfQFnccmQhtvvPCP == dwgrVwGpgVhCrrhPDHtC
-Found common = h with 8 being the number.
-
-Text: gpGSjpVdVpVppjjVZBwdCbFRWLzLMSRMbNzfzbWR == DmMQMJmnmGwzGwwG == ZcLcgLgcRsZSctHFWLGfjjBwvbvBsvjpfhGb
-Found common = G with 33 being the number.
-
-Text: GgFPqFtLRHLFSHLRRFRHHtMnJVNCQCrJCJCnMJDdnqDV == tqdqFqdsRdVdtHMNdRZHTZLrHJgrlZQPJLgr == GGwVcpGznmhbWhwcVVgzTrDrDDLZlTLLZQrJ
-Found common = g with 7 being the number.
-
-Text: nhbnbfjcnfMfFNVtBq == QHmPNZvfCLsSwJSm == pDhjpVDFcRBpFFjjMnRcVhpFCzbzsZbSSCtwtLMSLZLLtLbs
-None Found?
-
-Text: FRjrnRchnfHPrrZlHl == bjjMbdChgRDZthpQpRQnwRTprRwS == mGzJsGsHzHGPvvvqvzGzSnglSJrrwQgnlQQSrlQl
-Found common = r with 18 being the number.
-
-Text: qvzHqHLHmHgPsNBdCdZtVBtVVMBFbh == CctrCwrdpTwcpVrdpTpcrcnSJQttvQPHJQNQnQNjvvHQ == zsqRlslRLqfgRmWsRgRzqzQnHjSBSQWJHPhHnSvHnJJJ
+Text: dBSfHdZvMQMdNVpWRmWmLCmmtB == rbTTrrjDcqcrrqrjjJGGclltPCWDmvtpmpPpvRDsCspsLC == cclNlwBRvvTNccRlBNRspVLLZzVzVZQqfqqLpzpw
 Found common = v with 22 being the number.
 
-2482
+Text: tHqfszrgLsvgqtHrHtwVCGBRRjGSCwsCsmmV == MdFMclPmcDQFDlDdlZPmbVpCbFpCbBSCCRGCFpbV == vlhjThlqcjrnTvThndddHZngMnfwNQFNFM
+None Found?
+
+Text: sVdGlTMMVTGCdsTMHHWWnNBzNWpNWCpW == mPmjFhlwmwmWrpSrSWHB == mcDJdDQMcDTZQhhNNPldhhDtvHLgqtzgLvzTzWHWnWfvvz
+Found common = l with 12 being the number.
+
+Text: CBRsTsBBzLCfLqtqBRPNDQglSttlcgDlgGGt == rJdbrJjrdbVJZdVZCGrNNcgDQlcQrggl == jhPhjwgthtFFjRwjZgjGdJcdflfqMsZLLsdZdc
+Found common = g with 7 being the number.
+
+Text: cqhcWqqCNjGWqcqhGGZzngftmptLZLGZTn == brJHBbPVHPvSsdHrzQLzZgpfVzpfQtnL == FpFbbppjFCdwmTvsvfzmTnTBfq
+Found common = z with 26 being the number.
+
+Text: QTBTfQTZsjWDJBJd == FgFWNqWGDPqlPllp == dHFPBPrBJFRzcWNFhWwN
+Found common = W with 49 being the number.
+
+Text: ZCCHHCVRZzBZQThM == nljDtcqnhcfbwjwltfLQMLLQQppJBMLQJL == CCvHzSWFrrtvNvNNHLGQQfbVRRfHZcZcVTTTnZ
+Found common = Q with 43 being the number.
+
+Text: QQRnqGBSpQnMmSGmRQQFtdcbbtHHccjpTFcTfF == wCNPNwNNWNgZHJHJFffqCjbj == qDsqschsqblDqjcqtRmNVVdNsddNNPmFgV
+Found common = q with 17 being the number.
+
+Text: pVWlMBWjlWWqspWDjdjMpMDCPtmmdbhtQtQtbGPCzChchz == HZNgrHSvHwnFZnvgNvnwLPBGQHmCmtPmtBCGGCmQhG == ZNPzNWgNrsmzMVqsqs
+Found common = P with 42 being the number.
+
+Text: PQctSHQDPSQcbShpFzbmFddpmdmR == wqWVwvwNCJRhmdhwJw == FrNfvSNSZLZJrJsVlRWWWqRBVTff
+Found common = R with 44 being the number.
+
+Text: qppwrgZSLsVbbfvZ == hhBHPQQChCDcPcsvvhbGbsllJTfv == nMnWggVqRVZqHBSBsQsQGDSZ
+Found common = s with 19 being the number.
+
+Text: bmRjdmrJRjhJdJLZBjTFfHGTtQFTSQBS == wCNVnsspwsnvNDwnsDwSBHtDHHQGTFQFtMrQMS == MDWmWFCPFWtgpRWjws
+Found common = F with 32 being the number.
+
+Text: MZlfqlmblmMRWhWNsjSQfh == CznczgtDFnVtFBNSRNttvhQsNh == nWsNvqVgVcqdJrchrz
+Found common = h with 8 being the number.
+
+Text: lbbbGDlwLDLjvDvm == FQfQnLTWVcPChtjmjWSj == SGDFzVrzVPrGHVnzCPVnlZlPwTbpTqlbqLMpbLlq
+Found common = L with 38 being the number.
+
+Text: mwnWtbmdWdccwtgTmwnQfPqsqLQQJQQLsfQQ == SjrZbhvBZzPHQqfGJfjG == cfgzzgfgfVdzTdfNwBpbLbwdRbpZGrdw
+Found common = b with 2 being the number.
+
+Text: ndHWprpqFTnnpdNFlhljzlGTwDGzlhGz == fvZmmVVfJctMZsgMgmcBmsZhwQlGDCzPPZWDGDjCllhC == FlrMBSvMZZFBZhShMMdctWDtmFNDbDTmtmpt
+Found common = W with 49 being the number.
+
+Text: LgZSvhvcsWtcWnjrFrWjjjnPWW == DJDfNlDNRFlpMlFLFP == WsmvmsmRNnpRHdbS
+None Found?
+
+Text: lbTpqhhgSlgtlTqSDzzLPPPrLGTTGnLm == VwGfQGBGZWNnmDLPznLB == TmqTqDHdmfwJRwfdQJLHzzSggHZZcGzhtZvcZhzG
+Found common = D with 30 being the number.
+
+Text: hSvCvFRDwmzCCHrszb == jdMgfTblgjJTLLLzqqGscmPmlqPzHc == vQdfZFWvFMMFwWGGhpGqJbpFtgbS
+Found common = b with 2 being the number.
+
+Text: FFnFQndPqzmjHscmJFwc == ZrZrRgDphGGDZgRRBSBNMHHvmwJJSNJHcv == bjQLTTbZMfJffZBBWdjBBQwVDntFpRvvDVvSnhppFv
+Found common = J with 36 being the number.
+
+Text: sHTsGrHpsftmddRRZfRv == MqFcqcMQbMcVPCdFZCzZsRsFzL == DGrbbthfWWWDgtfffttfpGPVqnmblqPqCdQTlTPCzTll
+Found common = d with 4 being the number.
+
+Text: qpmvVVcGvVVcVmDsCfqTHLLJzTjfZzLZ == rSSgwwnSRRBrQrZzZHCQrZ == qnVlBbcJJbbMcbgQJMMbQlDWWwHWSWwpTsGHGrpDWG
+Found common = H with 34 being the number.
+
+Text: fBBRfJBzzMRGRzCBgWtbCWtbgHHHWdqt == mvNcDcsDLLnnqfbv == BFgFRgdNnSBbbnhSMBSNFdsWVtpWmzsGtvpVPvGWVDDN
+Found common = b with 2 being the number.
+
+Text: CNQGGDMFWGnWWvvNMQFPvrgzBLVBLszwgggLgw == mppZVZtZRTbTTpRccVbgrSLzSPSzBrfbPBbSPw == hpTsTsTrDrfpMSFFZjPFMrSP
+Found common = P with 42 being the number.
+
+Text: cppcZGcGgGpdTgSSnmpFMFrFzmwqwmrHwz == RStQJNCNvfBQNjrqmrjFrBMzFB == VtZJhRJcTpJTHlhtHZCFFWFjNjGGnFhCqDqG
+Found common = F with 32 being the number.
+
+Text: gNrBNSrNNtSjBndzmzlVnm == MbfqfpCLpCsLqsLFSbQLfnMdcdRRcdzldlnljzncnJ == LJDNNJCDLcdLnSVd
+Found common = S with 45 being the number.
+
+Text: DtrrcGvtLnrrvLrfctfHztrfQpbwwphpdSbbPPPwFSFFRPwH == gggBqTNdTNjqWBlNmCqCmNggQPhpPPPbhhQpSBpJwbSJSQFR == QPQLqZqhSqhvtvTTWrNg
+Found common = Q with 43 being the number.
+
+Text: bjtTFsPmmtpvVlQHlQJQnJjn == WzDzwLCSLrrDNLdrSZRCwNzrlQlJMnJQJJVhbcMhgllwnJQh == ZglTmgWNgVZMZdsGMcvDcMdMnz
+Found common = V with 48 being the number.
+
+Text: lVlfJVblPQbllflfLdJdvGpjnFRFqJFnDqpJjnpF == HcwZMgmwWCHHCSwcWCcgSCtCqqpFppGDqvDnRhgnnqFDpjFT == fRCZzrWRzzGbGvTmBPTf
+Found common = v with 22 being the number.
+
+Text: DSpSnRwrZDPWsJdZ == zjjlQVjlNZmCVCfhCfgFFfFFFqWJbgbFWHJH == cwCHtGrCssWHCCWZZMbPPNBVbNfVbPllVszf
+Found common = Z with 52 being the number.
+
+Text: vLfvcgglbfLfgqdgNpPtzqDmPzmJTTztPCHT == ZWSQVGwQcWjSshGwVcnSzDJZtPPTzmzzJHCTzDtJ == lNQMlGjQBZjCmhNMCChGzlVNrpTnccLLwcRwTSppSpprLRcB
+Found common = c with 3 being the number.
+
+Text: NgtfSRPnnRrSlgsPhnShDWQlMWpVBMMMpCWVBpCQBB == LLJnvwJvZHZbHTbVCQBppCFJCWWQBz == SjVSrWVhQVQhwrLMcrFbfplcflvv
+Found common = W with 49 being the number.
+
+Text: DwrDRlrwmbSbRgwsSbRwGJvQGqjJqGNTJTNGTSGn == PZdMZzCQFBZWWFQvJZvcNcjqNjjZJG == wHTGZmZvdvLvjLwZdqngNgsGtrDPSDhtNfDf
+Found common = G with 33 being the number.
+
+Text: bpWbJMWpJbprfNMrBfJfprWhPnGtnHnLHjPPjLvsWnHGvGvj == qZdgVVgDQhQZlwcqgDcchldjjmLtntmntPQsmLnLPjssnL == WHWCFHBBdzzMWhPFtFdMzlRsVbVmDrRVVrtQplwVwD
+Found common = h with 8 being the number.
+
+Text: SgbGvfbnGgmnNnnzqMqqHHRzbZBzZR == TWlssdFwWdtswWPtTtWltwdVHlZZzRHZBZRzrprqHMpqgZrq == RVRlgcSSdglZczdqbTCrhBrBpNBSBSbF
+Found common = g with 7 being the number.
+
+Text: pqsDnNzzZsdZSnDSpwjBCBWvgjvWjNFWQgWC == lVGtRtLMGGfbTGTtTbQCQnBQBnBFgFQcgjfc == dssdCWTFwSvgmDjDCG
+Found common = j with 10 being the number.
+
+Text: MdccRQMJvHdgZggvhjjMgHcHlWWqFFWmGqFbJWzzFLWlLmPm == TDpSsTrtblSzQlGQ == GPbTbPtnPttmLTGRRbtmdwSDwpwwhZqmdpzDhDJd
+Found common = G with 33 being the number.
+
+Text: GqGqGpFqqgDGFRqDwwqqmzpGTLPvVWMPVCPLJLRJJMLTlCWV == rHrSbrsbQcbtdNHHHfdPlvWBLLWlvMTVlVLCJf == tfVNrwTwtswTssMRjMMQQddNMRCd
+Found common = T with 46 being the number.
+
+Text: vQQQbRvlLjNNLLBzNllNHNBqGqhMWhGGhTqmPmqhWTFhRm == tnsZwgSnCDrZSCDsfTMSGpPWmPSWmGmbFq == rccbtthHSHsNHrrcttwqpnDFnMmpnzFnFhnF
+Found common = b with 2 being the number.
+
+Text: nmQsMqTnLlmmpQZmTZcdHwCFSpHJSSWHSJVSWSHH == vRgRRtfPvDjzDgDbsjzRvjfNNWWCSJFwrHCFbrCJWJHCSC == CrVnfnCCtrCgfrffcrstDnJNlvJdNvzdBcHdLBJHvbBv
+Found common = s with 19 being the number.
+
+Text: CWfvvhfWrlllSSRrdQrQDQGQdTRr == jsNctMZLmMZLMmmmbbNZswZNqBTHPHzBMHHTMGqBRMRPDQqP == GhsRBztDBgzRPstgzBLZcqmlcLMMlmdLQBZT
+Found common = R with 44 being the number.
+
+Text: vchzqzwlhzRqzVZQwqtVPZLnLLbDnDFnbGLnDbPLDGWD == pBTHpdpHsrNBBsgdrdCpCpCgRFCMFDLFWWnFWLRRGWbDFGSF == jcwjntLngngplgFhgRvJVp
+Found common = R with 44 being the number.
+
+Text: VDwzLQrDDWrrwWbJrVJwVrVQfMfSCNPMfSlMlPcMmThChf == tsjFdsRsgtRmGZHpHRgBClSlGSClcPhGCfPlllll == prsBHfggjpjjcRQlqvtw
+Found common = f with 6 being the number.
+
+Text: mgjZmrqmdsmGtDplglJgRVVc == nPhnLvnHLtLnWzzcNwwcchVJRflhpc == qBBFBZZpmgdFHdstjFJbzVwJVqJWWbrvWJDL
+Found common = t with 20 being the number.
+
+Text: jcrNfnrNLNNqFgbDfCSgSQbS == zPPHtMrGGptvTWPVvzvHRgQsbDsSRRCCQbtJsJDS == SnnLntLWZsMqZrSZ
+Found common = r with 18 being the number.
+
+Text: qNPhNqddBNhqvPhFvllNgNBHCrrCQnjpCfPVJnnJQJCjJj == ZZbZTZcmGWWMDWRSDnBVQCjVDffJjnnVCJ == wHzrWVzPwThGGwMHzTGGPGwhdlZnBndZLljNjBcLdZdNBN
+Found common = B with 28 being the number.
+
+Text: GCCPwpsBqNSsBPpSCrSshzQzLhTvQhqTnhtTVQcT == JDjFJfMJgWbWWlDJcnvvhvtdLnjnzhjz == SGBRTTZGGcLSSWTScsmcMbGlhgwFqslhzqggghwhNvwwvw
+Found common = h with 8 being the number.
+
+Text: HwqhgFGSMgPPCGQQQnvvcpjn == BllbdfRBsBmsmZlBTmQCjTnNWNCmNmvc == FlDflbZfZgJgMgbmgZJfSpGCvvrGrRCpCBrZRprw
+Found common = C with 29 being the number.
+
+Text: LTvLtTFLCddFTTthsbVVmHHcqVHmWRcmHL == lBgwwNggwMwNVbjBCQcCqCRB == lJDlBflDdbbRlLbfsbZBJtbRqrVFPnwwwhVMHwVrgJwwrSwH
+Found common = b with 2 being the number.
+
+Text: ZlZdJJplLZBDpJjNJlGjQCLmCQmTwVVCbQQbqWCT == SfgFzftrnRzMnVbPPPQmPq == nCMCwZGGNGJnGhtrzsdDDndtsF
+None Found?
+
+Text: LdNrLzjdWQnrDHsD == tBZmBZtVZpldVMPRnsRQsnnsHVbRHs == FfmrRvgShchvFfghzRvgtvFBpJDpcGNGdBHJlpDDDJlDJZ
+Found common = d with 4 being the number.
+
+Text: nJqBlvvBjHhBcqqRrGPrTrGpBCGzTG == MfVCVMLZVZtQCdtLMtQtQSSSTSzFRSRPFpFRGpdTFd == MlfldwMBBFMZTSFTSqLqcvSJ
+Found common = T with 46 being the number.
+
+Text: SGmmGwVwnmhbhnhwhhwbdMgNNgjmvMDrJTCgmBTBBj == ztFWcWQQfcRzzRFllvjDjggjDDfBgJMBgC == CCQQtQVgfbbQNggsNfQZZbHbcWmnhlhnvlnlHjJWvnhv
+Found common = g with 7 being the number.
+
+Text: tBmdmQtjMMqDLqBtttQMjDdwwgwccMMbffllgzncwfFflF == TPVHTVsRsJVHVrVvHvrRhVJbfCgFbzwbCGgFlwgcCwbn == QtzcJtFtqcFQRRWRRQWFzFGpVnVSGLLGZVGVqddbLqGL
+Found common = c with 3 being the number.
+
+Text: WhhtGZtZGQZmvCfCwtvhqgbfdDJdfjlSDlSlBBJDSg == rHnpFHnDrdBggJngnL == hssVWnRrTVZSSZZqjLddWtLBddqtQL
+Found common = d with 4 being the number.
+
+Text: dStBwStGGBrNnBdrSSMzvjhgFcvvDcnnvPDn == RLZbCWWJbHRsTHspZWLcDWcPPhzczfjgPjjvjz == HVcTzFPNzTpPPVrzmtwtvvvmNQwDQvWw
+Found common = z with 26 being the number.
+
+Text: JrmRVdvcmvvmvvRTdBVVfjFQLwjqLFLWFMqwcFjz == DDhhttDHHHbHSnsDbHqMqzwQLLFwLsjjLLQf == ZmLHJqJsLJJHLRsmmmGSztQdQzmNBrBN
+Found common = Q with 43 being the number.
+
+Text: rqvVqNJpVVNwnqqTwthMMq == jsFRFDQRLQDQmsPRmQsmcQFMzGhwBGBhTzTTzHnRhnhBhRwz == bSbPthtgGQPNPHnSDChCRJZZJRCZdCrCBZZZZvJd
+Found common = n with 14 being the number.
+
+Text: TGjrrTRLHvrQrFDCrmzzVm == NwWqqhndWtzDQhCzVCsh == dCccQcQsFCmCQfbJbvZMNZfJrJll
+Found common = Q with 43 being the number.
+
+Text: fRBRBHCVRRzcCdZHvRvZVCZLNjtwtNwNTtLjNtTpTNttfS == DZshMssZmTMjwjSLtw == CSSwNNwqgBBBBbGGvLTTvb
+Found common = L with 38 being the number.
+
+Text: zgqzLLvlvdgpgrWpWW == RnJmNRncnScFmZSScrJQQdbpGdHbWHtPHpBHsdFdsW == QPrJDDJsPDFmFrFDscHHRzrcvccCZRVzrR
+Found common = r with 18 being the number.
+
+Text: fDLzSMLhhtDWMvtjCRRZjCHHJjChHN == pmTNpVwPNbPwPBFRqRJqjCnFjZFV == JDfRcrSnmDSJcNfrNZNjvlwjhllhMzlDqMqMvh
+Found common = j with 10 being the number.
+
+Text: fbBsBTsNDhGBGZcLLLJJQffQLQ == MpsCCMHClsHQqZcQWLqR == dTwpddsTbgbQBssprsgtvgcNLzWMctfSgcfWLt
+Found common = s with 19 being the number.
+
+Text: HqTfmsCFmPlGHddNVGpLhz == JjjcQQJgjZvZZzzwgpNVGwLGgV == FtjdCFzVljFlslVCpFrFjPhggBGDgNSTTgbGNmbGTr
+Found common = G with 33 being the number.
+
+Text: TgTDDrCmqJDGLrhqLmLGqDQRFtttjMbQZJjtdtjFdsdF == WHffcHWnlvvcSSWzPVvHpWWVRbFdQQtQnjwZFMwZtwddsZbd == nQnSbDDRbSQJQQpRZtZcZZsPPrFfWCPFWlrFsFPqmqFt
+Found common = Q with 43 being the number.
+
+Text: dlMMmnmjvCCjJrrvMdgHcbcFbqFbzQrFbGzb == tPhRBRZPtZRshTzRsNShRZNGDfGgFFbFQqbGHDHbqfGD == cBpPplVVPfvVGBDLGCBqmmLM
+Found common = q with 17 being the number.
+
+Text: WcvLLgLcczLTDtccbLcgzMMfPsGwRPjwfMwHMfMvMp == QVmlPQCdJlJJJlFJJJnPQQhlwwMMMnMwNMpwMGwwfswwGMsR == TSPhBVsTwRBTpVtRZpVhZLJjWzLjJlJlJvmwWWzwWn
+Found common = P with 42 being the number.
+
+Text: bwbbZLlbwlJhBzFCgtTGRGQldQRmQW == SSnpHnPHqpmggCWgdT == lrSCZZVFhPSZgzgWttWBcc
+Found common = C with 29 being the number.
+
+Text: nLgDSHgwRgGnHjjNfTRhjPVpWV == BstQsvhQZQQbMvCvMPVNWpPcTjfmPmmW == PPscHHTfcsPSDVfVssjvwFJLBJFjFJJZFJLNLwrL
+Found common = j with 10 being the number.
+
+Text: dTQTwgmZQbDzzMQCCl == WLLtntFnfnRHbttnSRRzSMVGDDMGzVlV == brtCrtvtzrhdSDJDwh
+Found common = b with 2 being the number.
+
+Text: wMwMbMRRBBMLPBlhLRQlhPcWzgJNvJtzWNtJptpgjJgpBj == TnmGGmVnFFNSZsnZqFsWzWjrTJzvzWvWgWtTWz == JsPhFtfbLWnsLPLqgdJcjmcwTwjcdw
+Found common = W with 49 being the number.
+
+Text: NGsBTBlqsvfQBQqsTLTFltRMmRwmmHmFtPSRhM == gjZWJWCZdDpjggDdgnpWdZZJtFwFRFFRMwbbmRPtShnwRbtt == qnHGnVSsqZCddnGCGCSNdDbLQPcLLQlDhPRMhb
+Found common = R with 44 being the number.
+
+Text: hpJchhFWMpRDWHWcDGnCGrnGnwPTwpQnCt == bmgddgmlmjjbfddgmmmNvGQLrtfTwrTtLtGTLQVQQP == zZpSDDgpzcDddjVWggJsQGrfQvrQcTGTGrTrqr
+Found common = G with 33 being the number.
+
+Text: VVrdQZZrZSZFgQTTTzggrVZVMlfBBfvcMBCBslMhBvsMBSff == bQwnHwbNpwcsCwjMBw == qqbmdZgzZbvgPDccHcZPhWWH
+Found common = c with 3 being the number.
+
+Text: HgwTDfgBwBgcRHqRRjHqHTzQQClSzvlzPVSQLvbbPC == MnhtNZNnJpWpGhMQbCCPVSPLNmSPQQ == pHqqPnJHqpPNJFzqTzQWWDQQZq
+Found common = Q with 43 being the number.
+
+Text: vGvGMBlttBltvjdgbPsrsDWdjPPP == HnJQHVqNmQHmZsDZPPrDWpgFps == rrhJMFJJZFJpHcjRLFRfHjgj
+Found common = g with 7 being the number.
+
+Text: PsFZPfGbDNbtQmCCmCBBbmmL == dcRdhSrCqjThTRcTpLzHQzTmpmlgBz == JSqJQVVDqqVfJNfRffGSGMBwGTCCCTlBMSBl
+Found common = Q with 43 being the number.
+
+Text: VvGwBBwvZtGgfZCqShnFFjSstCMC == NlTRdvpDdTRNzdTHHnMssCnCnCqjSz == hhhcqCvwhhVhfPNvsMstZtsZ
+Found common = v with 22 being the number.
+
+Text: bVVmSrLmLSJzTZMSFTBdMj == QnvqRGGDvWpQWGDpvsRZLBzTRjBTtjRTPtBF == LvWvPcWLpGwBwVVgVc
+Found common = L with 38 being the number.
+
+Text: NGRGPZWZpblGcJtfssSSsbffCs == gwRhjvrgjmwgnzvJJJtVCtHJqs == QWGvDpqcvpGWQpGngqGQGwpLhJVNJcrbfrVbfbhHrmlVJHVV
+Found common = J with 36 being the number.
+
+Text: qsHZsHZrTBtZrHBNFCJGWrMcpcddWGJWLG == mRDDzbPVDVlVDgbgRRvmwCcWdGvJwGddpvLm == rrmLrhwFFmmTMgFRjNZWNpZlZLppQNcDWP
+Found common = W with 49 being the number.
+
+Text: gCmtbDqPVVVqggCGqTJjHMpMQfgMpMHQQpcM == zNZnsSLzZzrlRhTTJMHppjfHSpvp == PnfDbPbVzDbVfjnnlbzhVFsspBSfFsssHQNTBpFqNQ
+Found common = T with 46 being the number.
+
+Text: FnqNfdGfgzmPLGmj == blvVvbsRwgnzjCPcbT == nhdrBsLlRRrdTlsTVmCmGqDVFdtDPGwV
+Found common = n with 14 being the number.
+
+Text: DMRhDhdvnjhnPnvPMfdZSGTccGJFjGFFpFpFTbTpTW == NVgVmtzVlLBmgztsBNmtgCmqFpJJFGGpGbrcGGsrcpbWPr == RWWvtvphnZQZwMBNdHfNDBZZdq
+Found common = p with 16 being the number.
+
+Text: mFCgPzmqgtPPqMmFWzbMttcRGvRclvHhWGGcZvclRfHh == psSNnhnLGnwZHZGv == zwBztLBzllQPDZvfQZfRfHSR
+Found common = v with 22 being the number.
+
+Text: JsbLLWLJRfQFnccmQhtvvPCP == dwgrVwGpgVhCrrhPDHtC == hBpNLTNLBhsPmbCgBtPDbM
+Found common = h with 8 being the number.
+
+Text: DmMQMJmnmGwzGwwG == ZcLcgLgcRsZSctHFWLGfjjBwvbvBsvjpfhGb == gpGSjpVdVpVppjjVZBwdCbFRWLzLMSRMbNzfzbWR
+Found common = G with 33 being the number.
+
+Text: tqdqFqdsRdVdtHMNdRZHTZLrHJgrlZQPJLgr == GGwVcpGznmhbWhwcVVgzTrDrDDLZlTLLZQrJ == GgFPqFtLRHLFSHLRRFRHHtMnJVNCQCrJCJCnMJDdnqDV
+Found common = V with 48 being the number.
+
+Text: QHmPNZvfCLsSwJSm == pDhjpVDFcRBpFFjjMnRcVhpFCzbzsZbSSCtwtLMSLZLLtLbs == nhbnbfjcnfMfFNVtBq
+None Found?
+
+Text: bjjMbdChgRDZthpQpRQnwRTprRwS == mGzJsGsHzHGPvvvqvzGzSnglSJrrwQgnlQQSrlQl == FRjrnRchnfHPrrZlHl
+Found common = n with 14 being the number.
+
+Text: CctrCwrdpTwcpVrdpTpcrcnSJQttvQPHJQNQnQNjvvHQ == zsqRlslRLqfgRmWsRgRzqzQnHjSBSQWJHPhHnSvHnJJJ == qvzHqHLHmHgPsNBdCdZtVBtVVMBFbh
+Found common = v with 22 being the number.
+
+2464
