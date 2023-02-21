@@ -16,35 +16,34 @@ int main()
 	int counter = 0;
 	while (getline(File, text)){
 		if (text != "\n" && text != " " && text != ""){
-			cout << text << endl;
-			counter++;
-			counter = counter%3;
 			texts[counter] = text;
-			if (counter == 2){
+			counter++;
+			if (counter == 3){
 				endtotal += getcommonchartoint(texts[0], texts[1], texts[2]);
 			}
+			counter = counter!=0?counter%3:counter;
 		}
 	}
 	File.close();
-	// cout << endtotal;
+	cout << endtotal;
 return 0;}
 
 // tries to find a common char in 3 strings and returns the int value of that char acoring to ::chartoint
 int getcommonchartoint(string te, string xt, string xtra){
 	if (te != "\n" && xt != "\n" && xtra != "\n"){
-		// cout << "Text: " << te << " == " << xt << " == " << xtra << endl;
+		cout << "Text: " << te << " == " << xt << " == " << xtra << endl;
 		for (char& char1:te){
 			for (char& char2:xt){
 				for (char& char3:xtra){
 					if (char1 == char2 && char2 == char3 && char1 == char3){
-						// cout << "Found common = " << char1 << " with " << chartoint(char1) << " being the number." << endl << endl;
+						cout << "Found common = " << char1 << " with " << chartoint(char1) << " being the number." << endl << endl;
 						return chartoint(char1);
 					}
 				}
 			}
 		}
 	}
-	// cout << "None Found?" << endl << endl;
+	cout << "None Found?" << endl << endl;
 	return 0;
 }
 
