@@ -21,7 +21,14 @@ int main()
 		if (text != "\n" && text != " " && text != ""){
 			texts[counter] = text;
 			counter++;
+<<<<<<< HEAD
+			if (counter == 3){
+				endtotal += getcommonchartoint(texts[0], texts[1], texts[2]);
+			}
+			counter = counter!=0?counter%3:counter;
+=======
 			counter = counter%3;
+>>>>>>> 91cbaab09893c6614b1bcec39a9a58553df15bd3
 		}
 	}
 	File.close();
