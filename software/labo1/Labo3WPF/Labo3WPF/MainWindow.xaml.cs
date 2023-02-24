@@ -27,28 +27,6 @@ namespace Labo3WPF
             InitializeComponent();
         }
 
-        private void dispatcherTimer_Tick(object sender, EventArgs e)
-        {
-            // Updating the Label which displays the current second
-            lblSeconds.Content = DateTime.Now.Second;
-
-            // Forcing the CommandManager to raise the RequerySuggested event
-            CommandManager.InvalidateRequerySuggested();
-        }
-
-        private void start(object sender, RoutedEventArgs e)
-        {
-            //  DispatcherTimer setup
-            DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
-            dispatcherTimer.Tick += new EventHandler(dispatcherTimer_Tick);
-            dispatcherTimer.Interval = new TimeSpan(0, 0, 1);
-            dispatcherTimer.Start();
-        }
-
-        private void stop(object sender, RoutedEventArgs e)
-        {
-
-        }
 
 
     }

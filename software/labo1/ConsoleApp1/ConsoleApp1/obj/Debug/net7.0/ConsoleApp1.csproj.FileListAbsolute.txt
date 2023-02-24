@@ -3,3 +3,13 @@ C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net
 C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
 C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
 C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Marwa\GIT\Projects\software\labo1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll

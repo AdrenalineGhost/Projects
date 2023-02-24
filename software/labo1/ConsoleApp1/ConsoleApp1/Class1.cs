@@ -8,17 +8,25 @@ namespace Labo2
 {
     internal class Codering
     {
-        
-        string Wissel(string zin)
+
+        internal static string wissel(string zin)
         {
             StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < zin.Length; i++)
+            for (int i = 0; i < zin.Length; i += 2)
             {
-                if (i%2==0)
+                Console.WriteLine(i);
+                char[] toadd;
+                try
                 {
-                    char te = zin[i];
-                } else if (i%2==1) { char xt = zin[i]; sb.Append(xt + te); }
+                    toadd = { zin[i + 1] , zin[i] };
+                }
+                catch (Exception)
+                {
+                    toadd = { '0', zin[i] };
+                }
+                sb.Append(toadd);
             }
+            return sb.ToString();
         }
 
     }
