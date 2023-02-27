@@ -15,6 +15,7 @@ int main(int argc, char *argv[])
 				break;
 			default:
 				printf("n/a\n");
+				break;
 		}
 	}
 	return 0;

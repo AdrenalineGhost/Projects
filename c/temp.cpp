@@ -8,14 +8,14 @@ int main(int argc, const char *argv[]){
 	if (argc == 3) {opened = atoi(argv[2]);} else {opened = 2;}
 
 
-	cout << "started" << endl << "argc= " << argc << endl << "tabs= " <<tabs << endl;
+	cout << "started" << endl << "argument_count= " << argc << endl << "tabs= " <<tabs << endl;
 	int counter = 0;
-	int number = 1;
-	while(number<tabs){
+	int tab_count = 1;
+	while(tab_count<tabs){
 		counter++;
-		number += opened;
-		number -= 1;
+		tab_count += opened;
+		tab_count -= 1;
 	}
-	cout << "ended with " << number << " tabs and " << counter << " operations" << endl;
+	cout << "ended with " << tab_count << " tabs and " << counter << " operations" << endl;
 	return 0;
 }
