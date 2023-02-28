@@ -77,11 +77,11 @@ function load_rk(faces=rk.getAllFaces3D()){
  */
 function turn(dire, counter=true){
     console.log(dire)
-    animate(dire, counter).then(()=>{
-        sleep(45*20+10)
-        rk.rotate(dir.get(dire), counter)
-        load_rk()
-    })
+    // animate(dire, counter) // TODO: make this a sync function, else int executes after rk.rotate()
+    sleep(45*20+10)
+    rk.rotate(dir.get(dire), counter)
+    load_rk()
+
 }
 
 /**

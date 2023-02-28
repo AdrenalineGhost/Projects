@@ -13,20 +13,21 @@ import Plane from './plane.js'
 export default class Direction {
     static XPOS = new Direction("xpos", 1, 0, 0, 2, 0, 1, 1.9, 0, [[1, 0, 0], [0, 0, -1], [0, 1, 0]], 1, 0, 0, "green")
     static YPOS = new Direction("ypos", 0, 1, 0, 2, 1, 0, -1.9, 0, [[0, 0, 1], [0, 1, 0], [-1, 0, 0]], 0, 1, 0, "yellow")
-    static ZPOS = new Direction("zpos", 0, 0, 1, 2, -1, 1, 0, 0, [[0, -1, 0], [1, 0, 0], [0, 0, 1]], 0, 0, 1, "red",)
+    static ZPOS = new Direction("zpos", 0, 0, 1, 2, -1, 1, 0, 0, [[0, -1, 0], [1, 0, 0], [0, 0, 1]], 0, 0, 1, "orange",)
     static XNEG = new Direction("xneg", 1, 0, 0, -2, 0, 1, 1.9, 0, [[1, 0, 0], [0, 0, 1], [0, -1, 0]], -1, 0, 0, "blue")
     static YNEG = new Direction("yneg", 0, 1, 0, -2, 1, 0, -1.9, 0, [[0, 0, -1], [0, 1, 0], [1, 0, 0]], 0, -1, 0, "white")
-    static ZNEG = new Direction("zneg", 0, 0, 1, -2, -1, 1, 0, 0, [[0, 1, 0], [-1, 0, 0], [0, 0, 1]], 0, 0, -1, "orange")
+    static ZNEG = new Direction("zneg", 0, 0, 1, -2, -1, 1, 0, 0, [[0, 1, 0], [-1, 0, 0], [0, 0, 1]], 0, 0, -1, "red")
 
     static map = new Map([
         ["green", this.XPOS],
         ["yellow", this.YPOS],
-        ["red", this.ZPOS],
+        ["orange", this.ZPOS],
         ["blue", this.XNEG],
         ["white", this.YNEG],
-        ["orange", this.ZNEG]
+        ["red", this.ZNEG]
     ])
-
+    // The colors here were wrong again -__-
+    // So i switched red and orange in both the static array of colors and the map of colors
 
     static getDirection(color) {
         return this.map.get(color)
