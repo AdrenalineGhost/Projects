@@ -9,25 +9,33 @@
     <script src="scripts/view/mainView.js" type="module" defer></script>
 </head>
 <body>
-<canvas id="canvas" width="800" height="600" style="border:1px solid #000000;" ></canvas>
-    <form id="buttonform">
-        <button type="button" id="U">U</button>
-        <button type="button" id="D">D</button>
-        <button type="button" id="R">R</button>
-        <button type="button" id="L">L</button>
-        <button type="button" id="F">F</button>
-        <button type="button" id="B">B</button>
-        <button type="button" id="Up">U'</button>
-        <button type="button" id="Dp">D'</button>
-        <button type="button" id="Rp">R'</button>
-        <button type="button" id="Lp">L'</button>
-        <button type="button" id="Fp">F'</button>
-        <button type="button" id="Bp">B'</button>
-    </form>
-    <form id="rotateform">
-        <button type="button" id="x">x</button>
-        <button type="button" id="y">y</button>
-        <button type="button" id="z">z</button>
-    </form>
+    <div class="d-flex justify-content-center">
+        <canvas id="canvas" width="800" height="600" style="border:1px solid #000000;" >Your Browser does not support the canvas</canvas>
+        <div class="d-flex flex-column justify-content-center">
+            <form id="buttonform">
+                <div class="d-flex justify-content-between">
+                    <button type="button" style="background-color: white;" id="U">U</button>
+                    <button type="button" style="background-color: yellow;" id="D">D</button>
+                    <button type="button" style="background-color: green;" id="R">R</button>
+                    <button type="button" style="background-color: blue;" id="L">L</button>
+                    <button type="button" style="background-color: red;" id="F">F</button>
+                    <button type="button" style="background-color: orange;" id="B">B</button>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <button type="button" style="background-color: white;" id="Up">U'</button>
+                    <button type="button" style="background-color: yellow;" id="Dp">D'</button>
+                    <button type="button" style="background-color: green;" id="Rp">R'</button>
+                    <button type="button" style="background-color: blue;" id="Lp">L'</button>
+                    <button type="button" style="background-color: red;" id="Fp">F'</button>
+                    <button type="button" style="background-color: orange;" id="Bp">B'</button>
+                </div>
+            </form>
+            <form id="rotateform" class="d-flex justify-content-between">
+                <button class="w-25" type="button" id="x">x</button>
+                <button class="w-25" type="button" id="y">y</button>
+                <button class="w-25" type="button" id="z">z</button>
+            </form>
+        </div>
+    </div>
 </body>
 </html>
