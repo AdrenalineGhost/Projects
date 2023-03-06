@@ -27,6 +27,16 @@ export let stockAlphabet = new Observable(subscriber => {
     setInterval(() => subscriber.next([stockAlphabet.date, stockAlphabet.value]), 1000);
 });
 
+export let stockMeta = new Observable(subscriber => {
+    let stockAlphabet = new StockSignal("data/alphabet.json");
+    setInterval(() => subscriber.next([stockAlphabet.date, stockAlphabet.value]), 1000);
+});
+
+export let stockTesla = new Observable(subscriber => {
+    let stockAlphabet = new StockSignal("data/alphabet.json");
+    setInterval(() => subscriber.next([stockAlphabet.date, stockAlphabet.value]), 1000);
+});
+
 export let stockAlphabetWithNullValues = new Observable(subscriber => {
     let stockAlphabet = new StockSignal("data/alphabet_with_null_values.json");
     setInterval(() => subscriber.next([stockAlphabet.date, stockAlphabet.value]), 1000);

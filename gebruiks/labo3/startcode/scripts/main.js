@@ -22,6 +22,8 @@ window.onload = function () {
             filter(x=>x[1]!=null),
             map(x=>[new Date(x[0]), x[1]])
         ).subscribe(x=>plot3.plotData(x))
+
+
 }
 
 
