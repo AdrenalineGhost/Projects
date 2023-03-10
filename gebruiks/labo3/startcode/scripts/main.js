@@ -1,7 +1,7 @@
 import {stockAlphabet, stockAlphabetWithNullValues} from "./stock.js";
 import {Plot} from "./plot.js";
-const {map, filter} = rxjs.operators;
-import { from, Observable, internal, fromEvent } from "node_modules/rxjs";
+//import * as rxjs from "rxjs";
+var Rx = require('rx');
 const DOLARTOEURO = 0.94;
 
 window.onload = function () {
