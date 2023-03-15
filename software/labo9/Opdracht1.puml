@@ -1,0 +1,23 @@
+@startuml Groepnr ..
+Note as Info
+  Voornamen:Marwan Ze 
+  Groepnr: 22
+  Gebruikte design pattern(s): proxy
+end Note
+
+class IRealFile{
+  
+}
+
+class client
+
+class user
+
+class RealFile{
+  + content string {get()}
+  ~ RealFile(string filename)
+}
+
+
+
+@enduml
