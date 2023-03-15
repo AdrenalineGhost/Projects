@@ -1,0 +1,51 @@
+﻿<Window x:Class="ImageViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageViewer"
+        mc:Ignorable="d"
+        Title="ImageViewer" Height="700" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <GroupBox  Header="Open Afbeelding" FontSize="16" Margin="5" BorderThickness="3" BorderBrush="Black" Grid.Row="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Bestand:"  Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" FontSize="16"/>
+                <TextBox x:Name="Bestandsnaam" Grid.Column="1" Width="220" HorizontalAlignment="Left" VerticalAlignment="Center" BorderThickness="1" Margin="5"/>
+                <Button Content="Bladeren" Grid.Column="2" HorizontalAlignment="Center" Click="Button_Click" Margin="5" VerticalAlignment="Center" FontSize="16"/>
+
+
+            </Grid>
+        </GroupBox>
+        <Border BorderThickness="3" BorderBrush="Black" Grid.Row="1" Margin="5">
+            <Image x:Name="Image" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <RotateTransform x:Name="ImageRotateTransform"  Angle="0" />
+                </Image.RenderTransform>
+            </Image>
+        </Border>
+        <GroupBox  Header="Besturing" FontSize="16" Margin="5" BorderThickness="3" BorderBrush="Black" Grid.Row="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="38*"/>
+                    <ColumnDefinition Width="197*"/>
+                    <ColumnDefinition Width="235*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="ButtonLinks" IsEnabled="False" Content="Draai Links" FontSize="16" Click="Button_Links" Grid.Column="1" HorizontalAlignment="Center"  Margin="5" VerticalAlignment="Center"/>
+                <Button x:Name="ButtonRechts" IsEnabled="False" Content="Draai Rechts" Click="Button_Rechts" FontSize="16" Grid.Column="2" HorizontalAlignment="Center"  Margin="5" VerticalAlignment="Center"/>
+
+            </Grid>
+        </GroupBox>
+
+
+    </Grid>
+</Window>
