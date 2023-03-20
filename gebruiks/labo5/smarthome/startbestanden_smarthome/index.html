@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Ng7Pre</title>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <a class="navbar-brand" href="index.html">Smart home dashboard</a>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                <a class="nav-link" href="#">
+                    <i class="fas fa-home"></i>
+                    <span class="nav-link-text">Overview</span>
+                </a>
+            </li>
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="temperature">
+                <a class="nav-link" href="#">
+                    <i class="fas fa-temperature-high"></i>
+                    <span class="nav-link-text">Temperature</span>
+                </a>
+            </li>
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Energy">
+                <a class="nav-link" href="#">
+                    <i class="fas fa-bolt"></i>
+                    <span class="nav-link-text">Energy</span>
+                </a>
+            </li>
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Security">
+                <a class="nav-link" href="#">
+                    <i class="fas fa-shield-alt"></i>
+                    <span class="nav-link-text">Security</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <div class="card mb-3">
+            <div class="card-header">
+                <i class="fas fa-bell"></i> Notifications
+            </div>
+            <div class="card-body">
+                <div class="list-group list-group-flush small">
+                    <a class="list-group-item list-group-item-action">
+                        <div class="media">
+                            <i class="fas fa-lock" style="font-size: 30px; padding-right:10px;"></i>
+                            <div class="media-body">
+                                <p>Back door locked</p>
+                                <div class="text-muted smaller">1 hour ago</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a class="list-group-item list-group-item-action">
+                        <div class="media">
+                            <i class="fas fa-clock" style="font-size: 30px; padding-right:10px;"></i>
+                            <div class="media-body">
+                                <p>Wake up alarm in master bedroom</p>
+                                <div class="text-muted smaller">1 hour ago</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a class="list-group-item list-group-item-action">
+                        <div class="media">
+                            <i class="fas fa-bath" style="font-size: 30px; padding-right:10px;"></i>
+                            <div class="media-body">
+                                <p>Bathroom humidity reached threshold</p>
+                                <div class="text-muted smaller">1 hour ago</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a class="list-group-item list-group-item-action">
+                        <div class="media">
+                            <i class="fas fa-key" style="font-size: 30px; padding-right:10px;"></i>
+                            <div class="media-body">
+                                <p>Sam unlocked front door</p>
+                                <div class="text-muted smaller">1 hour ago</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a class="list-group-item list-group-item-action">
+                        <div class="media">
+                            <i class="fas fa-upload" style="font-size: 30px; padding-right:10px;"></i>
+                            <div class="media-body">
+                                <p>Cloud backup completed</p>
+                                <div class="text-muted smaller">1 hour ago</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a class="list-group-item list-group-item-action">Load more...</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+
+</html>

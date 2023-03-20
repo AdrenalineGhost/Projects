@@ -1,0 +1,11 @@
+{
+  "name": "smarthome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hello\");"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,34 @@
+' This was made entierly by copying the teacher
+@startuml Studentenbeheer
+skinparam ClassAttributeIconSize 0
+skinparam Linetype ortho
+' also these dont ever get explained for some reason and i hate it
+class Persoon{
+    # voornaam
+    # naam
+    # adres
+    # postcode
+    # gemeente
+    # geboortedatum
+}
+
+class Student{
+    + getTotaalAantalStudiepunten() : int
+    + voegVakToe (Opleidingsonderdeel vak)
+}
+
+class Docent{}
+' useless shit right here (~i dont know why this hasnt got any classes)
+
+class Opleidingsonderdeel{
+    - naam
+    - studiejaar
+    - aantalStudiepunten
+}
+
+student -|> Persoon
+Docent -|> Persoon
+Student "*" -- "-curriculum *" Opleidingsonderdeel
+Docent "-titularis" -- "-vakken *" Opleidingsonderdeel
+
+@enduml
