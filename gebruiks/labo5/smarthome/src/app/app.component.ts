@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import * as jsonData from '../assets/notifications.json';
+import jsonData from 'src/assets/notifications.json';
 
 @Component({
   selector: 'app-root',
@@ -8,5 +8,5 @@ import * as jsonData from '../assets/notifications.json';
 })
 export class AppComponent {
   title = 'smarthome';
-  jsonData = jsonData;
+  public jsonData = jsonData;
 }

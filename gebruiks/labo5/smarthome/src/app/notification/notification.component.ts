@@ -7,6 +7,6 @@ import { Component, Input} from '@angular/core';
 })
 export class NotificationComponent{
   @Input() icon: string|undefined; // This is vital for making this actually work
-  @Input() boodschap: string|undefined; // without the undefined it doesnt actually work for sonme reason
+  @Input() boodschap: string|undefined; // without the undefined it doesnt actually work for some reason
   timestamp = new Date();
 }
