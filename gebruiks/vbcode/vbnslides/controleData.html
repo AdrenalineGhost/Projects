@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Controle invoer</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <script src="js/controleData.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <section class="col">
+                <form id="invoerGegevens" name="invoerGegevens" action="https://www.w3schools.com/action_page.php" method="POST">
+                    <fieldset>
+                        <legend>Reservatieformulier</legend>
+                        <div class="form-group">
+                            <label class="form-label" for="idnaam">Naam</label>
+                            <input class="form-control" id="idnaam" type="text" name="naam" size="20" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="idtelefoon">Telefoon</label>
+                            <input class="form-control" id="idtelefoon" type="tel" name="telefoon" pattern="0[1-9][0-9]{7,8}" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="idstart">Start</label>
+                            <input class="form-control" id="idstart" type="date" name="startdatum" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="ideinde">Einde</label>
+                            <input class="form-control" id="ideinde" type="date" name="einddatum" required>
+                        </div>
+                    </fieldset>
+                    <button class="btn btn-primary" type="submit">Reserveer</button>
+                </form>
+            </section>
+        </div>
+    </div>
+</body>
+

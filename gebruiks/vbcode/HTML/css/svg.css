@@ -1,0 +1,20 @@
+#ster {
+    fill:grey;
+    stroke:maroon;
+    stroke-width:5;
+    fill-rule:evenodd;
+}
+
+rect{
+    fill:olive;
+    stroke:navy;
+    stroke-width:3px;
+}
+
+svg {
+    margin: 5px;
+    padding: 5px;
+    border-color: cadetblue;
+    border-width: 2px;
+    border-style: dotted
+}

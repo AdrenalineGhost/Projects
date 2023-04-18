@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400">
+    <circle cx="50" cy="171" r="40" 
+            style="fill: white;stroke: gray;stroke-width: 1px;"/>
+    <circle cx="50" cy="103" r="30" 
+            style="fill: white;stroke: gray;stroke-width: 1px;"/>
+    <circle cx="50" cy="50" r="25" 
+            style="fill: white;stroke: gray;stroke-width: 1px;"/>
+    <line x1="30" y1="25" x2="70" y2="25" 
+            style="fill: black; stroke: black; stroke-width: 3px;"/>
+    <rect x="40" y="10" width="20" height="15" 
+            style="fill: black; stroke: black; stroke-width: 3px;"/>
+    <circle cx="50" cy="82" r="4" 
+            style="fill: black;"/>
+    <circle cx="50" cy="100" r="4" 
+            style="fill: black;"/>
+    <circle cx="50" cy="118" r="4" 
+            style="fill: black;"/>
+    <circle cx="42" cy="42" r="4"
+            style="fill: black;" />
+    <circle cx="58" cy="42" r="4" 
+            style="fill: black;"/>
+    <polygon class="nose" points="45,60 45,50 60,55" 
+            style="fill: orange;"/>
+</svg>

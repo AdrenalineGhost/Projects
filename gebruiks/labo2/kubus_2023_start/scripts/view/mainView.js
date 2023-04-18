@@ -94,13 +94,13 @@ function full_turn(dire){
     load_rk()
 }
 
-/**
- * Brings the python sleep function to js
- * @param {int} milliseconds Amount to sleep for
- */
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
+// /**
+//  * Brings the python sleep function to js
+//  * @param {int} milliseconds Amount to sleep for
+//  */
+// function sleep(ms) {
+//   return new Promise(resolve => setTimeout(resolve, ms));
+// }
 
 
 /**
@@ -108,11 +108,15 @@ function sleep(ms) {
  * @param {direction} dire Axis of rotation
  * @param {boolean} counter clockwise or counter ckockwise
  */
-async function animate(dire, counter){
+ function animate(dire, counter){
     let factor = counter?-1:1
+    setTimeout(()=>{
     for (let index = 0; index < 90; index++){
-        await setTimeout(()=>{
+        setTimeout(()=>{
             load_rk(rk.getAllFaces3DDuringRotation(dir.get(dire), index * factor))
         }, 20)
     }
+    , 21
+    }).then(load_rk());
+
 }

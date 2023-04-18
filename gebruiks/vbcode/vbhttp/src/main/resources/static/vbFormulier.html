@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulierelementen</title>
+    </head>
+
+    <body>
+        <h1>Formulierelementen</h1>
+        <form action="..." method="post">
+            Naam: <input type="text" name="naam" size="20" value="Jouw naam"> <br>
+            Paswoord: <input type="password" name="wachtwoord" size="20"> <br>
+
+            Taal: <input type="radio" name="taal" value="nl" checked> Nederlands
+            <input type="radio" name="taal" value="fr"> Frans
+            <input type="radio" name="taal" value="en"> Engels <br>
+
+            Fruit: <select name="fruit">
+                <option value="appel">Appel
+                <option value="peer">Peer
+                <option value="kers">Kersen
+                <option value="druif">Druiven
+            </select> <br>
+
+            Sportkeuze:
+            <table>
+                <tr><td><input type="checkbox" name="sport" value="basket">Basket</td></tr>
+                <tr><td><input type="checkbox" name="sport" value="voetbal">Voetbal</td></tr>
+                <tr><td><input type="checkbox" name="sport" value="tennis" checked>Tennis</td></tr>
+                <tr><td><input type="checkbox" name="sport" value="zwemmen">Zwemmen</td></tr>
+                <tr><td><input type="checkbox" name="sport" value="schaatsen">Schaatsen</td></tr>
+            </table>
+
+            Opmerkingen:<br>
+            <textarea name="opmerking" rows="5" cols="40">
+            </textarea><br>
+
+            Fruit: <select name="fruit" multiple>
+                <option value="appel">Appel
+                <option value="peer">Peer
+                <option value="kers">Kersen
+                <option value="druif">Druiven
+            </select> <br>
+
+            <input type="hidden" name="verborgen" value="onzichtbare waarde">
+            <input type="submit" value="Indienen">
+            <input type="reset" value="Wissen">
+        </form>
+
+
+        <hr>
+
+    </body>
+</html>

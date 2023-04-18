@@ -1,4 +1,5 @@
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -9,6 +10,7 @@ import { EnergyComponent } from './energy/energy.component';
 import { SecurityComponent } from './security/security.component';
 import { OverviewComponent } from './overview/overview.component';
 import { TemperatureGaugeComponent } from './temperature-gauge/temperature-gauge.component';
+import { NotifDetailComponent } from './notif-detail/notif-detail.component';
 
 @NgModule({
   declarations: [
@@ -18,11 +20,13 @@ import { TemperatureGaugeComponent } from './temperature-gauge/temperature-gauge
     EnergyComponent,
     SecurityComponent,
     OverviewComponent,
-    TemperatureGaugeComponent
+    TemperatureGaugeComponent,
+    NotifDetailComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

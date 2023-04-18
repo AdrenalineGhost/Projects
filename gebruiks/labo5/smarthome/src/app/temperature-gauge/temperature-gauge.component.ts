@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class TemperatureGaugeComponent {
   title = "Bathroom";
-  temperature = 22;
+  temperature = 22 ;
 }

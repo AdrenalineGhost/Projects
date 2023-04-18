@@ -1,0 +1,28 @@
+<div *ngIf="weer !== undefined; then toonweer else geenweer"></div>
+<ng-template #toonweer>
+  <div *ngIf="weer !== undefined" class="weer">
+    <div>
+      {{weer.datum|date:'MM/dd/yyyy'}}
+    </div>
+    <div>
+      {{weer.temperatuur|number:'1.0-2'}}°C
+    </div>
+    <div>
+      vochtigheid {{weer.vochtigheid}}%
+    </div>
+    <div>
+      wolken {{weer.bewolkt}}%
+    </div>
+    <div>
+      {{weer.omschrijving}}
+    </div>
+    <div>
+      <img src="{{weer.afbeelding}}" alt="geen weer">
+      <!--<img [src]="afbeelding">-->
+      <!--<img bind-src="afbeelding">-->
+    </div>
+  </div>
+</ng-template>
+<ng-template #geenweer>
+  <div>Geen stad geselecteerd</div>
+</ng-template>

@@ -7,7 +7,7 @@
       </div>
       <div class="card-body">
         <div class="list-group list-group-flush small">
-          <app-notification *ngFor="let item of jsonData.notifications;" boodschap="{{item.message}}" icon="{{item.icon}}" />
+          <app-notification *ngFor="let item of jsonData.notifications;" boodschap="{{item.message}}" icon="{{item.icon}}" [id]="item.id" routerLink="/notification/{{item.id}}"/>
           <a class="list-group-item list-group-item-action">Load more...</a>
         </div>
       </div>

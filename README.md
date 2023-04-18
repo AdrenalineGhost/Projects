@@ -7,12 +7,13 @@
 - JS
 	- ReactJS
     - minesweeper solver
+    - A\* python
 
 ## CONTENTS
 
 - Examenvoorbereiding -> Java
 - c -> C & C++
 - py -> Python & Jupyter
-- gebruiks -> JS + CSS + HTML
+- gebruiks -> JS + CSS + HTML + RxJs + Angular
 - software -> c# + xaml
 - ...

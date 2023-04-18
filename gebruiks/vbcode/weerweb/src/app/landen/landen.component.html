@@ -1,0 +1,11 @@
+
+  <div *ngIf="landen !== undefined && landen.length != 0; then wellanden else geenLanden"></div>
+  <ng-template #wellanden>
+    <select class="custom-select" [(ngModel)]="selectedLand" (change)="veranderdLand()" >
+      <option *ngFor="let land of landen" [ngValue]="land">{{land.naam}}</option>
+    </select>
+  </ng-template>
+  <ng-template #geenLanden>
+    <div>Geen landen gevonden</div>
+  </ng-template>
+

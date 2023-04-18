@@ -1,0 +1,10 @@
+let c = document.getElementById("mijnCanvas");
+let cxt = c.getContext("2d");
+cxt.fillStyle = "yellow";
+cxt.strokeStyle = "blue";
+cxt.beginPath();
+cxt.moveTo(50,50);
+cxt.arc(50,50,20,0,Math.PI/4,false);
+cxt.closePath();
+cxt.fill();
+cxt.stroke();

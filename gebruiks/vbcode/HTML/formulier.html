@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <head>
+        <title>Formulier voorbeeld</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <h1>Gegevens</h1>
+                    <form action="http://users.ugent.be/~sleroux/post.py" method="POST">
+                        <fieldset><legend>Persoonlijke gegevens</legend>
+                            <div class="form-group">
+                                <label for="naam">Naam:</label>
+                                <input class="form-control" id="naam" name="naam" type="text" 
+                                       placeholder="Voornaam Naam">
+                            </div>
+                            <div class="form-group">
+                                <label>Geslacht:</label>
+                                <label for="man">Man</label>
+                                <input id="man" name="geslacht" type="radio" value="M">
+                                <label for="vrouw">Vrouw</label>
+                                <input id="vrouw" name="geslacht" type="radio" value="V">
+                            </div>
+                            <div class="form-group">
+                                <label for="geboortedatum">Geboortedatum:</label>
+                                <input class="form-control" id="geboortedatum" 
+                                       name="geboortedatum" type="date" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email:</label>
+                                <input class="form-control" name="email" id="email"
+                                       type="email" size="30">
+                            </div>
+                            <div class="form-group">
+                                <label for="telefoon">Telefoon:</label>
+                                <input class="form-control" name="telefoon" id="telefoon" 
+                                       type="tel" pattern="0[1-9][0-9]{7,8}">
+                            </div>
+                            <div class="form-group">    
+                                <label for="website">Website:</label>
+                                <input class="form-control" name="website" id="website" 
+                                       type="url">
+                            </div>
+                            <div class="form-group"> 
+                                <label for="land">Land:</label>
+                                <select class="form-control" name="land" id="land">
+                                    <option value="BE">België</option>
+                                    <option value="DE">Duitsland</option>
+                                    <option value="FR">Frankrijk</option>
+                                    <option value="GB">Groot-Brittanië</option>
+                                    <option value="LU">Luxemburg</option>
+                                    <option value="NL">Nederland</option>
+                                </select>
+                            </div>
+                        </fieldset>
+                        <fieldset><legend>Weetjes</legend>
+                            <div class="form-group">
+                                <label for="kleur">Lievelingskleur:</label>
+                                <input name="kleur" id="kleur" type="color">
+                            </div>
+                            <div class="form-group">
+                                <label for="schoenmaat">Schoenmaat:</label>
+                                <input name="schoenmaat" id="schoenmaat" type="number" 
+                                       min="29" max="50" step="1">
+                            </div>
+                            <div class="form-group">
+                                <label>Interesses:</label>
+                                <label for="sport">Sport</label>
+                                <input id="sport" name="interesses" type="checkbox" 
+                                       value="sport">
+                                <label for="nieuws">Actualiteit</label>
+                                <input id="nieuws" name="interesses" type="checkbox" 
+                                       value="actualiteit">
+                                <label for="muziek">Muziek</label>
+                                <input id="muziek" name="interesses" type="checkbox" 
+                                       value="muziek">
+                                <label for="literatuur">Literatuur</label>
+                                <input id="literatuur" name="interesses" type="checkbox" 
+                                       value="literatuur">
+                            </div>
+                            <div class="form-group">
+                                <label for="spreuk">Spreuk van de dag:</label>
+                                <textarea class="form-control" id="spreuk" name="spreuk"
+                                          cols="30" rows="5"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="slaaptijd">Slaaptijd om: </label>
+                                <input id="slaaptijd" name="slaaptijd" type="time">
+                            </div>
+                        </fieldset>
+                        <input class="btn btn-success" type="submit" value="Aanpassen">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
