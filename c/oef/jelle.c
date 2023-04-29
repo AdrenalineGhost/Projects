@@ -28,6 +28,5 @@ void verzetNaarEersteHoofdletter(const char **pbegin)
     while (**pbegin && !('A' <= **pbegin && **pbegin <= 'Z'))
     {
         (*pbegin)++;
-        printf("hey");
     }
 }
