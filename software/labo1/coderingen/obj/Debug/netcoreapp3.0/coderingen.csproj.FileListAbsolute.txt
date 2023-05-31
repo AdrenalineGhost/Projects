@@ -1,0 +1,11 @@
+F:\git\Projects\software\labo1\coderingen\obj\Debug\netcoreapp3.0\coderingen.csprojAssemblyReference.cache
+F:\git\Projects\software\labo1\coderingen\obj\Debug\netcoreapp3.0\coderingen.AssemblyInfoInputs.cache
+F:\git\Projects\software\labo1\coderingen\obj\Debug\netcoreapp3.0\coderingen.AssemblyInfo.cs
+F:\git\Projects\software\labo1\coderingen\bin\Debug\netcoreapp3.0\coderingen.exe
+F:\git\Projects\software\labo1\coderingen\bin\Debug\netcoreapp3.0\coderingen.deps.json
+F:\git\Projects\software\labo1\coderingen\bin\Debug\netcoreapp3.0\coderingen.runtimeconfig.json
+F:\git\Projects\software\labo1\coderingen\bin\Debug\netcoreapp3.0\coderingen.runtimeconfig.dev.json
+F:\git\Projects\software\labo1\coderingen\bin\Debug\netcoreapp3.0\coderingen.dll
+F:\git\Projects\software\labo1\coderingen\bin\Debug\netcoreapp3.0\coderingen.pdb
+F:\git\Projects\software\labo1\coderingen\obj\Debug\netcoreapp3.0\coderingen.dll
+F:\git\Projects\software\labo1\coderingen\obj\Debug\netcoreapp3.0\coderingen.pdb

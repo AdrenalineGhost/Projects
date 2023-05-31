@@ -12,17 +12,17 @@ namespace Labo2
         internal static string wissel(string zin)
         {
             StringBuilder sb = new StringBuilder();
+            char[] toadd;
             for (int i = 0; i < zin.Length; i += 2)
             {
                 Console.WriteLine(i);
-                char[] toadd;
                 try
                 {
-                    toadd = { zin[i + 1] , zin[i] };
+                    toadd = new[] { zin[i+1], zin[i]};
                 }
                 catch (Exception)
                 {
-                    toadd = { '0', zin[i] };
+                    toadd = new[] { '0', zin[i] };
                 }
                 sb.Append(toadd);
             }

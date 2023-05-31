@@ -1,8 +1,9 @@
-' This was made entierly by copying the teacher
+' This was made entirely by copying the teacher
 @startuml Studentenbeheer
 skinparam ClassAttributeIconSize 0
 skinparam Linetype ortho
-' also these dont ever get explained for some reason and i hate it
+' also these dont ever get explained for some reason and i hate it [i dont even know if i was talking about the skinparams or not]
+
 class Persoon{
     # voornaam
     # naam

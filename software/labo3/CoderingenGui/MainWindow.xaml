@@ -1,0 +1,47 @@
+﻿<Window x:Class="CoderingenGui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CoderingenGui"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <GroupBox Grid.ColumnSpan="3" Grid.Column="0" Grid.Row="0" Header="Kies Codering">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <RadioButton GroupName="radioArray" IsChecked="{Binding Path=RadioArray[0], Mode=TwoWay}" Grid.Column="0" Content="Blok" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <RadioButton GroupName="radioArray" IsChecked="{Binding Path=RadioArray[1], Mode=TwoWay}" Grid.Column="1" Content="Wissel" VerticalAlignment="Center" HorizontalAlignment="Center" Checked="RadioButton_Checked"/>
+                <RadioButton GroupName="radioArray" IsChecked="{Binding Path=RadioArray[2], Mode=TwoWay}" Grid.Column="2" Content="Cijfer" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Grid.ColumnSpan="3" Grid.Column="0" Grid.Row="1" Header="Invoertext">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="8*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox Grid.Column="0" HorizontalAlignment="Center" Text="Tekst:" VerticalAlignment="Center" Height="auto" Width="auto" IsReadOnly="True"/>
+                <TextBox Name="inputText" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="35" IsReadOnly="False" TextChanged="TextBox_TextChanged" Margin="0,41" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Grid.ColumnSpan="3" Grid.Column="0" Grid.Row="2" Header="Resultaat">
+            <TextBox Name="resultText" IsReadOnly="True" />
+        </GroupBox>
+
+
+
+
+    </Grid>
+</Window>

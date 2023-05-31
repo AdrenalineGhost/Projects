@@ -1,0 +1,27 @@
+﻿<Window x:Class="temp_converter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:temp_converter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="156.5" Width="183.5">
+    <Grid>
+        <TextBox Grid.Row="0" Grid.Column="1" Text="" Name="text1"  TextWrapping="Wrap" />
+        <Label Grid.Row="0" Grid.Column="0" Content="Temp in C" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="" Name="text2" IsReadOnly="True"  TextWrapping="Wrap" />
+        <Label Grid.Row="1" Grid.Column="0" Content="Temp in F" VerticalAlignment="Center"/>
+        <Button Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Content="convert&#xD;&#xA;" Click="Button_Click" RenderTransformOrigin="0.493,0.526"/>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+    </Grid>
+</Window>

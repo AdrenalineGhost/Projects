@@ -1,0 +1,14 @@
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp converter.csprojAssemblyReference.cache
+F:\git\Projects\software\labo3\temp converter\obj\Debug\MainWindow.g.cs
+F:\git\Projects\software\labo3\temp converter\obj\Debug\App.g.cs
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp converter_MarkupCompile.cache
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp converter_MarkupCompile.lref
+F:\git\Projects\software\labo3\temp converter\bin\Debug\temp converter.exe.config
+F:\git\Projects\software\labo3\temp converter\bin\Debug\temp converter.exe
+F:\git\Projects\software\labo3\temp converter\bin\Debug\temp converter.pdb
+F:\git\Projects\software\labo3\temp converter\obj\Debug\MainWindow.baml
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp converter.g.resources
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp_converter.Properties.Resources.resources
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp converter.csproj.GenerateResource.cache
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp converter.exe
+F:\git\Projects\software\labo3\temp converter\obj\Debug\temp converter.pdb

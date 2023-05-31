@@ -1,0 +1,14 @@
+F:\git\Projects\software\labo3\Chrono\bin\Debug\Chrono.exe.config
+F:\git\Projects\software\labo3\Chrono\bin\Debug\Chrono.exe
+F:\git\Projects\software\labo3\Chrono\bin\Debug\Chrono.pdb
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono.csprojAssemblyReference.cache
+F:\git\Projects\software\labo3\Chrono\obj\Debug\MainWindow.g.cs
+F:\git\Projects\software\labo3\Chrono\obj\Debug\App.g.cs
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono_MarkupCompile.cache
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono_MarkupCompile.lref
+F:\git\Projects\software\labo3\Chrono\obj\Debug\MainWindow.baml
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono.g.resources
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono.Properties.Resources.resources
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono.csproj.GenerateResource.cache
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono.exe
+F:\git\Projects\software\labo3\Chrono\obj\Debug\Chrono.pdb

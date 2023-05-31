@@ -8,7 +8,7 @@ int main(int argc, const char *argv[]){
 	if (argc == 3) {opened = atoi(argv[2]);} else {opened = 2;}
 
 
-	cout << "started" << endl << "argument_count= " << argc << endl << "tabs= " <<tabs << endl;
+	cout << "started" << endl << "tabs= " <<tabs << endl;
 	int counter = 0;
 	int tab_count = 1;
 	while(tab_count<tabs){

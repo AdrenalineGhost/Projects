@@ -1,0 +1,14 @@
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui.csprojAssemblyReference.cache
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\App.g.cs
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui_MarkupCompile.cache
+F:\git\Projects\software\labo3\CoderingenGui\bin\Debug\CoderingenGui.exe.config
+F:\git\Projects\software\labo3\CoderingenGui\bin\Debug\CoderingenGui.exe
+F:\git\Projects\software\labo3\CoderingenGui\bin\Debug\CoderingenGui.pdb
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\MainWindow.g.cs
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui_MarkupCompile.lref
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\MainWindow.baml
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui.g.resources
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui.Properties.Resources.resources
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui.csproj.GenerateResource.cache
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui.exe
+F:\git\Projects\software\labo3\CoderingenGui\obj\Debug\CoderingenGui.pdb
