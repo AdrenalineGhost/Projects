@@ -1,0 +1,12 @@
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\bin\Debug\net6.0\Catalogus.deps.json
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\bin\Debug\net6.0\Catalogus.dll
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\bin\Debug\net6.0\Catalogus.pdb
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\Catalogus.csproj.AssemblyReference.cache
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\Catalogus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\Catalogus.AssemblyInfoInputs.cache
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\Catalogus.AssemblyInfo.cs
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\Catalogus.csproj.CoreCompileInputs.cache
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\Catalogus.dll
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\refint\Catalogus.dll
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\Catalogus.pdb
+C:\Users\marle\Documents\git\SOLabo\SO_2023\oplossingen\NET6.0_projecten\Labo11\Catalogus\Catalogus\obj\Debug\net6.0\ref\Catalogus.dll

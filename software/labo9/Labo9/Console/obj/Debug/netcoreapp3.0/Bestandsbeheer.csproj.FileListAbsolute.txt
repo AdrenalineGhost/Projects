@@ -1,0 +1,14 @@
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Bestandsbeheer.AssemblyInfoInputs.cache
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Bestandsbeheer.AssemblyInfo.cs
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestandsbeheer.exe
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestandsbeheer.deps.json
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestandsbeheer.runtimeconfig.json
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestandsbeheer.runtimeconfig.dev.json
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestandsbeheer.dll
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestandsbeheer.pdb
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestanden.dll
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\Bestanden.pdb
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Bestandsbeheer.csprojAssemblyReference.cache
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Bestandsbeheer.csproj.CopyComplete
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Bestandsbeheer.dll
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Bestandsbeheer.pdb

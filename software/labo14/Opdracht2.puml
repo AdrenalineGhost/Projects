@@ -1,4 +1,5 @@
 @startuml Groepnr 22
+skinparam ClassAttributeIconSize 0
 skinparam linetype ortho
 Note as Info
   Voornamen: Ze, Marwan
@@ -7,36 +8,40 @@ Note as Info
 end Note
 
 class SingletonDatabase{
-  - {static} UniqueInstance : SingletonDatabase = new SingletonDatabase
+  - instance : SingletonDatabase 
   - SingletonDatabase()
-  - {static} readonly SingletonDatabase()
-  + {static} Instance() : SingletonDatabase
+  ~ SingletonDatabase()
+  + Instance{get;} : SingletonDatabase
+  - db : MySQLDataBase
+  + OpenConnection() : void
+  + CloseConnection() : void
 }
+note right : Constructor and Destructor
 
 Class User{
-    +User()
-    +FirstName: string 
-    +LastName: string
-    +ID: int
+    + User()
+    + FirstName: string 
+    + LastName: string
+    + ID: int
 }
 
 
 interface IDataBase{
-    +OpenConnection(): void 
-    +SelectAllUsers(): List<User>
-    +InsertUser(user: User): void
-    +DeleteUser(user: User): void
-    +IsConnected{get;}: bool
-    +CloseConnection(): void
+    + OpenConnection(): void 
+    + SelectAllUsers(): List<User>
+    + InsertUser(user: User): void
+    + DeleteUser(user: User): void
+    + IsConnected{get;}: bool
+    + CloseConnection(): void
 }
 
 object Client
-object MySQLDataBase
+class MySQLDataBase
 
+IDataBase <|.. MySQLDataBase
+MySQLDataBase <|-- SingletonDatabase
+IDataBase <-- User
 Client -- IDataBase
-MySQLDataBase --> User
-SingletonDatabase ..|> MySQLDataBase
-IDataBase ..|> MySQLDataBase
-IDataBase --o SingletonDatabase
+
 
 @enduml

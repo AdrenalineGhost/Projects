@@ -1,0 +1,11 @@
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+F:\git\Projects\software\labo9\Labo9\Console\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\ConsoleApp.pdb

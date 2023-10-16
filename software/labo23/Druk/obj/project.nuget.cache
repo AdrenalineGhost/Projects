@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtZfReDg2WXI1F13VRnADCMr0EyrN7KM71UazijqELyDWYUbiPa+OJLJMu4NH4xp/2fYFvhTyx+aO7uTaMY8Pw==",
+  "success": true,
+  "projectFilePath": "F:\\git\\Projects\\software\\labo23\\Druk\\Druk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marwan.elk2014\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\marwan.elk2014\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

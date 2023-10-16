@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1ef61Art0vi8UHMYi0kxy6E7iGt1Tp7Pv/YBIlUF2H/hkOBMFVIsykdNxUGB2JodE35vVNa6Su0B/288kFakg==",
+  "success": true,
+  "projectFilePath": "F:\\git\\Projects\\software\\labo23\\Drukmeter\\Drukmeter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marwan.elk2014\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\marwan.elk2014\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

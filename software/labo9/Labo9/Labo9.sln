@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bestandsbeheer", "Console\Bestandsbeheer.csproj", "{3E2D8D63-C7CB-4ED0-81D9-00AC954177E8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5C5A4D7C-CE8D-4637-B5B5-FAB157D8F4FC} = {5C5A4D7C-CE8D-4637-B5B5-FAB157D8F4FC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bestanden", "Bestanden\Bestanden.csproj", "{5C5A4D7C-CE8D-4637-B5B5-FAB157D8F4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2D8D63-C7CB-4ED0-81D9-00AC954177E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2D8D63-C7CB-4ED0-81D9-00AC954177E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2D8D63-C7CB-4ED0-81D9-00AC954177E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2D8D63-C7CB-4ED0-81D9-00AC954177E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5A4D7C-CE8D-4637-B5B5-FAB157D8F4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5A4D7C-CE8D-4637-B5B5-FAB157D8F4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5A4D7C-CE8D-4637-B5B5-FAB157D8F4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5A4D7C-CE8D-4637-B5B5-FAB157D8F4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B761497E-89B7-46CD-9891-E7C437DBBC9B}
+	EndGlobalSection
+EndGlobal

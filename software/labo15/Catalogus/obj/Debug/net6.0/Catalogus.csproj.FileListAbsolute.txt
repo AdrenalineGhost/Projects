@@ -1,0 +1,12 @@
+F:\git\Projects\software\labo15\Catalogus\bin\Debug\net6.0\Catalogus.deps.json
+F:\git\Projects\software\labo15\Catalogus\bin\Debug\net6.0\Catalogus.dll
+F:\git\Projects\software\labo15\Catalogus\bin\Debug\net6.0\Catalogus.pdb
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\Catalogus.csproj.AssemblyReference.cache
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\Catalogus.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\Catalogus.AssemblyInfoInputs.cache
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\Catalogus.AssemblyInfo.cs
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\Catalogus.csproj.CoreCompileInputs.cache
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\Catalogus.dll
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\refint\Catalogus.dll
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\Catalogus.pdb
+F:\git\Projects\software\labo15\Catalogus\obj\Debug\net6.0\ref\Catalogus.dll

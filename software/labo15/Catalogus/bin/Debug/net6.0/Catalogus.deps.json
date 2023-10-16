@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Catalogus/1.0.0": {
+        "dependencies": {
+          "YamlDotNet": "13.0.2"
+        },
+        "runtime": {
+          "Catalogus.dll": {}
+        }
+      },
+      "YamlDotNet/13.0.2": {
+        "runtime": {
+          "lib/net6.0/YamlDotNet.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Catalogus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/13.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hRPqCt2bxTvHN6iT2JNG2KznDPFgD5B6j0bQ7woSpfGctmjgAYdKQ+LYHUaj/7q8sN1AbIcTNbaO75g8IFmTjw==",
+      "path": "yamldotnet/13.0.2",
+      "hashPath": "yamldotnet.13.0.2.nupkg.sha512"
+    }
+  }
+}

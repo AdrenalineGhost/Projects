@@ -1,0 +1,14 @@
+@startuml
+skinparam ClassAttributeIconSize 0
+skinparam linetype ortho
+
+class Blad{
+    + BladImage : Image
+    + Blad()
+    + Move(canvas : Canvas)
+    + Add(canvas : Canvas)
+}
+
+
+
+@enduml

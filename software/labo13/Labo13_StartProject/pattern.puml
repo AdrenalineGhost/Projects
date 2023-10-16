@@ -1,0 +1,58 @@
+@startuml
+skinparam linetype ortho
+skinparam ClassAttributeIconSize 0
+
+
+frame UserDatabase{
+    interface IDatabase{
+        + CloseConnection() : void
+        + DeleteUser(user : User) : void
+        + InsertUser(user : User) : void
+        + OpenConnection() : void
+        + SelectAllUsers() : List<User>
+        + UpdateUser(user : User) : void
+        + IsConnected : bool
+    }
+    class MySQLDatabase
+    class User{
+        + User()
+        + FirstName : string 
+        + ID : int
+        + LastName : string
+    }
+}
+
+frame GebruikersPortaal{
+    interface IGebruikersLijst{
+        + PasAan(gebruiker : Gebruiker) : void
+        + Verwijder(gebruiker : Gebruiker) : void
+        + VoegToe(gebruiker : Gebruiker) : void
+        + {readonly}Gebruikers : Gebruiker[]
+    }
+    class GebruikersLijst{
+        + GebruikersLijst()
+    }
+    class Gebruiker{
+        + Gebruiker()
+        + Achternaam : string
+        + GebruikersCode : int
+        + VoorNaam : string
+    }
+}
+
+class Converter{
+    - database : IDatabase
+    + Convert(user : User) : Gebruiker
+    + Convert(gebruiker : Gebruiker) : User
+}
+
+Converter --|> MySQLDatabase
+Converter ..|> GebruikersLijst
+
+IGebruikersLijst <|-- GebruikersLijst
+GebruikersLijst o-- Gebruiker
+
+IDatabase <|-- MySQLDatabase
+MySQLDatabase o-- User
+
+@enduml

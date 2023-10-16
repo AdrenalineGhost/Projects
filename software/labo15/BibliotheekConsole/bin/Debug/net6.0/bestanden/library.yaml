@@ -1,0 +1,257 @@
+﻿id: GPT
+name: GPT-bibliotheek
+afdelingen:
+  - id: fiction
+    name: Fiction
+    afdelingen:
+      - id: science-fiction
+        name: Science Fiction
+        boeken:
+          - id: sf1
+            title: "The Hitchhiker's Guide to the Galaxy"
+            auteur: "Douglas Adams"
+            uitgeverij: "Pan Books"
+            jaartal: 1979
+          - id: sf2
+            title: "Ender's Game"
+            auteur: "Orson Scott Card"
+            uitgeverij: "Tor Books"
+            jaartal: 1985
+          - id: sf3
+            title: "Snow Crash"
+            auteur: "Neal Stephenson"
+            uitgeverij: "Bantam Spectra"
+            jaartal: 1992
+          - id: sf4
+            title: "The Hunger Games"
+            auteur: "Suzanne Collins"
+            uitgeverij: "Scholastic Press"
+            jaartal: 2008
+          - id: sf5
+            title: "Ready Player One"
+            auteur: "Ernest Cline"
+            uitgeverij: "Crown Publishers"
+            jaartal: 2011
+        tijdschriften:
+          - id: sf-mag1
+            title: "Lightspeed Magazine"
+            date: "01/01/2022"
+            uitgeverij: "Lightspeed Magazine"
+            artikels:
+              - id: sf-mag1-art1
+                title: "The Water That Falls on You from Nowhere"
+                auteur: "John Chu"
+              - id: sf-mag1-art2
+                title: "The Cambist and Lord Iron: A Fairy Tale of Economics"
+                auteur: "Daniel Abraham"
+              - id: sf-mag1-art3
+                title: "A Brief Guide to the Great Equations"
+                auteur: "Jeffrey Cook"
+      - id: fantasy
+        name: Fantasy
+        boeken:
+          - id: f1
+            title: "The Lord of the Rings"
+            auteur: "J.R.R. Tolkien"
+            uitgeverij: "George Allen & Unwin"
+            jaartal: 1954
+          - id: f2
+            title: "Harry Potter and the Philosopher's Stone"
+            auteur: "J.K. Rowling"
+            uitgeverij: "Bloomsbury"
+            jaartal: 1997
+          - id: f3
+            title: "A Song of Ice and Fire"
+            auteur: "George R.R. Martin"
+            uitgeverij: "Bantam Books"
+            jaartal: 1996
+          - id: f4
+            title: "The Name of the Wind"
+            auteur: "Patrick Rothfuss"
+            uitgeverij: "DAW Books"
+            jaartal: 2007
+          - id: f5
+            title: "The Lies of Locke Lamora"
+            auteur: "Scott Lynch"
+            uitgeverij: "Gollancz"
+            jaartal: 2006
+      - id: horror
+        name: Horror
+        boeken:
+          - id: h1
+            title: "It"
+            auteur: "Stephen King"
+            uitgeverij: "Viking Press"
+            jaartal: 1986
+          - id: h2
+            title: "The Silence of the Lambs"
+            auteur: "Thomas Harris"
+            uitgeverij: "St. Martin's Press"
+            jaartal: 1988
+          - id: h3
+            title: "The Girl with All the Gifts"
+            auteur: "M.R. Carey"
+            uitgeverij: "Orbit Books"
+            jaartal: 2014
+          - id: h4
+            title: "Bird Box"
+            auteur: "Josh Malerman"
+            uitgeverij: "Ecco Press"
+            jaartal: 2014
+          - id: h5
+            title: "Mexican Gothic"
+            auteur: "Silvia Moreno-Garcia"
+            uitgeverij: "Del Rey Books"
+            jaartal: 2020
+        tijdschriften:
+          - id: h-mag1
+            title: "Nightmare Magazine"
+            date: "01/01/2022"
+            uitgeverij: "Nightmare Magazine"
+            artikels:
+              - id: h-mag1-art1
+                title: "The Necessity of Horror"
+                auteur: "Laird Barron"
+              - id: h-mag1-art2
+                title: "The Worms Crawl In"
+                auteur: "Adam-Troy Castro"
+              - id: h-mag1-art3
+                title: "The Letting Go"
+                auteur: "Caroline M. Yoachim"
+  - id: non-fiction
+    name: Non-Fiction
+    afdelingen:
+      - id: history
+        name: History
+        boeken:
+          - id: hist1
+            title: "A Brief History of Time"
+            auteur: "Stephen Hawking"
+            uitgeverij: "Bantam Books"
+            jaartal: 1988
+          - id: hist2
+            title: "The Guns of August"
+            auteur: "Barbara W. Tuchman"
+            uitgeverij: "Macmillan Publishers"
+            jaartal: 1962
+          - id: hist3
+            title: "Guns, Germs, and Steel: The Fates of Human Societies"
+            auteur: "Jared Diamond"
+            uitgeverij: "W. W. Norton & Company"
+            jaartal: 1997
+          - id: hist4
+            title: "The Emperor of All Maladies: A Biography of Cancer"
+            auteur: "Siddhartha Mukherjee"
+            uitgeverij: "Scribner"
+            jaartal: 2010
+          - id: hist5
+            title: "Sapiens: A Brief History of Humankind"
+            auteur: "Yuval Noah Harari"
+            uitgeverij: "HarperCollins"
+            jaartal: 2011
+        tijdschriften:
+          - id: hist-mag1
+            title: "National Geographic"
+            date: "01/01/2022"
+            uitgeverij: "National Geographic Society"
+            artikels:
+              - id: hist-mag1-art1
+                title: "How We Became Human"
+                auteur: "David Reich"
+      - id: science
+        name: "Science"
+        afdelingen:
+          - id: physics
+            name: Physics
+            boeken:
+              - id: phys1
+                title: "A Brief History of Time"
+                auteur: "Stephen Hawking"
+                uitgeverij: "Bantam Books"
+                jaartal: 1988
+              - id: phys2
+                title: "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
+                auteur: "Brian Greene"
+                uitgeverij: "W. W. Norton & Company"
+                jaartal: 1999
+              - id: phys3
+                title: "The Fabric of the Cosmos: Space, Time, and the Texture of Reality"
+                auteur: "Brian Greene"
+                uitgeverij: "Vintage Books"
+                jaartal: 2004
+              - id: phys4
+                title: "The Theory of Everything: The Origin and Fate of the Universe"
+                auteur: "Stephen Hawking"
+                uitgeverij: "Bantam Books"
+                jaartal: 2002
+              - id: phys5
+                title: "The Grand Design"
+                auteur: "Stephen Hawking"
+                uitgeverij: "Bantam Books"
+                jaartal: 2010
+          - id: biology
+            name: Biology
+            boeken:
+              - id: "bio1"
+                title: "The Selfish Gene"
+                auteur: "Richard Dawkins"
+                uitgeverij: "Oxford University Press"
+                jaartal: 1976
+              - id: "bio2"
+                title: "The Immortal Life of Henrietta Lacks"
+                auteur: "Rebecca Skloot"
+                uitgeverij: "Crown Publishing Group"
+                jaartal: 2010
+          - id: envirnoment
+            name: "Environment"
+            boeken:
+              - id: "env1"
+                title: "The Sixth Extinction: An Unnatural History"
+                auteur: "Elizabeth Kolbert"
+                uitgeverij: "Henry Holt and Company"
+                jaartal: 2014
+              - id: "env2"
+                title: "The Uninhabitable Earth: Life After Warming"
+                auteur: "David Wallace-Wells"
+                uitgeverij: "Tim Duggan Books"
+                jaartal: 2019
+              - id: "env3"
+                title: "The World Without Us"
+                auteur: "Alan Weisman"
+                uitgeverij: "Simon & Schuster"
+                jaartal: 2007
+              - id: "env4"
+                title: "The Sixth Extinction: An Unnatural History"
+                auteur: "Elizabeth Kolbert"
+                uitgeverij: "Henry Holt and Company"
+                jaartal: 2014
+              - id: "env5"
+                title: "The Uninhabitable Earth: Life After Warming"
+                auteur: "David Wallace-Wells"
+                uitgeverij: "Tim Duggan Books"
+                jaartal: 2019
+              - id: "env6"
+                title: "The World Without Us"
+                auteur: "Alan Weisman"
+                uitgeverij: "Simon & Schuster"
+                jaartal: 2007
+              - id: "env7"
+                title: "The Sixth Extinction: An Unnatural History"
+                auteur: "Elizabeth Kolbert"
+                uitgeverij: "Henry Holt and Company"
+                jaartal: 2014
+              - id: "env8"
+                title: "The Uninhabitable Earth: Life After Warming"
+                auteur: "David Wallace-Wells"
+                uitgeverij: "Tim Duggan Books"
+                jaartal: 2019
+              - id: "env9"
+                title: "The World Without Us"
+                auteur: "Alan Weisman"
+                uitgeverij: "Simon & Schuster"
+                jaartal: 2007
+              - id: "env10"
+                title: "The Sixth Extinction: An Unnatural History"
+                auteur: "Elizabeth Kolbert"
+                uitgeverij: "Henry Holt"
+                jaartal: 2014

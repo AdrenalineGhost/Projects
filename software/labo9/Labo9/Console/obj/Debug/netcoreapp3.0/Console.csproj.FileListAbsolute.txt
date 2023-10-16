@@ -1,0 +1,3 @@
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Console.csprojAssemblyReference.cache
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Console.AssemblyInfoInputs.cache
+F:\git\Projects\software\labo9\Labo9\Console\obj\Debug\netcoreapp3.0\Console.AssemblyInfo.cs

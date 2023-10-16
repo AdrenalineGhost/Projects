@@ -1,0 +1,2636 @@
+{
+  "result": [
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 19:15 naar #Eeklo heeft een vertraging van 22 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.L767",
+        "arrival_delay": 1320,
+        "arrival_time": "1579972500",
+        "arrival_platform": "2",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Eeklo"
+      },
+      "timestamp": 1579972500000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 16:39 naar #Oostende heeft een vertraging van 22 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.IC536",
+        "arrival_delay": 1320,
+        "arrival_time": "1579963140",
+        "arrival_platform": "12",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Oostende"
+      },
+      "timestamp": 1579963140000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 16:09 naar #Kortrijk heeft een vertraging van 22 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.IC435",
+        "arrival_delay": 1320,
+        "arrival_time": "1579961340",
+        "arrival_platform": "7",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Kortrijk"
+      },
+      "timestamp": 1579961340000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Dampoort om 10:23 naar #Eeklo heeft een vertraging van 22 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.L758",
+        "arrival_delay": 1320,
+        "arrival_time": "1579940580",
+        "arrival_platform": "2",
+        "canceled": false,
+        "from": "Gent-Dampoort",
+        "to": "Eeklo"
+      },
+      "timestamp": 1579940580000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 10:12 naar #Eeklo heeft een vertraging van 21 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.L758",
+        "arrival_delay": 1260,
+        "arrival_time": "1579939920",
+        "arrival_platform": "1",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Eeklo"
+      },
+      "timestamp": 1579939920000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Dampoort om 06:37 naar #Antwerpen-Centraal heeft een vertraging van 42 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.IC726",
+        "arrival_delay": 2520,
+        "arrival_time": "1579927020",
+        "arrival_platform": "2",
+        "canceled": false,
+        "from": "Gent-Dampoort",
+        "to": "Antwerpen-Centraal"
+      },
+      "timestamp": 1579927020000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 20:05 naar #Landen heeft een vertraging van 23 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.IC3616",
+        "arrival_delay": 1380,
+        "arrival_time": "1579889100",
+        "arrival_platform": "6",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Landen"
+      },
+      "timestamp": 1579889100000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 19:24 naar #Blankenberge heeft een vertraging van 31 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.IC1539",
+        "arrival_delay": 1860,
+        "arrival_time": "1579886640",
+        "arrival_platform": "12",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Blankenberge"
+      },
+      "timestamp": 1579886640000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 19:14 naar #Oostende heeft een vertraging van 28 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.P8002",
+        "arrival_delay": 1680,
+        "arrival_time": "1579886040",
+        "arrival_platform": "12",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Oostende"
+      },
+      "timestamp": 1579886040000
+    },
+    {
+      "alarmName": "iRail Delays",
+      "type": "delay",
+      "source": "iRail",
+      "transport": "train",
+      "payload": {
+        "message": "De trein van: Gent-Sint-Pieters om 19:13 naar #Landen heeft een vertraging van 21 minuten",
+        "latitude": 51.0361237,
+        "longitude": 3.7109366,
+        "vehicle": "BE.NMBS.IC3616",
+        "arrival_delay": 1260,
+        "arrival_time": "1579885980",
+        "arrival_platform": "6",
+        "canceled": false,
+        "from": "Gent-Sint-Pieters",
+        "to": "Landen"
+      },
+      "timestamp": 1579885980000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357771720",
+        "type_id": "122",
+        "lat": 51.07854,
+        "lng": 3.44052,
+        "heading": "300",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 13:08:55",
+        "confirmations": "496",
+        "length": "3001",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357771720",
+        "latitude": 51.07854,
+        "longitude": 3.44052,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 13:08:55",
+        "confirmations": "496",
+        "length": "3001",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508411335000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359284618",
+        "type_id": "26",
+        "lat": 51.08406,
+        "lng": 3.42714,
+        "heading": "120",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 13:05:44",
+        "last_confirmation": "2017-10-19 13:08:45",
+        "confirmations": "4",
+        "length": "2998",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359284618",
+        "latitude": 51.08406,
+        "longitude": 3.42714,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 13:05:44",
+        "last_confirmation": "2017-10-19 13:08:45",
+        "confirmations": "4",
+        "length": "2998",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508411325000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "130921101",
+        "type_id": "127",
+        "lat": 51.0009,
+        "lng": 3.76382,
+        "heading": "112",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 13:08:36",
+        "last_confirmation": "2017-10-19 13:08:37",
+        "confirmations": "0",
+        "length": "1221",
+        "zones": [
+          {
+            "point_1": {
+              "latitude": 50.997126917931,
+              "longitude": 3.7801976466138
+            },
+            "point_2": {
+              "latitude": 50.996293081458,
+              "longitude": 3.7796623581956
+            },
+            "point_3": {
+              "latitude": 51.000483081458,
+              "longitude": 3.763552334026
+            },
+            "point_4": {
+              "latitude": 51.001316917931,
+              "longitude": 3.7640876707846
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 50.998639481458,
+                "longitude": 3.7706407446606
+              },
+              "point_2": {
+                "latitude": 50.9998944,
+                "longitude": 3.7676864
+              },
+              "point_3": {
+                "latitude": 50.999473317931,
+                "longitude": 3.7711760601495
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 50.997256781458,
+                "longitude": 3.7759570526366
+              },
+              "point_2": {
+                "latitude": 50.9985117,
+                "longitude": 3.7730027
+              },
+              "point_3": {
+                "latitude": 50.998090617931,
+                "longitude": 3.7764923521731
+              }
+            }
+          }
+        ],
+        "vr": false,
+        "type_lbl": "Bouchon automatique"
+      },
+      "payload": {
+        "id": "130921101",
+        "latitude": 51.0009,
+        "longitude": 3.76382,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 13:08:36",
+        "last_confirmation": "2017-10-19 13:08:37",
+        "confirmations": "0",
+        "length": "1221",
+        "type_lbl": "Bouchon automatique"
+      },
+      "timestamp": 1508411317000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357759992",
+        "type_id": "122",
+        "lat": 51.07553,
+        "lng": 3.45012,
+        "heading": "110",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 13:08:36",
+        "confirmations": "568",
+        "length": "3000",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357759992",
+        "latitude": 51.07553,
+        "longitude": 3.45012,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 13:08:36",
+        "confirmations": "568",
+        "length": "3000",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508411316000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359289916",
+        "type_id": "122",
+        "lat": 51.09151,
+        "lng": 3.64838,
+        "heading": "116",
+        "speed_limit": "70",
+        "road_name": "N9",
+        "first_declaration": "2017-10-19 13:08:31",
+        "last_confirmation": "2017-10-19 13:08:31",
+        "confirmations": "1",
+        "length": "2000",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1359289916",
+        "latitude": 51.09151,
+        "longitude": 3.64838,
+        "speed_limit": "70",
+        "road_name": "N9",
+        "first_declaration": "2017-10-19 13:08:31",
+        "last_confirmation": "2017-10-19 13:08:31",
+        "confirmations": "1",
+        "length": "2000",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508411311000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359053584",
+        "type_id": "26",
+        "lat": 51.07492,
+        "lng": 3.45031,
+        "heading": "152",
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 13:07:12",
+        "confirmations": "11",
+        "length": "700",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359053584",
+        "latitude": 51.07492,
+        "longitude": 3.45031,
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 13:07:12",
+        "confirmations": "11",
+        "length": "700",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508411232000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359282724",
+        "type_id": "26",
+        "lat": 51.0515,
+        "lng": 3.82784,
+        "heading": "72",
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 13:04:54",
+        "last_confirmation": "2017-10-19 13:07:10",
+        "confirmations": "5",
+        "length": "2996",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359282724",
+        "latitude": 51.0515,
+        "longitude": 3.82784,
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 13:04:54",
+        "last_confirmation": "2017-10-19 13:07:10",
+        "confirmations": "5",
+        "length": "2996",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508411230000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359146278",
+        "type_id": "26",
+        "lat": 50.97671,
+        "lng": 3.66424,
+        "heading": "214",
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 13:07:09",
+        "confirmations": "21",
+        "length": "1957",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359146278",
+        "latitude": 50.97671,
+        "longitude": 3.66424,
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 13:07:09",
+        "confirmations": "21",
+        "length": "1957",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508411229000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359287046",
+        "type_id": "24",
+        "lat": 51.10714,
+        "lng": 3.68602,
+        "heading": "68",
+        "speed_limit": "70",
+        "road_name": "",
+        "first_declaration": "2017-10-19 13:06:54",
+        "last_confirmation": "2017-10-19 13:06:54",
+        "confirmations": "1",
+        "length": "1706",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident trafic"
+      },
+      "payload": {
+        "id": "1359287046",
+        "latitude": 51.10714,
+        "longitude": 3.68602,
+        "speed_limit": "70",
+        "road_name": "",
+        "first_declaration": "2017-10-19 13:06:54",
+        "last_confirmation": "2017-10-19 13:06:54",
+        "confirmations": "1",
+        "length": "1706",
+        "type_lbl": "Incident trafic"
+      },
+      "timestamp": 1508411214000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357779878",
+        "type_id": "26",
+        "lat": 51.00808,
+        "lng": 3.73633,
+        "heading": "292",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 05:02:39",
+        "last_confirmation": "2017-10-19 13:06:45",
+        "confirmations": "526",
+        "length": "2999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1357779878",
+        "latitude": 51.00808,
+        "longitude": 3.73633,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 05:02:39",
+        "last_confirmation": "2017-10-19 13:06:45",
+        "confirmations": "526",
+        "length": "2999",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508411205000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359279112",
+        "type_id": "26",
+        "lat": 51.05987,
+        "lng": 3.8601,
+        "heading": "244",
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 13:03:28",
+        "last_confirmation": "2017-10-19 13:03:28",
+        "confirmations": "1",
+        "length": "2998",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359279112",
+        "latitude": 51.05987,
+        "longitude": 3.8601,
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 13:03:28",
+        "last_confirmation": "2017-10-19 13:03:28",
+        "confirmations": "1",
+        "length": "2998",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508411008000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359276830",
+        "type_id": "28",
+        "lat": 51.11177,
+        "lng": 3.43223,
+        "heading": "60",
+        "speed_limit": "50",
+        "road_name": "",
+        "first_declaration": "2017-10-19 13:02:26",
+        "last_confirmation": "2017-10-19 13:02:26",
+        "confirmations": "1",
+        "length": "541",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Danger"
+      },
+      "payload": {
+        "id": "1359276830",
+        "latitude": 51.11177,
+        "longitude": 3.43223,
+        "speed_limit": "50",
+        "road_name": "",
+        "first_declaration": "2017-10-19 13:02:26",
+        "last_confirmation": "2017-10-19 13:02:26",
+        "confirmations": "1",
+        "length": "541",
+        "type_lbl": "Danger"
+      },
+      "timestamp": 1508410946000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359245692",
+        "type_id": "26",
+        "lat": 51.01813,
+        "lng": 3.75372,
+        "heading": "102",
+        "speed_limit": "50",
+        "road_name": "N444",
+        "first_declaration": "2017-10-19 12:48:23",
+        "last_confirmation": "2017-10-19 13:01:42",
+        "confirmations": "3",
+        "length": "698",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359245692",
+        "latitude": 51.01813,
+        "longitude": 3.75372,
+        "speed_limit": "50",
+        "road_name": "N444",
+        "first_declaration": "2017-10-19 12:48:23",
+        "last_confirmation": "2017-10-19 13:01:42",
+        "confirmations": "3",
+        "length": "698",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410902000
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 3,
+      "sourcePayload": {
+        "country": "BE",
+        "nThumbsUp": 0,
+        "reportRating": 0,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "id": "b088ea06-fe11-3bec-aaf5-a1e68036378f",
+        "roadType": 3,
+        "magvar": 295,
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "E40 - A10",
+        "location": {
+          "x": 3.753312,
+          "y": 51.003332
+        },
+        "pubMillis": 1508410442097
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: E40 - A10",
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "E40 - A10",
+        "longitude": 3.753312,
+        "latitude": 51.003332,
+        "reliability": 5,
+        "pubMillis": 1508410442097
+      },
+      "timestamp": 1508410442097
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357759992",
+        "type_id": "122",
+        "lat": 51.07553,
+        "lng": 3.45012,
+        "heading": "110",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 12:53:43",
+        "confirmations": "552",
+        "length": "3000",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357759992",
+        "latitude": 51.07553,
+        "longitude": 3.45012,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 12:53:43",
+        "confirmations": "552",
+        "length": "3000",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508410423000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359146278",
+        "type_id": "26",
+        "lat": 50.97671,
+        "lng": 3.66424,
+        "heading": "214",
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 12:53:42",
+        "confirmations": "14",
+        "length": "1957",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359146278",
+        "latitude": 50.97671,
+        "longitude": 3.66424,
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 12:53:42",
+        "confirmations": "14",
+        "length": "1957",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410422000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "157602301",
+        "type_id": "127",
+        "lat": 51.18796,
+        "lng": 3.55965,
+        "heading": "140",
+        "speed_limit": "70",
+        "road_name": "N9",
+        "first_declaration": "2017-10-19 12:53:37",
+        "last_confirmation": "2017-10-19 12:53:38",
+        "confirmations": "0",
+        "length": "2080",
+        "zones": [
+          {
+            "point_1": {
+              "latitude": 51.175554302553,
+              "longitude": 3.5814302555245
+            },
+            "point_2": {
+              "latitude": 51.175025694576,
+              "longitude": 3.5802697511279
+            },
+            "point_3": {
+              "latitude": 51.178105694576,
+              "longitude": 3.5767597123641
+            },
+            "point_4": {
+              "latitude": 51.178634302553,
+              "longitude": 3.5779202942895
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.176750494576,
+                "longitude": 3.5783041294202
+              },
+              "point_2": {
+                "latitude": 51.1776308,
+                "longitude": 3.5781824
+              },
+              "point_3": {
+                "latitude": 51.177279102553,
+                "longitude": 3.5794646772329
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.175734094576,
+                "longitude": 3.5794624422122
+              },
+              "point_2": {
+                "latitude": 51.1766144,
+                "longitude": 3.5793407
+              },
+              "point_3": {
+                "latitude": 51.176262702553,
+                "longitude": 3.5806229644405
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.178568282345,
+              "longitude": 3.5779882897715
+            },
+            "point_2": {
+              "latitude": 51.178091714501,
+              "longitude": 3.5767717165164
+            },
+            "point_3": {
+              "latitude": 51.178911714501,
+              "longitude": 3.5759717056971
+            },
+            "point_4": {
+              "latitude": 51.179388282345,
+              "longitude": 3.5771883005911
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.178550914501,
+                "longitude": 3.5763237104576
+              },
+              "point_2": {
+                "latitude": 51.1789532,
+                "longitude": 3.576772
+              },
+              "point_3": {
+                "latitude": 51.179027482345,
+                "longitude": 3.5775402958305
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.178280314501,
+                "longitude": 3.576587714028
+              },
+              "point_2": {
+                "latitude": 51.1786826,
+                "longitude": 3.577036
+              },
+              "point_3": {
+                "latitude": 51.178756882345,
+                "longitude": 3.57780429226
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.179394302553,
+              "longitude": 3.5771903038559
+            },
+            "point_2": {
+              "latitude": 51.178865694576,
+              "longitude": 3.576029702798
+            },
+            "point_3": {
+              "latitude": 51.179765694576,
+              "longitude": 3.5750196914691
+            },
+            "point_4": {
+              "latitude": 51.180294302553,
+              "longitude": 3.5761803151851
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.179369694576,
+                "longitude": 3.5754640964538
+              },
+              "point_2": {
+                "latitude": 51.179814,
+                "longitude": 3.5758424
+              },
+              "point_3": {
+                "latitude": 51.179898302553,
+                "longitude": 3.5766247102002
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.179072694576,
+                "longitude": 3.5757974001923
+              },
+              "point_2": {
+                "latitude": 51.179517,
+                "longitude": 3.5761757
+              },
+              "point_3": {
+                "latitude": 51.179601302553,
+                "longitude": 3.5769580064616
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.180286837472,
+              "longitude": 3.5762052471276
+            },
+            "point_2": {
+              "latitude": 51.179733159805,
+              "longitude": 3.5750747596611
+            },
+            "point_3": {
+              "latitude": 51.181763159805,
+              "longitude": 3.5726247347697
+            },
+            "point_4": {
+              "latitude": 51.182316837471,
+              "longitude": 3.5737552720199
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.180869959805,
+                "longitude": 3.5737027457219
+              },
+              "point_2": {
+                "latitude": 51.1815528,
+                "longitude": 3.573778
+              },
+              "point_3": {
+                "latitude": 51.181423637472,
+                "longitude": 3.5748332610673
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.180200059805,
+                "longitude": 3.5745112539361
+              },
+              "point_2": {
+                "latitude": 51.1808829,
+                "longitude": 3.5745865
+              },
+              "point_3": {
+                "latitude": 51.180753737472,
+                "longitude": 3.5756417528529
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.182350650257,
+              "longitude": 3.5738056660063
+            },
+            "point_2": {
+              "latitude": 51.181549348839,
+              "longitude": 3.5731543396547
+            },
+            "point_3": {
+              "latitude": 51.183849348839,
+              "longitude": 3.565994323405
+            },
+            "point_4": {
+              "latitude": 51.184650650257,
+              "longitude": 3.5666456822567
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.182837348839,
+                "longitude": 3.5691447305549
+              },
+              "point_2": {
+                "latitude": 51.183698,
+                "longitude": 3.5680384
+              },
+              "point_3": {
+                "latitude": 51.183638650257,
+                "longitude": 3.5697960751065
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.182078348839,
+                "longitude": 3.5715075359173
+              },
+              "point_2": {
+                "latitude": 51.182939,
+                "longitude": 3.5704012
+              },
+              "point_3": {
+                "latitude": 51.182879650257,
+                "longitude": 3.5721588697439
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.184509362372,
+              "longitude": 3.5669306400911
+            },
+            "point_2": {
+              "latitude": 51.18383063574,
+              "longitude": 3.5659893668391
+            },
+            "point_3": {
+              "latitude": 51.18762063574,
+              "longitude": 3.5591793281376
+            },
+            "point_4": {
+              "latitude": 51.188299362372,
+              "longitude": 3.5601206787941
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.18595303574,
+                "longitude": 3.5621757451662
+              },
+              "point_2": {
+                "latitude": 51.1870504,
+                "longitude": 3.5612844
+              },
+              "point_3": {
+                "latitude": 51.186631762372,
+                "longitude": 3.5631170617648
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.18470233574,
+                "longitude": 3.5644230579377
+              },
+              "point_2": {
+                "latitude": 51.1857997,
+                "longitude": 3.5635317
+              },
+              "point_3": {
+                "latitude": 51.185381062372,
+                "longitude": 3.5653643489928
+              }
+            }
+          }
+        ],
+        "vr": false,
+        "type_lbl": "Bouchon automatique"
+      },
+      "payload": {
+        "id": "157602301",
+        "latitude": 51.18796,
+        "longitude": 3.55965,
+        "speed_limit": "70",
+        "road_name": "N9",
+        "first_declaration": "2017-10-19 12:53:37",
+        "last_confirmation": "2017-10-19 12:53:38",
+        "confirmations": "0",
+        "length": "2080",
+        "type_lbl": "Bouchon automatique"
+      },
+      "timestamp": 1508410418000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359208174",
+        "type_id": "26",
+        "lat": 51.01786,
+        "lng": 3.67011,
+        "heading": "254",
+        "speed_limit": "70",
+        "road_name": "N43",
+        "first_declaration": "2017-10-19 12:32:54",
+        "last_confirmation": "2017-10-19 12:53:37",
+        "confirmations": "4",
+        "length": "1984",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359208174",
+        "latitude": 51.01786,
+        "longitude": 3.67011,
+        "speed_limit": "70",
+        "road_name": "N43",
+        "first_declaration": "2017-10-19 12:32:54",
+        "last_confirmation": "2017-10-19 12:53:37",
+        "confirmations": "4",
+        "length": "1984",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410417000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357779878",
+        "type_id": "26",
+        "lat": 51.00808,
+        "lng": 3.73633,
+        "heading": "292",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 05:02:39",
+        "last_confirmation": "2017-10-19 12:53:29",
+        "confirmations": "516",
+        "length": "2999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1357779878",
+        "latitude": 51.00808,
+        "longitude": 3.73633,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 05:02:39",
+        "last_confirmation": "2017-10-19 12:53:29",
+        "confirmations": "516",
+        "length": "2999",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410409000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359053584",
+        "type_id": "26",
+        "lat": 51.07492,
+        "lng": 3.45031,
+        "heading": "152",
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 12:53:12",
+        "confirmations": "10",
+        "length": "700",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359053584",
+        "latitude": 51.07492,
+        "longitude": 3.45031,
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 12:53:12",
+        "confirmations": "10",
+        "length": "700",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410392000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357771720",
+        "type_id": "122",
+        "lat": 51.07854,
+        "lng": 3.44052,
+        "heading": "300",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 12:52:56",
+        "confirmations": "482",
+        "length": "3001",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357771720",
+        "latitude": 51.07854,
+        "longitude": 3.44052,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 12:52:56",
+        "confirmations": "482",
+        "length": "3001",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508410376000
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 3,
+      "sourcePayload": {
+        "country": "BE",
+        "nThumbsUp": 0,
+        "reportRating": 3,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "id": "e259c964-1bff-31ad-9327-3b42464b3cc3",
+        "roadType": 3,
+        "magvar": 291,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "E40 - A10",
+        "location": {
+          "x": 3.753998,
+          "y": 51.003154
+        },
+        "pubMillis": 1508410313403
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: E40 - A10",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "E40 - A10",
+        "longitude": 3.753998,
+        "latitude": 51.003154,
+        "reliability": 5,
+        "pubMillis": 1508410313403
+      },
+      "timestamp": 1508410313403
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359113570",
+        "type_id": "26",
+        "lat": 51.05367,
+        "lng": 3.83743,
+        "heading": "68",
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 11:59:31",
+        "last_confirmation": "2017-10-19 12:51:02",
+        "confirmations": "56",
+        "length": "2998",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359113570",
+        "latitude": 51.05367,
+        "longitude": 3.83743,
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 11:59:31",
+        "last_confirmation": "2017-10-19 12:51:02",
+        "confirmations": "56",
+        "length": "2998",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410262000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359245692",
+        "type_id": "26",
+        "lat": 51.01813,
+        "lng": 3.75372,
+        "heading": "102",
+        "speed_limit": "50",
+        "road_name": "N444",
+        "first_declaration": "2017-10-19 12:48:23",
+        "last_confirmation": "2017-10-19 12:50:51",
+        "confirmations": "2",
+        "length": "698",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359245692",
+        "latitude": 51.01813,
+        "longitude": 3.75372,
+        "speed_limit": "50",
+        "road_name": "N444",
+        "first_declaration": "2017-10-19 12:48:23",
+        "last_confirmation": "2017-10-19 12:50:51",
+        "confirmations": "2",
+        "length": "698",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410251000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359079500",
+        "type_id": "26",
+        "lat": 50.99303,
+        "lng": 3.79139,
+        "heading": "118",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:47:21",
+        "last_confirmation": "2017-10-19 12:50:13",
+        "confirmations": "48",
+        "length": "2999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359079500",
+        "latitude": 50.99303,
+        "longitude": 3.79139,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:47:21",
+        "last_confirmation": "2017-10-19 12:50:13",
+        "confirmations": "48",
+        "length": "2999",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508410213000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359239966",
+        "type_id": "139",
+        "lat": 51.11566,
+        "lng": 4.01397,
+        "heading": "282",
+        "speed_limit": "50",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:45:42",
+        "last_confirmation": "2017-10-19 12:45:42",
+        "confirmations": "1",
+        "length": "359",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Route glissante"
+      },
+      "payload": {
+        "id": "1359239966",
+        "latitude": 51.11566,
+        "longitude": 4.01397,
+        "speed_limit": "50",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:45:42",
+        "last_confirmation": "2017-10-19 12:45:42",
+        "confirmations": "1",
+        "length": "359",
+        "type_lbl": "Route glissante"
+      },
+      "timestamp": 1508409942000
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "WEATHERHAZARD",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 4,
+      "sourcePayload": {
+        "country": "BE",
+        "nThumbsUp": 0,
+        "reportRating": 4,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "WEATHERHAZARD",
+        "id": "e7a580ee-d3c5-3227-8ef0-cde9ed732eb8",
+        "roadType": 4,
+        "magvar": 255,
+        "subtype": "HAZARD_ON_ROAD_OBJECT",
+        "street": "R4 > E40 Brussel / N9 Eeklo",
+        "location": {
+          "x": 3.826683,
+          "y": 51.051427
+        },
+        "pubMillis": 1508409838964
+      },
+      "payload": {
+        "message": "Er is een obstakel gemeld op de volgende locatie: R4 > E40 Brussel / N9 Eeklo",
+        "subtype": "HAZARD_ON_ROAD_OBJECT",
+        "street": "R4 > E40 Brussel / N9 Eeklo",
+        "longitude": 3.826683,
+        "latitude": 51.051427,
+        "reliability": 5,
+        "pubMillis": 1508409838964
+      },
+      "timestamp": 1508409838964
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359215428",
+        "type_id": "26",
+        "lat": 51.03694,
+        "lng": 3.73896,
+        "heading": "326",
+        "speed_limit": "30",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:35:39",
+        "last_confirmation": "2017-10-19 12:43:14",
+        "confirmations": "2",
+        "length": "380",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359215428",
+        "latitude": 51.03694,
+        "longitude": 3.73896,
+        "speed_limit": "30",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:35:39",
+        "last_confirmation": "2017-10-19 12:43:14",
+        "confirmations": "2",
+        "length": "380",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409794000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359146278",
+        "type_id": "26",
+        "lat": 50.97671,
+        "lng": 3.66424,
+        "heading": "214",
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 12:38:57",
+        "confirmations": "9",
+        "length": "1957",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359146278",
+        "latitude": 50.97671,
+        "longitude": 3.66424,
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 12:38:57",
+        "confirmations": "9",
+        "length": "1957",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409537000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357759992",
+        "type_id": "122",
+        "lat": 51.07553,
+        "lng": 3.45012,
+        "heading": "110",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 12:38:48",
+        "confirmations": "534",
+        "length": "3000",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357759992",
+        "latitude": 51.07553,
+        "longitude": 3.45012,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 12:38:48",
+        "confirmations": "534",
+        "length": "3000",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508409528000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359113570",
+        "type_id": "26",
+        "lat": 51.05367,
+        "lng": 3.83743,
+        "heading": "68",
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 11:59:31",
+        "last_confirmation": "2017-10-19 12:38:47",
+        "confirmations": "41",
+        "length": "2998",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359113570",
+        "latitude": 51.05367,
+        "longitude": 3.83743,
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 11:59:31",
+        "last_confirmation": "2017-10-19 12:38:47",
+        "confirmations": "41",
+        "length": "2998",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409527000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "562818501",
+        "type_id": "127",
+        "lat": 51.11078,
+        "lng": 3.69929,
+        "heading": "128",
+        "speed_limit": "70",
+        "road_name": "N456",
+        "first_declaration": "2017-10-19 12:38:37",
+        "last_confirmation": "2017-10-19 12:38:38",
+        "confirmations": "0",
+        "length": "727",
+        "zones": [
+          {
+            "point_1": {
+              "latitude": 51.106989451211,
+              "longitude": 3.70780070088
+            },
+            "point_2": {
+              "latitude": 51.106290547057,
+              "longitude": 3.706899305935
+            },
+            "point_3": {
+              "latitude": 51.110430547057,
+              "longitude": 3.6988392655621
+            },
+            "point_4": {
+              "latitude": 51.111129451211,
+              "longitude": 3.6997407412545
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.108608947057,
+                "longitude": 3.7023856833262
+              },
+              "point_2": {
+                "latitude": 51.1097864,
+                "longitude": 3.7012244
+              },
+              "point_3": {
+                "latitude": 51.109307851211,
+                "longitude": 3.7032871234897
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.107242747057,
+                "longitude": 3.7050454966492
+              },
+              "point_2": {
+                "latitude": 51.1084202,
+                "longitude": 3.7038842
+              },
+              "point_3": {
+                "latitude": 51.107941651211,
+                "longitude": 3.7059469101661
+              }
+            }
+          }
+        ],
+        "vr": false,
+        "type_lbl": "Bouchon automatique"
+      },
+      "payload": {
+        "id": "562818501",
+        "latitude": 51.11078,
+        "longitude": 3.69929,
+        "speed_limit": "70",
+        "road_name": "N456",
+        "first_declaration": "2017-10-19 12:38:37",
+        "last_confirmation": "2017-10-19 12:38:38",
+        "confirmations": "0",
+        "length": "727",
+        "type_lbl": "Bouchon automatique"
+      },
+      "timestamp": 1508409518000
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 3,
+      "sourcePayload": {
+        "country": "BE",
+        "nThumbsUp": 0,
+        "reportRating": 3,
+        "confidence": 0,
+        "reliability": 6,
+        "type": "JAM",
+        "id": "d6bed100-a3da-3947-9e56-c00e6e967d56",
+        "roadType": 3,
+        "magvar": 291,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "E40 - A10",
+        "location": {
+          "x": 3.753967,
+          "y": 51.003161
+        },
+        "pubMillis": 1508409513259
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: E40 - A10",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "E40 - A10",
+        "longitude": 3.753967,
+        "latitude": 51.003161,
+        "reliability": 6,
+        "pubMillis": 1508409513259
+      },
+      "timestamp": 1508409513259
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359208174",
+        "type_id": "26",
+        "lat": 51.01786,
+        "lng": 3.67011,
+        "heading": "254",
+        "speed_limit": "70",
+        "road_name": "N43",
+        "first_declaration": "2017-10-19 12:32:54",
+        "last_confirmation": "2017-10-19 12:38:26",
+        "confirmations": "2",
+        "length": "1984",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359208174",
+        "latitude": 51.01786,
+        "longitude": 3.67011,
+        "speed_limit": "70",
+        "road_name": "N43",
+        "first_declaration": "2017-10-19 12:32:54",
+        "last_confirmation": "2017-10-19 12:38:26",
+        "confirmations": "2",
+        "length": "1984",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409506000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357771720",
+        "type_id": "122",
+        "lat": 51.07854,
+        "lng": 3.44052,
+        "heading": "300",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 12:38:00",
+        "confirmations": "461",
+        "length": "3001",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357771720",
+        "latitude": 51.07854,
+        "longitude": 3.44052,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 12:38:00",
+        "confirmations": "461",
+        "length": "3001",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508409480000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359079500",
+        "type_id": "26",
+        "lat": 50.99303,
+        "lng": 3.79139,
+        "heading": "118",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:47:21",
+        "last_confirmation": "2017-10-19 12:37:34",
+        "confirmations": "41",
+        "length": "2999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359079500",
+        "latitude": 50.99303,
+        "longitude": 3.79139,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:47:21",
+        "last_confirmation": "2017-10-19 12:37:34",
+        "confirmations": "41",
+        "length": "2999",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409454000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1358949654",
+        "type_id": "26",
+        "lat": 50.97709,
+        "lng": 3.82892,
+        "heading": "148",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:01:27",
+        "last_confirmation": "2017-10-19 12:37:27",
+        "confirmations": "74",
+        "length": "3001",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1358949654",
+        "latitude": 50.97709,
+        "longitude": 3.82892,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:01:27",
+        "last_confirmation": "2017-10-19 12:37:27",
+        "confirmations": "74",
+        "length": "3001",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409447000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359215428",
+        "type_id": "26",
+        "lat": 51.03694,
+        "lng": 3.73896,
+        "heading": "326",
+        "speed_limit": "30",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:35:39",
+        "last_confirmation": "2017-10-19 12:35:39",
+        "confirmations": "1",
+        "length": "380",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359215428",
+        "latitude": 51.03694,
+        "longitude": 3.73896,
+        "speed_limit": "30",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:35:39",
+        "last_confirmation": "2017-10-19 12:35:39",
+        "confirmations": "1",
+        "length": "380",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409339000
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 6,
+      "sourcePayload": {
+        "country": "BE",
+        "nThumbsUp": 0,
+        "city": "Zelzate",
+        "reportRating": 4,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "id": "49299cda-0440-350a-9e04-e73a8dc4ad0f",
+        "roadType": 6,
+        "magvar": 77,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R4",
+        "location": {
+          "x": 3.792841,
+          "y": 51.200122
+        },
+        "pubMillis": 1508409153825
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: R4",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R4",
+        "city": "Zelzate",
+        "longitude": 3.792841,
+        "latitude": 51.200122,
+        "reliability": 5,
+        "pubMillis": 1508409153825
+      },
+      "timestamp": 1508409153825
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359053584",
+        "type_id": "26",
+        "lat": 51.07492,
+        "lng": 3.45031,
+        "heading": "152",
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 12:30:35",
+        "confirmations": "8",
+        "length": "700",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359053584",
+        "latitude": 51.07492,
+        "longitude": 3.45031,
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 12:30:35",
+        "confirmations": "8",
+        "length": "700",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508409035000
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 6,
+      "sourcePayload": {
+        "country": "BE",
+        "nThumbsUp": 0,
+        "city": "Wetteren",
+        "reportRating": 1,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "id": "6d36c1cb-b870-33ff-8c57-02feb5b5bed9",
+        "roadType": 6,
+        "magvar": 39,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "N42 - Oosterzelesteenweg",
+        "location": {
+          "x": 3.840499,
+          "y": 50.980658
+        },
+        "pubMillis": 1508408989656
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: N42 - Oosterzelesteenweg",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "N42 - Oosterzelesteenweg",
+        "city": "Wetteren",
+        "longitude": 3.840499,
+        "latitude": 50.980658,
+        "reliability": 5,
+        "pubMillis": 1508408989656
+      },
+      "timestamp": 1508408989656
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359194524",
+        "type_id": "24",
+        "lat": 50.98991,
+        "lng": 3.46001,
+        "heading": "224",
+        "speed_limit": "70",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:27:49",
+        "last_confirmation": "2017-10-19 12:27:49",
+        "confirmations": "1",
+        "length": "1999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident trafic"
+      },
+      "payload": {
+        "id": "1359194524",
+        "latitude": 50.98991,
+        "longitude": 3.46001,
+        "speed_limit": "70",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:27:49",
+        "last_confirmation": "2017-10-19 12:27:49",
+        "confirmations": "1",
+        "length": "1999",
+        "type_lbl": "Incident trafic"
+      },
+      "timestamp": 1508408869000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357759992",
+        "type_id": "122",
+        "lat": 51.07553,
+        "lng": 3.45012,
+        "heading": "110",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 12:24:01",
+        "confirmations": "519",
+        "length": "3000",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357759992",
+        "latitude": 51.07553,
+        "longitude": 3.45012,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-18 23:28:12",
+        "last_confirmation": "2017-10-19 12:24:01",
+        "confirmations": "519",
+        "length": "3000",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508408641000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359079500",
+        "type_id": "26",
+        "lat": 50.99303,
+        "lng": 3.79139,
+        "heading": "118",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:47:21",
+        "last_confirmation": "2017-10-19 12:23:51",
+        "confirmations": "28",
+        "length": "2999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359079500",
+        "latitude": 50.99303,
+        "longitude": 3.79139,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:47:21",
+        "last_confirmation": "2017-10-19 12:23:51",
+        "confirmations": "28",
+        "length": "2999",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408631000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "632106301",
+        "type_id": "127",
+        "lat": 51.0472,
+        "lng": 3.95945,
+        "heading": "240",
+        "speed_limit": "50",
+        "road_name": "N445",
+        "first_declaration": "2017-10-19 12:23:37",
+        "last_confirmation": "2017-10-19 12:23:39",
+        "confirmations": "0",
+        "length": "1018",
+        "zones": [
+          {
+            "point_1": {
+              "latitude": 51.045576084715,
+              "longitude": 3.9454494590608
+            },
+            "point_2": {
+              "latitude": 51.046403914618,
+              "longitude": 3.9448905359448
+            },
+            "point_3": {
+              "latitude": 51.047303914618,
+              "longitude": 3.9484305305147
+            },
+            "point_4": {
+              "latitude": 51.046476084715,
+              "longitude": 3.9489894644906
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.046907914618,
+                "longitude": 3.946872932904
+              },
+              "point_2": {
+                "latitude": 51.046674,
+                "longitude": 3.9478604
+              },
+              "point_3": {
+                "latitude": 51.046080084715,
+                "longitude": 3.9474318621015
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.046610914618,
+                "longitude": 3.9457047346959
+              },
+              "point_2": {
+                "latitude": 51.046377,
+                "longitude": 3.9466922
+              },
+              "point_3": {
+                "latitude": 51.045783084715,
+                "longitude": 3.9462636603096
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.046430955436,
+              "longitude": 3.9484874324594
+            },
+            "point_2": {
+              "latitude": 51.047329044552,
+              "longitude": 3.9484125668148
+            },
+            "point_3": {
+              "latitude": 51.047649044552,
+              "longitude": 3.9594125665562
+            },
+            "point_4": {
+              "latitude": 51.046750955436,
+              "longitude": 3.959487432718
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.047508244552,
+                "longitude": 3.95457256667
+              },
+              "point_2": {
+                "latitude": 51.0471232,
+                "longitude": 3.95681
+              },
+              "point_3": {
+                "latitude": 51.046610155436,
+                "longitude": 3.9546474326042
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.047402644552,
+                "longitude": 3.9509425667553
+              },
+              "point_2": {
+                "latitude": 51.0470176,
+                "longitude": 3.95318
+              },
+              "point_3": {
+                "latitude": 51.046504555436,
+                "longitude": 3.9510174325189
+              }
+            }
+          }
+        ],
+        "vr": false,
+        "type_lbl": "Bouchon automatique"
+      },
+      "payload": {
+        "id": "632106301",
+        "latitude": 51.0472,
+        "longitude": 3.95945,
+        "speed_limit": "50",
+        "road_name": "N445",
+        "first_declaration": "2017-10-19 12:23:37",
+        "last_confirmation": "2017-10-19 12:23:39",
+        "confirmations": "0",
+        "length": "1018",
+        "type_lbl": "Bouchon automatique"
+      },
+      "timestamp": 1508408619000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "169312501",
+        "type_id": "127",
+        "lat": 50.98419,
+        "lng": 3.84514,
+        "heading": "204",
+        "speed_limit": "70",
+        "road_name": "N42",
+        "first_declaration": "2017-10-19 12:23:37",
+        "last_confirmation": "2017-10-19 12:23:38",
+        "confirmations": "0",
+        "length": "1271",
+        "zones": [
+          {
+            "point_1": {
+              "latitude": 50.975003159815,
+              "longitude": 3.8343327448081
+            },
+            "point_2": {
+              "latitude": 50.975556837481,
+              "longitude": 3.8332072484823
+            },
+            "point_3": {
+              "latitude": 50.984466837481,
+              "longitude": 3.8445771404796
+            },
+            "point_4": {
+              "latitude": 50.983913159814,
+              "longitude": 3.8457028528074
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 50.980546437481,
+                "longitude": 3.8395743880008
+              },
+              "point_2": {
+                "latitude": 50.9820516,
+                "longitude": 3.8424112
+              },
+              "point_3": {
+                "latitude": 50.979992759815,
+                "longitude": 3.8407000052877
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 50.977606137481,
+                "longitude": 3.8358223236417
+              },
+              "point_2": {
+                "latitude": 50.9791113,
+                "longitude": 3.8386591
+              },
+              "point_3": {
+                "latitude": 50.977052459815,
+                "longitude": 3.8369478696479
+              }
+            }
+          }
+        ],
+        "vr": false,
+        "type_lbl": "Bouchon automatique"
+      },
+      "payload": {
+        "id": "169312501",
+        "latitude": 50.98419,
+        "longitude": 3.84514,
+        "speed_limit": "70",
+        "road_name": "N42",
+        "first_declaration": "2017-10-19 12:23:37",
+        "last_confirmation": "2017-10-19 12:23:38",
+        "confirmations": "0",
+        "length": "1271",
+        "type_lbl": "Bouchon automatique"
+      },
+      "timestamp": 1508408618000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1358660874",
+        "type_id": "26",
+        "lat": 51.05053,
+        "lng": 3.56982,
+        "heading": "108",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 09:31:54",
+        "last_confirmation": "2017-10-19 12:23:30",
+        "confirmations": "140",
+        "length": "3000",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1358660874",
+        "latitude": 51.05053,
+        "longitude": 3.56982,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 09:31:54",
+        "last_confirmation": "2017-10-19 12:23:30",
+        "confirmations": "140",
+        "length": "3000",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408610000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1358949654",
+        "type_id": "26",
+        "lat": 50.97709,
+        "lng": 3.82892,
+        "heading": "148",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:01:27",
+        "last_confirmation": "2017-10-19 12:23:29",
+        "confirmations": "66",
+        "length": "3001",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1358949654",
+        "latitude": 50.97709,
+        "longitude": 3.82892,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 11:01:27",
+        "last_confirmation": "2017-10-19 12:23:29",
+        "confirmations": "66",
+        "length": "3001",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408609000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357771720",
+        "type_id": "122",
+        "lat": 51.07854,
+        "lng": 3.44052,
+        "heading": "300",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 12:23:03",
+        "confirmations": "446",
+        "length": "3001",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "1357771720",
+        "latitude": 51.07854,
+        "longitude": 3.44052,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 01:57:15",
+        "last_confirmation": "2017-10-19 12:23:03",
+        "confirmations": "446",
+        "length": "3001",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1508408583000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359113570",
+        "type_id": "26",
+        "lat": 51.05367,
+        "lng": 3.83743,
+        "heading": "68",
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 11:59:31",
+        "last_confirmation": "2017-10-19 12:23:02",
+        "confirmations": "24",
+        "length": "2998",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359113570",
+        "latitude": 51.05367,
+        "longitude": 3.83743,
+        "speed_limit": "120",
+        "road_name": "E17",
+        "first_declaration": "2017-10-19 11:59:31",
+        "last_confirmation": "2017-10-19 12:23:02",
+        "confirmations": "24",
+        "length": "2998",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408582000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359146278",
+        "type_id": "26",
+        "lat": 50.97671,
+        "lng": 3.66424,
+        "heading": "214",
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 12:22:29",
+        "confirmations": "4",
+        "length": "1957",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359146278",
+        "latitude": 50.97671,
+        "longitude": 3.66424,
+        "speed_limit": "90",
+        "road_name": "N60",
+        "first_declaration": "2017-10-19 12:11:03",
+        "last_confirmation": "2017-10-19 12:22:29",
+        "confirmations": "4",
+        "length": "1957",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408549000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1357779878",
+        "type_id": "26",
+        "lat": 51.00808,
+        "lng": 3.73633,
+        "heading": "292",
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 05:02:39",
+        "last_confirmation": "2017-10-19 12:21:58",
+        "confirmations": "473",
+        "length": "2999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1357779878",
+        "latitude": 51.00808,
+        "longitude": 3.73633,
+        "speed_limit": "120",
+        "road_name": "E40",
+        "first_declaration": "2017-10-19 05:02:39",
+        "last_confirmation": "2017-10-19 12:21:58",
+        "confirmations": "473",
+        "length": "2999",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408518000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359053584",
+        "type_id": "26",
+        "lat": 51.07492,
+        "lng": 3.45031,
+        "heading": "152",
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 12:21:44",
+        "confirmations": "7",
+        "length": "700",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359053584",
+        "latitude": 51.07492,
+        "longitude": 3.45031,
+        "speed_limit": "50",
+        "road_name": "N409",
+        "first_declaration": "2017-10-19 11:37:59",
+        "last_confirmation": "2017-10-19 12:21:44",
+        "confirmations": "7",
+        "length": "700",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408504000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "1359177852",
+        "type_id": "26",
+        "lat": 51.09199,
+        "lng": 3.69463,
+        "heading": "62",
+        "speed_limit": "50",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:21:43",
+        "last_confirmation": "2017-10-19 12:21:43",
+        "confirmations": "1",
+        "length": "700",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Incident"
+      },
+      "payload": {
+        "id": "1359177852",
+        "latitude": 51.09199,
+        "longitude": 3.69463,
+        "speed_limit": "50",
+        "road_name": "",
+        "first_declaration": "2017-10-19 12:21:43",
+        "last_confirmation": "2017-10-19 12:21:43",
+        "confirmations": "1",
+        "length": "700",
+        "type_lbl": "Incident"
+      },
+      "timestamp": 1508408503000
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 6,
+      "sourcePayload": {
+        "country": "BE",
+        "nThumbsUp": 0,
+        "city": "Gent",
+        "reportRating": 2,
+        "confidence": 1,
+        "reliability": 7,
+        "type": "JAM",
+        "id": "47a8ab19-c41e-3f88-a741-8e0a7e15bed0",
+        "roadType": 6,
+        "magvar": 129,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R40 - Godshuizenlaan",
+        "location": {
+          "x": 3.715279,
+          "y": 51.043985
+        },
+        "pubMillis": 1508408455194
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: R40 - Godshuizenlaan",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R40 - Godshuizenlaan",
+        "city": "Gent",
+        "longitude": 3.715279,
+        "latitude": 51.043985,
+        "reliability": 7,
+        "pubMillis": 1508408455194
+      },
+      "timestamp": 1508408455194
+    }
+  ]
+}

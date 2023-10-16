@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title">NewsApp</string>
+    <string name="back_button">Back</string>
+    <string name="categories">Kies een categorie</string>
+    <string name="loading_img">Loading</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+</resources>

@@ -1,0 +1,12 @@
+F:\git\Projects\software\labo23\Druk\bin\Debug\net6.0\Druk.deps.json
+F:\git\Projects\software\labo23\Druk\bin\Debug\net6.0\Druk.dll
+F:\git\Projects\software\labo23\Druk\bin\Debug\net6.0\Druk.pdb
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\Druk.csproj.AssemblyReference.cache
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\Druk.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\Druk.AssemblyInfoInputs.cache
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\Druk.AssemblyInfo.cs
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\Druk.csproj.CoreCompileInputs.cache
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\Druk.dll
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\refint\Druk.dll
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\Druk.pdb
+F:\git\Projects\software\labo23\Druk\obj\Debug\net6.0\ref\Druk.dll

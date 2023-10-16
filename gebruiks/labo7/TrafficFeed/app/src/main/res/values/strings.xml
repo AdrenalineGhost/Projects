@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrafficFeed</string>
+    <string name="title">Traffic Feed</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="search_here">Search here...</string>
+    <string name="close_icon_description">Close Icon</string>
+</resources>

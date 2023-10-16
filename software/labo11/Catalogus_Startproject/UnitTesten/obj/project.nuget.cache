@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0otaOzfJK3+GVXTyp3drA9y4Gwpa+ck9jWA0N+EYrCfS1vvZcBcdTt9wtNY8Vu0cKioDYOuc6Q5WscwET+qRw==",
+  "success": false,
+  "projectFilePath": "F:\\git\\Projects\\software\\labo11\\Catalogus_Startproject\\UnitTesten\\UnitTesten.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Catalogus is not compatible with net48 (.NETFramework,Version=v4.8). Project Catalogus supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Catalogus",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Catalogus is not compatible with net48 (.NETFramework,Version=v4.8) / win7-x86. Project Catalogus supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Catalogus",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win7-x86"
+      ]
+    }
+  ]
+}

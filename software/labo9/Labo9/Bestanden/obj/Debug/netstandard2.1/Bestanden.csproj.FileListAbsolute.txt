@@ -1,0 +1,8 @@
+F:\git\Projects\software\labo9\Labo9\Bestanden\bin\Debug\netstandard2.1\Bestanden.deps.json
+F:\git\Projects\software\labo9\Labo9\Bestanden\bin\Debug\netstandard2.1\Bestanden.dll
+F:\git\Projects\software\labo9\Labo9\Bestanden\bin\Debug\netstandard2.1\Bestanden.pdb
+F:\git\Projects\software\labo9\Labo9\Bestanden\obj\Debug\netstandard2.1\Bestanden.csprojAssemblyReference.cache
+F:\git\Projects\software\labo9\Labo9\Bestanden\obj\Debug\netstandard2.1\Bestanden.AssemblyInfoInputs.cache
+F:\git\Projects\software\labo9\Labo9\Bestanden\obj\Debug\netstandard2.1\Bestanden.AssemblyInfo.cs
+F:\git\Projects\software\labo9\Labo9\Bestanden\obj\Debug\netstandard2.1\Bestanden.dll
+F:\git\Projects\software\labo9\Labo9\Bestanden\obj\Debug\netstandard2.1\Bestanden.pdb

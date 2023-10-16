@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="Drukmeter.InvoerControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Drukmeter"
+             mc:Ignorable="d" 
+                         d:DesignHeight="450" d:DesignWidth="800">
+    <GroupBox x:Name="groupBox" Padding="10" Header="groupBox">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50*" />
+                <RowDefinition Height="50*" />
+                <RowDefinition Height="50*" />
+                <RowDefinition Height="50*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*" />
+                <ColumnDefinition Width="100*" />
+            </Grid.ColumnDefinitions>
+
+            <Label x:Name="lblEenheid" Grid.Row="0" Grid.Column="0" Content="lblEenheid"/>
+            <TextBox x:Name="txtWaarde" Grid.Row="0" Grid.Column="1" Text="txtWaarde" Margin="5" KeyDown="txtWaarde_KeyDown"/>
+            <Label x:Name="lblMax" Grid.Row="1" Grid.Column="0" Content="max"/>
+            <TextBox x:Name="txtMax" Grid.Row="1" Grid.Column="1" Text="txtMax" IsReadOnly="True" IsEnabled="False" Margin="5"/>
+            <Button x:Name="btnVerlaag" Grid.Row="3" Grid.Column="0" Content="Verlaag" Margin="5" Click="btnVerlaag_Click"/>
+            <Button x:Name="btnVerhoog" Grid.Row="3" Grid.Column="1" Content="Verhoog" Margin="5" Click="btnVerhoog_Click"/>
+
+        </Grid>
+    </GroupBox>
+</UserControl>
+
