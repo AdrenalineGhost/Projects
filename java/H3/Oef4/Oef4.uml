@@ -1,0 +1,33 @@
+@startuml Rekening
+
+class Rekening{
+    + Rekening(rekeningsNummer : Integer, naam : String) : Rekening
+    + Rekening(rekeningsNummer : Integer) : Rekening
+    + Rekening() : Rekening
+    - rekeningsNummer : Integer = 123456789
+    - saldo : Double = 0.0
+    - naam : String
+    + getRekeningsNummer() : Integer
+    - setRekeningsNummer(Integer) : void
+    + getSaldo() : Double
+    + getNaam() : String
+    + setNaam(String): String
+    + storten(Integer) : Boolean
+    + afHalen(Integer) : Boolean
+}
+
+class RekeningAlt{
+    + Rekening(rekeningsNummer : Integer, naam : String) : Rekening
+    + Rekening(rekeningsNummer : Integer) : Rekening
+    + Rekening() : Rekening
+    <- rekeningsNummer : Integer = 123456789 as rk
+    <- saldo : Double = 0.0
+    <- naam : String
+    - setRekeningsNummer(Integer) : void
+    + setNaam(String): String
+    + storten(Integer) : Boolean
+    + afHalen(Integer) : Boolean
+}
+
+
+@enduml

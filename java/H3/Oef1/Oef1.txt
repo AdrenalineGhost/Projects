@@ -1,0 +1,13 @@
+Voertuig
+- Fiets
+- Vrachtwagen
+- Autobus
+- Persoonswagen
+- Vliegtuig
+- Trein
+Editor
+Compiler
+Interpreter
+Gevoel
+Boom
+Programmeergereedschap

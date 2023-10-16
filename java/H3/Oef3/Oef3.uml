@@ -1,0 +1,16 @@
+@startuml
+/' scale 600 width '/
+
+class Fiets{
+    + Fiets(Kleur : Color) : Fiets
+    + getKleur() : Color
+    + setVersnellingen(Integer) : void
+    + setSnelheid(Integer) : void
+    - kleur : Color
+    - merk : String
+    - versnellingen : Integer
+    - herenFiets : Boolean
+    - snelheid : Integer
+}
+
+@enduml

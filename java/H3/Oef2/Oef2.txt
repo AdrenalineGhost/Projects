@@ -1,0 +1,1 @@
+Indien Vis een andere functionaliteit heeft dan bv. Dier, is het beter een apparte class (wat in dit geval zo is). Zalm bijvoorbeeld heeft weinig reden voor een apparte class te zijn, want die heeft geen verschillende functionaliteit van een vis.
