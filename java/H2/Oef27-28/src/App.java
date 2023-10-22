@@ -7,23 +7,12 @@ public class App {
             int count = 0;
             int in;
             do{
-                count++;
-                in = geefAntwoord(sc, count);
+                in = geefAntwoord(sc, ++count);
                 switch(in){
-                    case 1:
-                        in1++;
-                        break;
-                    case 2:
-                        in2++;
-                        break;
-                    case 3:
-                        in3++;
-                        break;
-                    case 4:
-                        in4++;
-                        break;
-                    default:
-                        break;
+                    case 1 -> in1++;
+                    case 2 -> in2++;
+                    case 3 -> in3++;
+                    case 4 -> in4++;
                 }
 
             }while(in!=0); count--;

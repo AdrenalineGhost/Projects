@@ -1,4 +1,5 @@
 @startuml Rekening
+skinparam ClassAttributeIconSize 0
 
 class Rekening{
     + Rekening(rekeningsNummer : Integer, naam : String) : Rekening

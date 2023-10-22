@@ -1,0 +1,20 @@
+@startuml
+skinparam ClassAttributeIconSize 0
+
+package domein{
+    class Pennenzak{
+        + Pennenzak(kleur : String, lengte : int) 
+        + Pennenzak(lengte : int)
+        + Pennenzak()
+        <- kleur : String = "Blauw"
+        <-> lengte : int = 10
+        - open : boolean = false
+        - isOpen() : boolean
+        /' + setOpen(boolean) : void '/
+        /' - setLengte(int) : void '/
+        - setKleur(String) : void
+        + maakOpen() : void
+        + maakDicht() : void
+    }
+}
+@enduml
