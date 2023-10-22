@@ -1,0 +1,15 @@
+@startuml
+
+package domein{
+    class Product{
+        <- naam : String
+        <-> prijsExclBtw : int
+        <-> btwPercentage : int
+        <-> kortingStuksPercentage : double
+        + Product(naam : String, prijsExclBtw : double, kortingStuksPercentage : int)
+        - setNaam(naam : String) : void
+        + berekenPrijs(aantal : int) : double
+    }
+}
+
+@enduml
