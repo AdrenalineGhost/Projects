@@ -45,8 +45,7 @@ public class Product {
         boolean korting = aantal>=6;
         double hoeveelheidKoring = (korting?(100-getKortingStuksPercentage()):100);
         double btw = getPrijsExclBtw()*1.0*(getBtwPercentage()*1.0/100);
-        double prijs = ( getPrijsExclBtw()*1.0 + btw) * aantal * hoeveelheidKoring/100;
-        return prijs;
+        return ( getPrijsExclBtw()*1.0 + btw) * aantal * hoeveelheidKoring/100;
     }
 
 }
