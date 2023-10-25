@@ -1,0 +1,11 @@
+@startuml
+
+package RM{
+    package domein{
+        class Rekenmachine{
+
+        }
+    }
+}
+
+@enduml
