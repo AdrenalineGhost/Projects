@@ -1,0 +1,50 @@
+@startuml tankstation
+skinparam ClassAttributeIconSize 0
+
+
+package Correcter{
+    package cuiCorr{
+        class TankstationAppCorr{
+            -ts : TankstationCorr
+            -sc : Scanner
+            +main(args : String[]) : void
+            -startTanken() : void
+            -geefAantalLiter(min : int, max : int) : int
+            -geefPompNummer(max : int) : int
+            -vraag(string : String) : int
+        }
+    }
+    package domeinCorr{
+        class TankstationCorr{
+            +Tankstation()
+            -pompen : int[]
+            +tank(pompNummer : int, aantalLiter : int) : boolean
+            +geefInhoud(pompNummer : int) : int
+            +toString() : String
+        }
+    }
+    TankstationAppCorr <|. TankstationCorr
+}
+
+package H04start_Tankstation{
+    package domein{
+        class Tankstation{
+            +Tankstation()
+            -pompen : int[]
+            +tank(pompNummer : int, aantalLiter : int) : boolean
+            +geefInhoud(pompNummer : int) : int
+            +toString() : String
+        }
+    }
+    package cui{
+        class TankstationApp{
+            -sc : Scanner
+            +main(args : String[]) : void
+            -startTanken() : void
+            -geefAantalLiter(min : int, max : int) : int
+            -geefPompNummer(max : int) : int
+            -vraag(string : String) : int
+        }
+    }
+}
+@enduml
