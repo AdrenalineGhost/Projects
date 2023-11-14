@@ -1,0 +1,30 @@
+@startuml Rommelmarkt
+skinparam ClassAttributeIconSize 0
+package Rommelmarkt{
+    package domein{
+        class Marktkraam{
+            <-kraamhouder : String
+            <-breedte : int
+            -inkomsten : double
+            +Marktkraam(kraamhouder : String, breedte : int)
+            +Marktkraam(kraamhouder : String)
+            -setKraamhouder(kraamhouder : String) : void
+            -setBreedte(breedte : int) : void
+            +ontvang(bedrag : int) : void
+            +geefWinst() : double
+        }
+    }
+    package cui{
+        class RommelmarktApp{
+            {static}+main(args : String[]) : void
+            -geefBedrag() : double
+            -geefKeuze(aantalKramen : int, menu : String) : int
+            -geefAantalKramen() : int
+            -geefKraamhouder(kraamnummer : int) : String
+            -geefBreedteKraam(kraamnummer : int) : int
+        }
+    }
+    RommelmarktApp ..|> Marktkraam
+}
+
+@enduml
