@@ -50,7 +50,7 @@ public class TankstationApp {
 	private int geefPompNummer(int max) {
 		int pomp;
 		pomp = vraag(String.format("Aan welke pomp wens je te tankern (1-%d), druk 0 om te stoppen? ", max));
-		while(pomp<0||pomp>=max){
+		while(pomp<0||pomp>max){
 			System.out.printf("%nWe hebben geen pomp met nummer %d! Probeer opnieuw...", pomp);
 			pomp = vraag(String.format("Aan welke pomp wens je te tankern (1-%d), druk 0 om te stoppen? ", max));
 		}
