@@ -1,0 +1,9 @@
+-- SQLBook: Markup
+# Oef1
+-- SQLBook: Code
+SELECT DISTINCT levCode, naam, adres, woonplaats FROM leveranciers;
+-- SQLBook: Code
+
+SELECT naam FROM planten WHERE naam LIKE "%bloem" ORDER BY naam
+-- SQLBook: Code
+SELECT * FROM leveranciers WHERE woonplaats = "Antwerpen" || woonplaats = "Heusden" || woonplaats = "Leuven"
