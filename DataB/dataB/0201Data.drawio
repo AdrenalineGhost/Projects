@@ -1,0 +1,45 @@
+<mxfile host="Electron" modified="2023-10-10T12:23:53.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="ocESKLtGXqASbeqymTQB" version="22.0.2" type="device">
+  <diagram name="Page-1" id="nvuYYSezYYlmMt1F-Bhs">
+    <mxGraphModel dx="724" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="D9iayeuQQJoqWxlSBR8Y-1" target="D9iayeuQQJoqWxlSBR8Y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="499" />
+              <mxPoint x="300" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-12" value="0..N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9iayeuQQJoqWxlSBR8Y-9">
+          <mxGeometry x="-0.7921" y="3" relative="1" as="geometry">
+            <mxPoint x="-4" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-14" value="1..1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9iayeuQQJoqWxlSBR8Y-9">
+          <mxGeometry x="0.8446" y="2" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-15" value="Bevat &amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9iayeuQQJoqWxlSBR8Y-9">
+          <mxGeometry x="0.0417" y="2" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-1" value="Hotel" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="453" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-4" value="HotelNr&lt;br&gt;Naam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D9iayeuQQJoqWxlSBR8Y-1">
+          <mxGeometry y="26" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-5" value="Kamer" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="414" y="453" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="D9iayeuQQJoqWxlSBR8Y-8" value="KamerNr&lt;br&gt;AantalBedden" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D9iayeuQQJoqWxlSBR8Y-5">
+          <mxGeometry y="26" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
