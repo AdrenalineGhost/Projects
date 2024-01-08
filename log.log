@@ -1,219 +1,111 @@
-commit 11f3affe1a83cff73ceb98bd05e1c923926a1f0a
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jan 14 13:58:05 2023 +0100
-
-    c exam 16 -> 22
-
-commit 88d372c7f6bc0756414b364b0cf4e446d9ebb327
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jan 14 00:55:19 2023 +0100
-
-    Continued to work for my c exams
-
-commit 6d4be277d7ee90d5692478eba4adb89205f03a5e
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Fri Jan 13 15:33:22 2023 +0100
-
-    last commit incomplete
-
-commit d2d2d1aed696828ccaff5efa0421eb0285761b50
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Fri Jan 13 15:31:36 2023 +0100
-
-    C oef1 -> oef 7
-
-commit 62c7d52c80b72cf45c88310cab25e7f625bb2d98
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Fri Jan 13 01:47:19 2023 +0100
-
-    changed readme.md
-
-commit 3359ffa3145248ef4b503e9943182ab3dacc1c74
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Fri Jan 13 01:33:06 2023 +0100
-
-    had some fun with argv in c++ and using nano
-
-commit 079568b4c7ad5e0564e47a46383b0ac322d4c7f8
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Thu Jan 12 15:53:10 2023 +0100
-
-    removed the exe files for less clutter in c folder
-
-commit 73fdbe3db4671d6c4a5f8591d2a1f41eaff948e4
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Thu Jan 12 13:35:08 2023 +0100
-
-    test to see what fetch does
-
-commit 149307972e9b5e777e7daa41fc813a29b1923917
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Wed Jan 11 08:06:56 2023 +0100
-
-    before exam generics
-
-commit 37b9dd7420801a4ab755997f6e47f8b7a2d5e1d2
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 21:32:06 2023 +0100
-
-    Reeks10
-
-commit bc2a9d64b64455ef6c865ba602abcc03baad1506
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 16:58:47 2023 +0100
-
-    fixed the exersize like asked of me
-
-commit e263454bad5fd2250a0df9ec374a48b7ef40d316
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 16:49:17 2023 +0100
-
-    added oef4_huije_tekenen
-
-commit b19d4b7ea02dd38ae1baa2ac9c5a77d8bda66681
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 15:58:37 2023 +0100
-
-    removed testing files
-
-commit fdbd2a1d30d5b5c8c026842530fb4e17ca2e72b7
-Merge: 1585ab8 c21bb68
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 15:49:55 2023 +0100
-
-    Merge branch 'testbranch'
-    test for my branches
-
-commit 1585ab849a1afda88a66ead5fd846e81ee725e77
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 15:47:31 2023 +0100
-
-    brach test 2
-
-commit c21bb68472bca2f99d7b8fc5c83cef19a6b358ce
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 15:44:40 2023 +0100
-
-    branch test
-
-commit 5b762b6e97b5bdf5fad89058c1ca5aabfe639ab5
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 15:38:21 2023 +0100
-
-    branch test
-
-commit bb67304eb15a1e2421d456112842c754740c3929
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 15:34:48 2023 +0100
-
-    git test
-
-commit 929645a79337dcf7c5fb477ab19fb99d40da2891
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 15:16:46 2023 +0100
-
-    git test
-
-commit 5ed2995b8a2072069ac5b5fdffec917917009250
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 14:51:29 2023 +0100
-
-    reeks9
-
-commit 3c8b6ad27cbb502ab5590ddbcfb435d6a831d505
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Tue Jan 10 13:14:56 2023 +0100
-
-    Reeks9
-
-commit d0502e81da2e155ef30f570e2e0a420ba4f007bb
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sun Jan 8 10:54:02 2023 +0100
-
-    removed unused imports
-
-commit ecad0091ad2faee58f1f360bf12c57687908fff8
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sun Jan 8 10:41:32 2023 +0100
-
-    Copied C file over to git
-
-commit 6eed4d897930c1953d4be6a9720a5bc4a71334c2
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jan 7 17:33:45 2023 +0100
-
-    Reek3 t.e.m. oef 5
-
-commit 6a1b5205cf696b4db2087e28ca1a2aa7fd1b7aac
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jan 7 13:17:28 2023 +0100
-
-    README changes
-
-commit 586208f66f43520b6e191a9478e39fcb4b4da139
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jan 7 00:58:30 2023 +0100
-
-    marked run cause it looked cool
-
-commit f6e09ee11485d438774297aa82f409c1ceadbb95
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Fri Jan 6 22:15:05 2023 +0100
-
-    Reeks3 abs path
-
-commit b925f2061895ebb64d8c1006072af486cb76a68a
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Fri Jan 6 14:24:26 2023 +0100
-
-    Reeks3
-
-commit 882dcf4c2f56d442fb8acaca95265aac0625b12c
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Fri Jan 6 11:44:21 2023 +0100
-
-    Reeks3
-
-commit 65dac53866975b8f0aff67c342abdec486592b14
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Mon Sep 26 15:14:52 2022 +0200
-
-    Update README.md
-
-commit 916dcb5c9c7d03836af6412672ea540670877025
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Mon Sep 26 15:12:57 2022 +0200
-
-    c first tests
-
-commit 0933e478c751cec8942e9777a7f66954a58bfca1
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jun 25 19:16:12 2022 +0200
-
-    Changes mad to readme.md
-
-commit 1ece1763986ccbc449656bcf804a023c2b034187
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jun 25 19:08:08 2022 +0200
-
-    yes
-    
-    Deleting the random files
-
-commit 05267a77ba8f85375d95636109853cf11ae6b353
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jun 25 18:42:08 2022 +0200
-
-    Create test1.py
-
-commit 03600cffd8a8f4ec2be8cf8ed01355594638d005
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jun 11 22:14:31 2022 +0200
-
-    all my previous files
-
-commit 176876daa69a54e51bb18f7d88b3930c3183c1a3
-Author: AdrenalineGhost <marwan.elk2002@gmail.com>
-Date:   Sat Jun 11 22:06:56 2022 +0200
-
-    Initial commit
+* aee159c (HEAD -> main, origin/main, origin/HEAD) bijles
+* f57adaa test for using vim as git editor
+* 1ee7e51 HuiswerkH4_31_10
+* 1a5f8c9 java h4
+* 5bd0ac6 Oef9 Rekenmachine
+* dda02db changed java h3 oef8 to make it use default final values but put them in comments
+* 34c6dd9 Just another day
+* 863588c HuiswerkH3_24_10 deel2
+* 3b8b1c1 HuiswerkH3_24_10 deel1
+* ac346ab pennenzak stuff
+* b07163e herexamen shit
+* e56f789 update since toegIT
+* 68c51e6 just an update of like all things
+* cd3b149 some useless changes
+* f6cfd57 i dont know what this is or should be
+* 5a0a724 net voor gebruiks test, smarthome grotendeels af behalve deel 8
+* 3d18e53 ng two way binding gebruiksinterfaces
+* ce477ef added some comments to the smarthome thing for explaining undefined in ts
+* 68bc994 more assembly code stuff -> still doesnt work tho
+* 1f59f0c gebruiks labo5 angular not done
+*   fe374df Merge branch 'main' of https://github.com/AdrenalineGhost/Projects
+|\  
+| * 709ed1d software labo 9
+* | f27b27b c encoding thing
+|/  
+* e8bc39d tried to fix labo3 but it keep holding out its middle finder
+* 26bc047 fuck the nodes packages
+* b8bc6b5 changes made to gebruiks labo3
+* 39ba078 fuck rxjs and rxjs-compat
+* c8c5706 discordparse failed attempt
+* 004ed67 gebruiks labo3 not done yet
+* 7fc4a73 updated README.md
+*   6ba69d7 Merge branch 'main' of https://github.com/AdrenalineGhost/Projects yes
+|\  
+| * 555fa07 AOC day4 part1 done
+* | c59c642 gebruiks labo3
+|/  
+*   32bfe83 Merge branch 'main' of https://github.com/AdrenalineGhost/Projects merge to work on pc
+|\  
+| * 0424fba software
+| * 85bdddb rk no async propper layout
+* | a852da3 made an own forlder
+|/  
+* 9ad3476 rubiks cube in js almost finished
+* d6c29c2 more software stuff
+*   8d04069 Merge remote-tracking branch 'refs/remotes/origin/main'
+|\  
+| *   1791147 merge failed
+| |\  
+| * | 80b65db vm pc commit
+* | | 6f2930f more pog
+* | | 56e65d6 software stuff labo 3
+| |/  
+|/|   
+* | 91cbaab boy.md
+* | a8cc7c2 software labo 1
+* | e5ced96 tijdens Gebruikersinterfaces 17-02-2023
+|/  
+* a002425 13-02-2023
+*   83f52a1 software folder made
+|\  
+| * 5c5bed5 AOC day3 part1
+| * 44d1709 AOC day 2
+| * 7ee08e1 advent of code stuff
+| * eb11b1d Added old java projects folder
+| * 96509c7 removed *.exe and changes to readme
+| * 4c6be2e 39 -> 44
+| * 962fd43 end of night
+| * e6f31e8 blackout
+| * f35da78 c test 25
+* | 141e2d5 software folder made and md
+|/  
+* 465c39e c test 23 -> 25
+* 11f3aff c exam 16 -> 22
+* 88d372c Continued to work for my c exams
+* 6d4be27 last commit incomplete
+* d2d2d1a C oef1 -> oef 7
+* 62c7d52 changed readme.md
+* 3359ffa had some fun with argv in c++ and using nano
+* 079568b removed the exe files for less clutter in c folder
+* 73fdbe3 test to see what fetch does
+* 1493079 before exam generics
+* 37b9dd7 Reeks10
+* bc2a9d6 fixed the exersize like asked of me
+* e263454 added oef4_huije_tekenen
+* b19d4b7 removed testing files
+*   fdbd2a1 Merge branch 'testbranch' test for my branches
+|\  
+| * c21bb68 branch test
+| * 5b762b6 branch test
+* | 1585ab8 brach test 2
+|/  
+* bb67304 git test
+* 929645a git test
+* 5ed2995 reeks9
+* 3c8b6ad Reeks9
+* d0502e8 removed unused imports
+* ecad009 Copied C file over to git
+* 6eed4d8 Reek3 t.e.m. oef 5
+* 6a1b520 README changes
+* 586208f marked run cause it looked cool
+* f6e09ee Reeks3 abs path
+* b925f20 Reeks3
+* 882dcf4 Reeks3
+* 65dac53 Update README.md
+* 916dcb5 c first tests
+* 0933e47 Changes mad to readme.md
+* 1ece176 yes
+* 05267a7 Create test1.py
+* 03600cf all my previous files
+* 176876d Initial commit
