@@ -3,9 +3,26 @@
 package RM{
     package domein{
         class Rekenmachine{
-
+            <- resultaat : double
+            +telOp(getal1 : double, getal2 : double) : void
+            +trekAf(getal1 : double, getal2 : double) : void
+            +deel(getal1 : double, getal2 : double) : void
+            +vermenigvuldig(getal1 : double, getal2 : double) : void
+        }
+    }
+    package cui{
+        class RekenmachineApp{
+            + {static} main(args : String[]) : void
+            - {static} sc : Scanner
+            - {static} rekenmachine : Rekenmachine
+            - askInt(question : String) : int
+            - askDouble(question : String) : double
+            - Start() : void
+            - menu() : int
         }
     }
 }
+
+cui --> Rekenmachine
 
 @enduml

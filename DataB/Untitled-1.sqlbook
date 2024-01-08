@@ -1,0 +1,256 @@
+-- SQLBook: Markup
+# Oef1
+-- SQLBook: Markup
+# 06 - Workshop SQL : Planten
+
+## Oefening 1 - Raadplegen
+
+-- SQLBook: Code
+SET sql_mode = 'ONLY_FULL_GROUP_BY'
+-- SQLBook: Markup
+
+1. Toon een alfabetische adreslijst van alle leveranciers (naam, leverancierscode, adres en
+woonplaats). Sorteer op woonplaats in dalende volgorde. Bij gelijke woonplaats komen de
+namen van de leveranciers in alfabetische volgorde.
+ > 11 records
+
+-- SQLBook: Code
+-- Active: 1700574015946@@127.0.0.1@3306@planten
+SELECT DISTINCT levCode, naam, adres, woonplaats FROM leveranciers;
+-- SQLBook: Markup
+
+2. Toon de unieke leverancierscode van de leveranciers waarbij bestellingen zijn geplaatst.
+ > 9 records
+
+-- SQLBook: Code
+SELECT  DISTINCT `levCode` FROM bestellingen
+-- SQLBook: Markup
+
+3. Geef een alfabetisch lijst van alle planten (naam) waarvan de naam eindigt op 'bloem'.
+ > 12 records
+
+-- SQLBook: Code
+
+SELECT naam FROM planten WHERE naam LIKE "%bloem" ORDER BY naam
+-- SQLBook: Markup
+
+4. Geef een overzicht (alle gegevens) van alle leveranciers die wonen te Antwerpen, Heusden of Leuven.
+ > 0 records
+
+-- SQLBook: Code
+SELECT * FROM leveranciers WHERE woonplaats = "Antwerpen" OR woonplaats = "Heusden" OR woonplaats = "Leuven"
+
+-- SQLBook: Markup
+
+5. Toon de naam, artikelcode en prijs van de planten waarvan de bloei begint in april.
+ > 10 records
+
+-- SQLBook: Code
+SELECT naam, artCode, prijs FROM planten WHERE bl_b = 4
+-- SELECT * FROM planten
+-- SQLBook: Markup
+
+6. Geef een overzicht van alle planten waarvan de bloeiperiode begin en/of bloeiperiode einde niet is ingevuld. Toon de naam van de planten en een aanduiding, gebruik hiervoor een case expressie en noem de kolom "bloeiperiode", de volgende aanduidingen zijn mogelijk:
+    - Beginperiode niet opgegeven: indien enkel bl_b niet is ingevuld
+    - Eindperiode niet opgegeven: indien enkel bl_e niet is ingevuld
+    - Periodes niet opgegeven: indien beide niet ingevuld
+ > 15 records
+
+-- SQLBook: Code
+SELECT * FROM planten WHERE bl_b IS NULL or bl_e IS NULL
+-- SQLBook: Markup
+
+7. Geef de namen van de planten waarin het woordje 'boom' voorkomt of waarvan de naam bestaat uit 5 posities.
+ > 12 records
+
+-- SQLBook: Code
+SELECT * FROM planten WHERE naam LIKE '_____' OR naam LIKE '%boom%'
+-- SQLBook: Markup
+
+8. Toon naam en woonplaats van de leveranciers die niet in Lisse wonen.
+ > 7 records
+
+-- SQLBook: Code
+SELECT naam, woonplaats FROM leveranciers WHERE woonplaats <> 'Lisse'
+-- SQLBook: Markup
+
+9. Toon naam van de planten waarvan de bloeiperiode begint tussen juni en oktober.
+ > 70 records
+
+-- SQLBook: Code
+SELECT * FROM planten WHERE bl_b >= 6 AND bl_b <= 10
+-- SQLBook: Markup
+
+10. Geef artikelcode en naam van de planten waarvan de naam begint met een L en eindigt met een E.
+ > 4 records
+
+-- SQLBook: Code
+SELECT artCode, naam FROM planten WHERE naam LIKE 'L%E'
+-- SQLBook: Markup
+
+11. Geef de namen van de planten waarvan de naam een spatie bevat.
+ > 3 records
+
+-- SQLBook: Code
+SELECT naam FROM planten WHERE naam LIKE '% %'
+-- SQLBook: Markup
+
+12. Toon de verschillende woonplaatsen (alfabetisch) van de leveranciers.
+ > 4 records
+
+-- SQLBook: Code
+SELECT DISTINCT woonplaats FROM leveranciers ORDER BY woonplaats
+-- SQLBook: Markup
+
+13. Toon de bestelnummers van de bestellingen voor een bedrag van meer dan 250 euro die binnen de 14 dagen werden geleverd.
+ > 6 records
+
+-- SQLBook: Code
+SELECT bestelnr FROM bestellingen WHERE bedrag > 250 AND DATEDIFF(`leverDatum`, `bestelDatum`) < 14
+-- SQLBook: Markup
+
+14. Geef een alfabetisch overzicht van de plantnamen die uit maximaal 5 letters bestaan.
+ > 15 records
+
+-- SQLBook: Code
+SELECT naam FROM planten WHERE naam NOT LIKE '%______%' ORDER BY naam
+-- SQLBook: Markup
+
+15.  Toon de naam en de hoogte van de planten die tussen de 10 en de 50 cm of de 100 en 150 cm hoog zijn. Naast de hoogte moet de tekst 'cm' worden weergegeven zoals in het voorbeeld hieronder.
+
+>| naam        | planthoogte |
+>|-------------|-------------|
+>| Rododendron | 125cm       |
+>| Zonnebloem  | 150cm       |
+>...
+ > 57 records
+
+-- SQLBook: Code
+SELECT naam,hoogte FROM planten WHERE (hoogte>=10 AND hoogte<= 50) OR (hoogte>=100 AND hoogte<= 150)
+-- SQLBook: Markup
+# 06 - Workshop SQL : Planten
+
+-- SQLBook: Markup
+
+## Oefening 2 - Aggregeren
+-- SQLBook: Code
+SELECT count(*) FROM planten;
+SELECT * FROM planten
+-- SQLBook: Markup
+1. Hoeveel planten telt het assortiment? Geef de kolom de naam ‘aantal planten’. 
+
+-- SQLBook: Code
+SELECT count(*) AS "aantal planten" FROM planten
+-- SQLBook: Markup
+2. Hoeveel planten die bloeien (waarvoor kleur ingevuld) telt het assortiment?
+
+-- SQLBook: Code
+SELECT count(*) FROM planten WHERE kleurID IS NOT NULL
+-- SQLBook: Markup
+3. Hoeveel verschillende bloeikleuren komen er in het assortiment voor? 
+
+-- SQLBook: Code
+SELECT count(DISTINCT `kleurID`) FROM planten
+-- SQLBook: Markup
+4. Bij hoeveel leveranciers werd er reeds een bestelling geplaatst? 
+
+-- SQLBook: Code
+SELECT count(DISTINCT `levCode`) FROM bestellingen
+-- SQLBook: Markup
+5. Hoeveel verschillende artikelen zijn er reeds besteld geweest. 
+
+-- SQLBook: Code
+SELECT count(DISTINCT `artCodeLev`) FROM bestellijnen
+-- SQLBook: Markup
+6. Geef een overzicht van het aantal leveranciers per woonplaats.  
+
+-- SQLBook: Code
+SELECT DISTINCT woonplaats, COUNT(*) FROM leveranciers GROUP BY woonplaats
+-- SQLBook: Markup
+7. Toon voor de tabel planten de gemiddelde hoogte en de som van alle hoogtes gedeeld door het aantal planten. Zijn deze gelijk? Waarom? 
+
+-- SQLBook: Code
+SELECT AVG(hoogte), SUM(hoogte)/COUNT(*) FROM planten
+-- SQLBook: Markup
+8. Welke leveranciers bieden minstens 20 planten aan waarvan de levertermijn kleiner is dan 17 dagen. Toon code van de leverancier en het aantal verschillende planten. De leverancier die het meeste aantal planten aanbiedt staat bovenaan. 
+
+-- SQLBook: Code
+SELECT levCode, COUNT(DISTINCT artCode) as 'count'
+FROM offertes
+WHERE levertermijn < 17
+GROUP BY levCode
+HAVING COUNT(DISTINCT artCode) >= 20
+-- SQLBook: Markup
+9. Geef per bestelling het aantal bestellijnen, gesorteerd op aantal lijnen. 
+
+-- SQLBook: Markup
+10. Wat is de laagste offerteprijs voor de plant met artikelcode 123. 
+
+-- SQLBook: Markup
+11. Hoeveel artikels met artcodelev B111 werden reeds besteld? 
+
+-- SQLBook: Markup
+12. Geef per artikel (artcode) de minimale en maximale offerteprijs. 
+
+-- SQLBook: Markup
+13. Geef per levertermijn de gemiddelde offerteprijs 
+
+-- SQLBook: Markup
+14. Welke is alfabetisch gezien de eerste naam van de planten uit het assortiment. 
+
+-- SQLBook: Markup
+15. Toon de lijst van de woonplaatsen waar 2 of meer leveranciers wonen. Sorteer alfabetisch. 
+-- SQLBook: Markup
+# 06 - Workshop SQL : Planten
+
+-- SQLBook: Markup
+
+## Oefening 3 - Combineren
+
+
+-- SQLBook: Markup
+1. Geef een overzicht (naam, soortnaam en hoogte) van alle waterplanten, gesorteerd op hoogte.
+
+-- SQLBook: Code
+
+-- SQLBook: Markup
+2. Geef een overzicht van de planten gesorteerd op soort en vervolgens op naam die noch boom, noch heester zijn en waarvan de hoogte tussen de 100 en de 200 cm, de kleur rood of blauw is en de bloeiperiode begint voor augustus.
+
+-- SQLBook: Markup
+3. Welke is de laagste prijs per plantensoort van de planten die de volledige periode van mei tot en met juni bloeien. De bloei mag beginnnen voor mei en eindigen na juni.
+
+-- SQLBook: Markup
+4. Toon de verschillende plantsoorten waarvoor rode planten beschikbaar zijn.
+
+-- SQLBook: Markup
+5. Geef een overzicht per soort en per kleur van het aantal verschillende planten.
+
+-- SQLBook: Markup
+6. Toon per leverancier(naam) het aantal artikelen die hij binnen de 18 dagen kan leveren.
+
+-- SQLBook: Markup
+7. Geef per leverdatum in het formaat dd/mm/yyyy en per bestelbon de naam van de leverancier, het totaal aantal artikelen besteld, en de som van het aantal maal de prijs per besteld artikel.
+
+-- SQLBook: Markup
+8. Selecteer de verschillende woonplaatsen van de leveranciers die een offerte gemaakt hebben voor “vaste” planten.
+
+-- SQLBook: Markup
+9. Geef per artikelcode de naam van de plant, laagste offerteprijs, de hoogste offerteprijs. Sorteer op plantnaam.
+
+-- SQLBook: Markup
+10. Geef een overzicht van alle bestellingen: bestelnr, leverdatum in het formaat dd/mm/yyyy, bedrag. Voeg een laatste kolom “opmerking” toe. Indien de besteldatum > 5 maart 2003 dan moet in de laatste kolom de opmerking “te laat” komen, anders komt in de laatste kolom geen opmerking.
+
+-- SQLBook: Markup
+11. Geef per leverancier het aantal verschillende soorten planten waarvoor hij een offerte heeft gemaakt. Sorteer op dalende volgorde van aantal.
+
+-- SQLBook: Markup
+12. Geef per leverancier de verschillende soorten planten waarvoor hij een offerte heeft ingediend.
+
+-- SQLBook: Markup
+13. Toon een lijst van alle vaste planten, gevolgd door de namen van de vaste planten die later op het jaar beginnen te bloeien. Toon de vaste planten die eerst beginnen bloeien bovenaan.
+
+-- SQLBook: Markup
+14. Hoeveel verschillen de gehanteerde bestelprijzen met de huidige offerteprijzen bij dezelfde leverancier. Toon telkens bestelnummer, artikelcode en het positieve of negatieve verschil.
+
+-- SQLBook: Markup
+15. Toon een lijst met bestelnummers, leverancierscode en besteldatum en zorg ervoor dat de de lijst ook de leveranciers bevat waarvoor nog geen bestelling geplaatst werd.

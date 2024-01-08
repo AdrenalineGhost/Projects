@@ -15,8 +15,10 @@ public class Tankstation {
 
 	public boolean tank(int pompNummer, int aantalLiter) {
 		if(
-			pompNummer>=1&&pompNummer<=MAX_POMPEN
-			&&aantalLiter>=MIN_LITER&&aantalLiter<=MAX_LITER
+			pompNummer>=1
+			&&pompNummer<=MAX_POMPEN
+			&&aantalLiter>=MIN_LITER
+			&&aantalLiter<=MAX_LITER
 			&&geefInhoud(pompNummer)>=aantalLiter
 		){
 			pompen[pompNummer-1]-=aantalLiter;
