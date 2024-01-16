@@ -1,0 +1,10 @@
+@startuml bibUCD
+
+usecase "Deposit Funds" as DF
+usecase "Withdraw Cash" as WC
+usecase "Customer Authentication" as CA
+
+DF .> CA : <<include>>
+WC ..> CA : <<include>>
+
+@enduml

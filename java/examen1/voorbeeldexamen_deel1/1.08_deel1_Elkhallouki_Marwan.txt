@@ -1,0 +1,300 @@
+Naam: Elkhallouki
+Voornaam: Marwan
+Klas: 1.08
+
+Vergeet niet je document te hernoemen! Volg de instructies uit de opgave!
+
+Kopieer telkens de inhoud van de volledige klasse onder de correcte titellijn.
+
+//----------------- Plant-----------------
+
+package domein;
+import java.lang.IllegalArgumentException;
+
+public class Plant 
+{
+
+	final private String naam;
+	private char soortCode;
+	private int hoogteInCm;
+	private int aantalInVoorraad;
+	private double prijsInEuro;
+
+	private final static int MIN_HOOGTE =0;
+	private final static int MAX_HOOGTE =400;
+	private final static int BTW_PRECENTAGE =21;
+
+	public Plant(String naam, char soortCode, int hoogteInCm, double prijsInEuro, int aantalInVoorraad){
+		controleerNaam(naam);
+		this.naam = naam; setSoortCode(soortCode); setHoogteInCm(hoogteInCm); setPrijsInEuro(prijsInEuro); setAantalInVoorraad(aantalInVoorraad);
+	}
+
+	public Plant(String naam, char soortCode){
+		this(naam, soortCode, 100, 0, 0);
+	}
+
+
+	public String getNaam() {
+		return naam;
+	}
+
+	public char getSoortCode() {
+		return soortCode;
+	}
+
+	public int getHoogteInCm() {
+		return hoogteInCm;
+	}
+
+	public int getAantalInVoorraad() {
+		return aantalInVoorraad;
+	}
+
+	public double getPrijsInEuro() {
+		return prijsInEuro;
+	}
+
+	private void setSoortCode(char soortCode) {
+		if (soortCode != 'A' &&soortCode != 'B' &&soortCode != 'C') throw new IllegalArgumentException("%s is niet gelijk aan A, B of C.".formatted(soortCode));
+		this.soortCode = soortCode;
+	}
+
+	private void setHoogteInCm(int hoogteInCm) {
+		if (hoogteInCm<=MIN_HOOGTE||hoogteInCm>MAX_HOOGTE) throw new IllegalArgumentException("Hoogte ligt niet tussen [%d , %d].".formatted(MIN_HOOGTE,MAX_HOOGTE));
+		this.hoogteInCm = hoogteInCm;
+	}
+
+	public void setAantalInVoorraad(int aantalInVoorraad) {
+		if (aantalInVoorraad<0) throw new IllegalArgumentException("aantalInVoorraad moet positief zijn.");
+		this.aantalInVoorraad = aantalInVoorraad;
+	}
+
+	public void setPrijsInEuro(double prijsInEuro) {
+		this.prijsInEuro = prijsInEuro;
+	}
+
+	public double berekenVerkoopprijs(){
+		return getPrijsInEuro() * (BTW_PRECENTAGE + 100)/100;
+	}
+
+	private void controleerNaam(String naam){
+		if(naam == null || naam.isBlank()) throw new IllegalArgumentException("Naam mag niet blanco zijn.");
+	}
+	
+}
+
+//----------------- Tuincentrum-----------------
+
+package domein;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import persistentie.PlantMapper;
+
+public class Tuincentrum 
+{
+	private List<Plant> planten;
+	private final PlantMapper plantMapper;
+
+	public Tuincentrum() 
+	{
+		plantMapper = new PlantMapper();
+		this.planten = plantMapper.geefPlanten();
+	}
+
+	public void voegPlantToe(Plant plant) 
+	{ 
+		boolean contains = false;
+		for (Plant currPlant: planten) {
+			if (!contains&&currPlant.getNaam()==plant.getNaam()) {
+				contains = true;
+				currPlant.setAantalInVoorraad(currPlant.getAantalInVoorraad()+plant.getAantalInVoorraad());
+			}
+		}
+	}
+
+	public List<Plant> getPlanten() {
+		return planten;
+	}
+
+	public int[] maakOverzichtPlantenPerHoogte(){
+		int[] count = new int[3];
+		for(Plant plant : planten){
+			int height = plant.getHoogteInCm();
+			count[height<=80?0:(height>100?2:1)]++;
+		}
+		return count;
+	}
+	
+	
+
+	public double bepaalWaardeVerkoop() {
+		double total = 0;
+		for (Plant plant : planten){
+			total += plant.berekenVerkoopprijs()*plant.getAantalInVoorraad();
+		}
+		return total;
+	}
+
+	//TODO geefPlanten
+	public List<Plant> geefPlanten(boolean inVoorraad){
+		if (!inVoorraad) return planten;
+
+		List<Plant> retList = new ArrayList<>();
+		for (Plant plant : planten) if(plant.getAantalInVoorraad()!=0) retList.add(plant);
+		return retList;
+	}
+	
+	
+	
+
+}
+
+//----------------- DomeinController--------------
+
+package domein;
+
+import java.util.List;
+
+import dto.PlantDTO;
+
+public class DomeinController 
+{
+	private Tuincentrum tuincentrum;
+
+	public DomeinController() {
+		tuincentrum = new Tuincentrum();
+	}
+
+	public void voegPlantToe(String naam, char soortCode, int hoogteInCm, double prijsInEuro, int aantalInVoorraad) {
+		tuincentrum.voegPlantToe(new Plant(naam, soortCode, hoogteInCm, prijsInEuro, aantalInVoorraad));
+	}
+
+	public PlantDTO[] geefAllePlanten(boolean inVoorraad) {
+		List<Plant> planten = tuincentrum.geefPlanten(inVoorraad);
+		PlantDTO[] plantDTO = new PlantDTO[planten.size()];
+
+		int itt = 0;
+
+		for (Plant plant : planten) {
+			plantDTO[itt++] = new PlantDTO(plant.getNaam(), plant.getSoortCode(), plant.getHoogteInCm(), plant.getPrijsInEuro(), plant.getAantalInVoorraad());
+		}
+
+		return plantDTO;
+	}
+
+	
+	public double bepaalWaardeVerkoop()
+	{
+		return tuincentrum.bepaalWaardeVerkoop();
+	}
+
+	public int[] maakOverzichtPlantenPerHoogte() 
+	{
+		return tuincentrum.maakOverzichtPlantenPerHoogte();
+	}
+
+}
+
+//----------------- TuincentrumApplicatie---------------
+
+package cui;
+
+import java.util.Scanner;
+
+import domein.DomeinController;
+import domein.Plant;
+import dto.PlantDTO;
+
+public class TuincentrumApplicatie 
+{
+	private final DomeinController dc;
+	
+	private Scanner sc = new Scanner(System.in);
+
+	public TuincentrumApplicatie(DomeinController dc) {
+		this.dc =dc;
+	}
+
+	public void start() 
+	{
+		int keuze;
+		do{
+		String[] menuKeuzes = {"Toon overzicht alle planten", "Toon overzicht voorradige planten","Voeg plant toe","Geef overzicht per hoogte",  "Geef verkoopwaarde", "Stoppen"};
+		keuze = maakMenuKeuze(menuKeuzes,"Wat kies je? ");
+		switch (keuze){
+			case 0 -> geefPlantenInVoorraad(false);
+			case 1 -> geefPlantenInVoorraad(true);
+			case 2 -> voegPlantToe();
+			case 3 -> maakOverzichtPlantenPerHoogte();
+			default -> toonVerkoopWaarde();
+		}
+		} while (keuze != 5);
+	}
+	
+	private int maakMenuKeuze(String[] keuzes, String hoofding) 
+	{
+		System.out.println(hoofding);
+		for (int i = 0; i < keuzes.length; i++) System.out.println("%d\t%s".formatted(i,keuzes[i]));
+
+		int in =-1;
+		in = sc.nextInt();
+		while(in<0||in>=keuzes.length){
+			System.out.println("%d ligt niet tussen 0 en %d!".formatted(in, keuzes.length-1));
+			in = sc.nextInt();
+		}
+		return in;
+	}
+
+
+	private void toonVerkoopWaarde(){
+		System.out.println("De totale verkoopprijs indien alles verkocht wordt zal neerkomen op %.2f euro.".formatted(dc.bepaalWaardeVerkoop()));
+	}
+
+
+	private void voegPlantToe()
+	{
+		System.out.println("Geef in deze volgorde: naam, soortcode, hoogte, prijs(in euro) en hoeveelheid in vooraad:\n");
+		dc.voegPlantToe(sc.next(), sc.next().charAt(0), sc.nextInt(), sc.nextDouble(), sc.nextInt());
+	}
+	
+	
+	// Bepaal aantal planten tss 0-80cm, 80cm-1m, groter dan 1 m
+	private void maakOverzichtPlantenPerHoogte()
+	{
+		int[] inta = dc.maakOverzichtPlantenPerHoogte();
+		System.out.println("%20s%20s%20s%n%20s%20s%20s".formatted("Kleiner dan 80cm","80-100 cm","Groter dan 1m",inta[0],inta[1],inta[2]));
+	}
+	
+	private void geefPlantenInVoorraad(boolean inVoorraad)
+	{
+		PlantDTO[] planten = dc.geefAllePlanten(inVoorraad);
+		for (PlantDTO plant : planten) {
+			System.out.println(plant);
+		}
+	}
+}
+
+//----------------- PlantDTO--------
+
+package dto;
+
+public record PlantDTO(String naam, char soortCode, int hoogteInCm, double prijsInEuro, int aantalInVoorraad) { }
+
+//----------------- StartUp---------
+package main;
+
+import cui.TuincentrumApplicatie;
+import domein.DomeinController;
+
+public class StartUp {
+
+	public static void main(String[] args) 
+	{
+		new TuincentrumApplicatie(new DomeinController()).start();
+	}
+}
+
+
+

@@ -1,0 +1,36 @@
+@startuml
+skinparam linetype ortho
+
+class DomeinController{
+    +DomeinController()
+    +startWedstrijd(naam : String, spelletjes : int) : void
+    +speelSpel(keuze : int) : void
+    +getComputerKeuze() : int
+    +getWinnaarSpel() : int
+    +getWinnaarWedstrijd() : int
+    +getScores() : int[2]
+}
+
+class Wedstrijd{
+    -naam : String
+    -aantalSpelletjes : int
+    <-score : int[2]
+    +Wedstrijd(naam : String, aantalSpelletjes : int)
+    -setNaam(naam : String) : void
+    -setAantalSpelletjes(aantal : int) : void
+    -voegPuntToe(speler : int) : void
+    +getComputerKeuze() : int
+    -berekenWinnaar() : int
+
+}
+
+class Spel{
+}
+
+DomeinController "1" x---> "0..1" Wedstrijd : "-wedstrijd"
+Wedstrijd "1" x---> "0..1" Spel : "-spel"
+
+
+
+
+@enduml

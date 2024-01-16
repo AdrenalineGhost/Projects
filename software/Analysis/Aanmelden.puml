@@ -1,0 +1,40 @@
+@startuml AanmeldenAD
+note: Elke van deze paden zal een UseCase worden\nBv. Geldig passwd, ongeldig naar meer dan max, en de 2 andere.
+
+start
+:De abonnee wenst aan te melden.;
+repeat
+    :Het systeem vraagt login en paswoord.;
+    :De abonnee geeft login en paswoord in.;
+    :Het systeem controleert of login en paswoord matchen.;
+    if () then ([Ongeldig])
+        :Het systeem verhoogt het aantal ongeldige pogingen met 1.;
+        :Het systeem valideert het aantal ongeldige pogingen volgens DR_Login.;
+        if () then ([>=max .aantal])
+            :Het systeem geeft een gepaste melding.;
+            stop
+        else ([<max .aantal])
+            :Het systeem geeft een gepaste melding.;
+        endif
+    else ([Geldig])
+        :Het systeem registreert de abonnee als aangemeld.;
+        stop
+        note:[Het systeem heeft de abonnee aangemeld]
+@enduml
+
+
+@startuml AanmeldenSSD
+
+actor Abonnee as A
+participant Systeem as S
+
+activate A
+A -> S++ : startAanmelding()
+A -> S : meldAan(login, wachtwoord)
+loop "Zolang ongeldig passwd of login"
+    A <-- S-- : melding
+    A -> S : meldAan(login, wachtwoord)
+else "DR_login >= maxAantal"
+    A <-- S-- : melding
+end
+@enduml

@@ -1,0 +1,77 @@
+Naam:
+Voornaam:
+Klas:
+
+Vergeet niet je document te hernoemen! 
+Volg de instructies uit de opgave!
+
+=========================================Vraag 1=========================================
+
+Vul de code hier rechtstreeks aan! Noteer dus enkel wat ontbreekt op het opgaveblad.
+Tip: Je hebt geen tijd om al deze code over te nemen in Eclipse.
+Als je geen code moet aanvullen zet je specifiek “Niets aan te vullen”.
+
+Code 1a:
+
+
+Code 1b:
+
+
+Code 2: 
+
+
+Code 3: 
+
+
+Code 4a: 
+
+
+Code 4b: 
+
+
+Code 5:
+
+=========================================Vraag 2=========================================
+
+Hiervoor moet je alleen het .vpp-bestand uploaden!
+
+=========================================Vraag 3=========================================
+
+Deel 1 - Vul hieronder de test cases voor de constructor Lift aan.
+
+Test-case 1.1
+- laagsteVerdieping = 
+- hoogsteVerdieping = 
+- verwacht resultaat = 
+
+Test-case 1.2
+- laagsteVerdieping = 
+- hoogsteVerdieping = 
+- verwacht resultaat = 
+
+Test-case 1.3
+- laagsteVerdieping = 
+- hoogsteVerdieping = 
+- verwacht resultaat = 
+
+Test-case 1.4
+- laagsteVerdieping = 
+- hoogsteVerdieping = 
+- verwacht resultaat = 
+
+Test-case 1.5
+- laagsteVerdieping = 
+- hoogsteVerdieping = 
+- verwacht resultaat = 
+
+Test-case 1.6
+- laagsteVerdieping = 
+- hoogsteVerdieping = 
+- verwacht resultaat = 
+
+Test-case 1.7
+- laagsteVerdieping = 
+- hoogsteVerdieping = 
+- verwacht resultaat = 
+
+Deel 2 - Plak hieronder de klasse LiftTest met de unit testen voor de methode gaNaarOmhoog.

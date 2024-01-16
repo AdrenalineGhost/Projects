@@ -1,0 +1,32 @@
+@startuml
+skinparam Linetype ortho
+left to right direction
+
+together tog{
+    top to bottom direction
+    actor Gebruiker
+    actor Speler
+    actor SpelBeheerder
+}
+
+rectangle "Bevat Functionele Requirements"{
+    left to right direction
+    usecase "Account Registreren" as AR
+    usecase Aanmelden
+    usecase "Kredietaanvraag Indienen" as KI
+    usecase "Dobbelsteenspel Spelen" as DS
+    usecase "Kredietaanvraag Behandelen" as KB
+ }
+
+Gebruiker -- AR
+
+Speler -- Aanmelden
+Speler -- KI
+Speler -- DS
+
+SpelBeheerder -- Aanmelden
+SpelBeheerder -- KB
+
+note bottom of tog: Primary Actors
+
+@enduml
